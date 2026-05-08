@@ -53,6 +53,7 @@
 ### 2. Pre-Release Attention and Awareness Signals
 
 - Google Trends activity for actors, directors, franchises/IP, and film titles leading up to release.
+- Actor/director x film titles Google Trends activity leading up to release
 
 ### 3. Relative Market Positioning Features
 
