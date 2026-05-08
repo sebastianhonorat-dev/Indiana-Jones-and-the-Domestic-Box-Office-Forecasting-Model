@@ -1,184 +1,227 @@
 # Research Findings
-### 1. Interaction effects matter a LOT.
 
-One paper (Karniouchina, 2011) repeatedly found:
-star buzz × movie buzz interaction terms were important.
+## 1. Interaction Effects Matter Significantly
 
-**Meaning:**
-a famous actor alone isn’t enough.
-A buzzy movie alone isn’t enough.
-Together they amplify each other.
+Karniouchina (2011) repeatedly found that interaction terms between *star buzz* and *movie buzz* were highly important predictors.
 
-### 2. Valence underperformed compared to volume.
+### Key Insight
+A famous actor alone is not enough.  
+A highly discussed movie alone is not enough.  
 
-This keeps showing up in movie literature (Karniouchina, 2011; Kazi, 2016).
+However, when both are present simultaneously, their effects amplify each other substantially.
 
-Papers says:
-
-sentiment affected buzz volume indirectly
-but not revenue directly
-
-Meaning:
-people talking may matter more than whether they’re mildly positive or negative.
-
-### 3. Industry behavior itself adapts to expected demand.
-
-A paper (Karniouchina, 2011) found distributors allocated FEWER opening screens to ultra-buzzy movies sometimes.
-
-Why? 
-
-The author assume distributor expected consumers to “go the extra mile” to see those movies anyway.
-
-### 4. High entropy strengthened the effect of WOM on sales.
-
-Meaning:
-people trusted ratings MORE when reviews looked naturally mixed (Lee et al., 2017).
-
-They also found average numeric ratings alone were weak/non-significant.
-
-But:
-rating × entropy interaction mattered.
-
-The paper argues people EXPECT disagreement for movies because movies are 'preference goods.'
-
-### 5. text and stars are NOT interchangeable.
-
-A paper (Lee et al., 2017) found numeric ratings and actual text sentiment distributions were DIFFERENT.
-
-This is huge because users normally rate similiarly to displayed average rating, but they express more nuanced feelings when writing text.
-
-Someone may give a movie with an average rathing of 9.5, a 9/10 but write:
-
-* “great visuals but weak ending”
-* “fun but overrated”
-
-### 6. Sequels decay faster
-
-Sequels have stronger first weeks but worse retention afterward
-
-Meaning:
-they pull demand forward.
-
-A paper (Dhar et al., 2011) calls this 'front loading.'
-
-### 7. Historical entity performance is probably one of the strongest pre-release signal families
-Their best features (Ahmed et al., 2019) were basically:
-* prior actor success
-* prior director success
-* prior genre success
-* experience metrics
-
-That aligns with industry intuition too.
-
-### 8. First-weekend behavior differed MORE strongly across movie slices than total gross behavior.
-
-Their theory (Antipov & Pokryshevskaya, 2011):
-
-* studios can adjust marketing later to compensate for weak openings.
-
-Meaning: opening weekend may reflect intrinsic positioning more directly, while long-run revenue becomes more dynamic.
-
-### 9. Informative movie titles help under-promoted movies significantly.
-
-But once marketing becomes large enough or familiar IP is involved, title quality matters much less.
-
-Example:
-
-* “Paranormal Activity”
-* “My Big Fat Greek Wedding”
-* “Night of the Living Dead”
-
-These titles instantly communicate tone, genre, premise, and vibe
-
-While something like:
-
-* “Lucy”
-* “Joe”
-* “Broken”
-
-tells you almost nothing.
-
-The paper (Bae & Kim, 2019) also found title effects were strongest during opening week and faded quickly afterward.
-
-### 10. Studios don’t release movies randomly.
-
-A paper (Belleflamme & Paolini, 2018) argues:
-high-budget movies intentionally cluster near demand peaks:
-
-* summer
-* holidays
-* Thanksgiving
-* Memorial Day
-* Christmas
-
-BUT they avoid releasing DIRECTLY against similar genre competitors.
-
-Example:
-Two R-rated horror films releasing together may cannibalize each other heavily.
-
-But:
-a Pixar film and horror film may coexist fine.
-
-Also, lower budger films may avoid those demand peak windows because they would get crushed by competition.
-
-### 11. Ex ante vs Ex post predictors
-
-This paper (Brewer et al., 2009) seperates infomation that is available before release and after release.
-
-Their strongest ex ante predictors:
-
-* production budget
-* sequel/pre-existing audience
-* critic reviews
-* summer release
-* holiday release
-
-Their strongest ex post predictors:
-
-* screen count
-* word of mouth
-* awards
-* stars
-* audience scores
-
-Their ex ante model had:
-Adjusted R² ≈ 0.41
-
-Their stronger ex post model reached:
-Adjusted R² ≈ 0.65
-
-### 12. Pre-release prediction is MUCH harder
-
-They (Dursun Delen & Sharda, 2008) explicitly note:
-once opening weekend arrives, prediction becomes far easier.
-
-The hard problem is pre-release uncertainty.
-
-### 13. Effects differ across revenue quantiles.
-
-According to Feng & Sharma (2016), features matter differently for:
-
-* bombs
-* mid-tier films
-* blockbusters
-
-My tree-model intuition is probably right, so XGB may implicitly capture these nonlinear regimes already.
-
-### 14. Audiences behaved differently toward imported vs domestic films.
-
-Different audience ecosystems may obey different rules (Feng & Sharma, 2016).
-
-### 15. Summer movies don’t only perform better because more people go to theaters.
-
-They also perform better because studios intentionally save their strongest movies for summer.
-
-It means:
-release timing is partially a SIGNAL OF STUDIO CONFIDENCE.
-
-The paper (Einav, 2007) argues distributors often avoid placing strong movies into weak periods even if competition is lighter.
+This suggests that pre-release attention may behave multiplicatively rather than additively.
 
 ---
-## References
+
+## 2. Buzz Volume Outperformed Sentiment Valence
+
+Several papers (Karniouchina, 2011; Kazi, 2016) found that the *amount* of discussion surrounding a film was more predictive than whether discussions were slightly positive or negative.
+
+### Key Insight
+Sentiment primarily affected buzz volume indirectly rather than revenue directly.
+
+This implies that audience engagement itself may matter more than mild variations in positivity or negativity.
+
+---
+
+## 3. Industry Behavior Adapts to Expected Demand
+
+Karniouchina (2011) observed that distributors sometimes allocated *fewer* opening screens to extremely buzzy films.
+
+### Proposed Explanation
+Distributors may assume consumers are willing to “go the extra mile” to see highly anticipated films regardless of theater availability.
+
+This suggests that release strategy itself may contain information about expected demand.
+
+---
+
+## 4. Review Entropy Strengthened WOM Effects
+
+Lee et al. (2017) found that higher review entropy strengthened the impact of ratings on sales.
+
+### Key Insight
+Consumers appeared to trust ratings more when reviews showed natural disagreement.
+
+Average ratings alone were often weak or statistically insignificant. However:
+
+- `rating × entropy` interaction effects were important.
+
+The paper argues that movies are “preference goods,” meaning audiences expect disagreement in opinions.
+
+---
+
+## 5. Numeric Ratings and Text Sentiment Are Not Equivalent
+
+Lee et al. (2017) also found that numeric ratings and written review sentiment distributions behaved differently.
+
+### Key Insight
+Users often conform to visible average ratings numerically while expressing more nuanced opinions in text.
+
+For example, a viewer may rate a movie highly while still writing:
+
+- “Great visuals but weak ending”
+- “Fun but overrated”
+
+This suggests that textual sentiment may contain richer information than aggregate numeric scores alone.
+
+---
+
+## 6. Sequels Experience Faster Revenue Decay
+
+Dhar et al. (2011) found that sequels tend to produce:
+
+- stronger opening weekends,
+- but weaker long-term retention.
+
+### Key Insight
+Sequels appear to pull demand forward into the earliest release window, a phenomenon described as **front loading**.
+
+---
+
+## 7. Historical Entity Performance Is a Strong Pre-Release Signal
+
+Ahmed et al. (2019) found that many of the strongest predictive features were based on historical performance metrics, including:
+
+- prior actor success,
+- prior director success,
+- prior genre success,
+- and experience-related metrics.
+
+### Key Insight
+Historical performance appears to be one of the most reliable families of pre-release predictors.
+
+---
+
+## 8. Opening Weekend Behavior Varies More Across Film Segments
+
+Antipov & Pokryshevskaya (2011) found that opening weekend performance differed more strongly across movie “slices” than total gross performance.
+
+### Proposed Explanation
+Studios can later adjust marketing strategies to compensate for weak openings.
+
+This suggests:
+
+- opening weekend may reflect intrinsic positioning more directly,
+- while total gross becomes increasingly influenced by dynamic post-release adjustments.
+
+---
+
+## 9. Informative Titles Help Under-Promoted Films
+
+Bae & Kim (2019) found that descriptive or informative titles significantly benefited films with weaker marketing support.
+
+### Examples of Informative Titles
+- *Paranormal Activity*
+- *My Big Fat Greek Wedding*
+- *Night of the Living Dead*
+
+These titles immediately communicate genre, tone, or premise.
+
+### Less Informative Examples
+- *Lucy*
+- *Joe*
+- *Broken*
+
+The paper also found that title effects were strongest during opening weekend and faded over time.
+
+---
+
+## 10. Studios Do Not Release Films Randomly
+
+Belleflamme & Paolini (2018) argue that release timing reflects strategic positioning decisions.
+
+### Observed Patterns
+High-budget films cluster around demand peaks such as:
+
+- summer,
+- holidays,
+- Thanksgiving,
+- Memorial Day,
+- and Christmas.
+
+However, studios often avoid releasing directly against highly similar competitors.
+
+### Example
+Two R-rated horror films releasing simultaneously may heavily cannibalize each other, while a Pixar film and a horror film may coexist more effectively.
+
+Lower-budget films may intentionally avoid peak windows due to competitive pressure.
+
+---
+
+## 11. Ex Ante vs Ex Post Prediction
+
+Brewer et al. (2009) separated predictors into:
+
+- **Ex ante predictors** (available before release),
+- **Ex post predictors** (available after release).
+
+### Strongest Ex Ante Predictors
+- production budget,
+- sequel or pre-existing audience,
+- critic reviews,
+- summer release,
+- holiday release.
+
+### Strongest Ex Post Predictors
+- screen count,
+- word of mouth,
+- awards,
+- stars,
+- audience scores.
+
+### Reported Performance
+- Ex ante model: Adjusted R² ≈ 0.41
+- Ex post model: Adjusted R² ≈ 0.65
+
+### Key Insight
+Prediction accuracy improves substantially once post-release information becomes available.
+
+---
+
+## 12. Pre-Release Prediction Is Substantially Harder
+
+Delen & Sharda (2008) explicitly note that prediction becomes much easier once opening weekend data exists.
+
+### Key Insight
+The true challenge is modeling uncertainty *before* release.
+
+---
+
+## 13. Feature Effects Differ Across Revenue Quantiles
+
+Feng & Sharma (2016) found that predictor importance varies across:
+
+- bombs,
+- mid-tier films,
+- and blockbusters.
+
+### Key Insight
+Movie performance likely operates within nonlinear regimes rather than a single global relationship.
+
+This supports the use of flexible models such as XGBoost that can capture heterogeneous effects implicitly.
+
+---
+
+## 14. Imported and Domestic Films Behave Differently
+
+Feng & Sharma (2016) also found that imported and domestic films follow different audience dynamics.
+
+### Key Insight
+Different audience ecosystems may obey different predictive rules, suggesting that combining them may introduce noise into a unified model.
+
+---
+
+## 15. Release Timing May Signal Studio Confidence
+
+Einav (2007) argues that summer movies do not outperform solely because more consumers attend theaters during summer.
+
+### Key Insight
+Studios intentionally reserve many of their strongest films for high-demand periods.
+
+As a result, release timing itself may partially act as a signal of studio confidence in the film’s expected performance.
+
+---
 
 # References
 
