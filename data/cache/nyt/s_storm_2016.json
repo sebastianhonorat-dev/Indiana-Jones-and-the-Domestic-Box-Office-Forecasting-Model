@@ -1,0 +1,612 @@
+[
+  {
+    "abstract": "The American Shore and Beach Preservation Association says communities with healthy coastal systems appear to have less damage from Hurricane Matthew.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Beaches in the Storm",
+      "kicker": "Letter",
+      "print_headline": "Beaches in the Storm"
+    },
+    "_id": "nyt://article/62bdef67-eb33-5233-a5d0-ce1d494f81dc",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Coast Erosion",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Hurricane Sandy (2012)",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Letters",
+    "print_page": "26",
+    "print_section": "A",
+    "pub_date": "2016-10-13T17:44:32Z",
+    "section_name": "Opinion",
+    "snippet": "The American Shore and Beach Preservation Association says communities with healthy coastal systems appear to have less damage from Hurricane Matthew.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/62bdef67-eb33-5233-a5d0-ce1d494f81dc",
+    "web_url": "https://www.nytimes.com/2016/10/14/opinion/beaches-in-the-storm.html",
+    "word_count": 178
+  },
+  {
+    "abstract": "Matthew came ashore in McClellanville, S.C., as a Category 1 storm. Officials in Georgia, North Carolina and Florida reported deaths tied to the storm.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Hurricane Matthew Blamed for 11 Deaths in U.S.; Carolinas and Georgia Hit With Severe Flooding",
+      "kicker": "",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/a71ba1c6-5f3c-5529-802f-26018ca55883",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Florida",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "South Carolina",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "A home inundated by floodwaters on the South Carolina coast on Saturday.",
+      "credit": "Sean Rayford for The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/10/08/us/politics/08MATTHEW-4/08MATTHEW-4-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/10/08/us/politics/08MATTHEW-4/08MATTHEW-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "National",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2016-10-08T04:01:29Z",
+    "section_name": "U.S.",
+    "snippet": "Matthew came ashore in McClellanville, S.C., as a Category 1 storm. Officials in Georgia, North Carolina and Florida reported deaths tied to the storm.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/a71ba1c6-5f3c-5529-802f-26018ca55883",
+    "web_url": "https://www.nytimes.com/2016/10/08/us/hurricane-matthew.html",
+    "word_count": 1517
+  },
+  {
+    "abstract": "North Carolina’s governor said the death toll from the storm had reached eight in a state still saturated from heavy rains in September.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Hurricane Matthew Toll Climbs to at Least 17 as North Carolina Suffers Record-Breaking Flooding",
+      "kicker": "",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/b7511e3b-b35c-5c27-b623-4eff459560b0",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Florida",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "South Carolina",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "A home inundated by floodwaters on the South Carolina coast on Saturday.",
+      "credit": "Sean Rayford for The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/10/08/us/politics/08MATTHEW-4/08MATTHEW-4-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/10/08/us/politics/08MATTHEW-4/08MATTHEW-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "National",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2016-10-09T04:04:24Z",
+    "section_name": "U.S.",
+    "snippet": "North Carolina’s governor said the death toll from the storm had reached eight in a state still saturated from heavy rains in September.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b7511e3b-b35c-5c27-b623-4eff459560b0",
+    "web_url": "https://www.nytimes.com/2016/10/09/us/hurricane-matthew.html",
+    "word_count": 1202
+  },
+  {
+    "abstract": "Haiti, the country in the Caribbean least able to handle a big storm, girds for a powerful blow from Hurricane Matthew.",
+    "byline": {
+      "original": "By Andrew C. Revkin"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "As Navy Heads to Haiti, Hurricane Matthew Threatens U.S. Coast",
+      "kicker": "Dot Earth",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/414eca8a-b14c-5a35-aa8c-0c8fef883357",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Disasters and Emergencies",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Weather",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "National Hurricane Center",
+        "rank": 4
+      },
+      {
+        "name": "Location",
+        "value": "Caribbean Area",
+        "rank": 5
+      },
+      {
+        "name": "Location",
+        "value": "Cuba",
+        "rank": 6
+      },
+      {
+        "name": "Location",
+        "value": "Haiti",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "The Oct. 3 map of the probability of tropical-storm-force winds from Hurricane Matthew.",
+      "credit": "National Hurricane Center",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/10/03/blogs/dotmatthew/dotmatthew-articleLarge.gif",
+        "height": 364,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/10/03/blogs/dotmatthew/dotmatthew-thumbStandard.gif",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "OpEd",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2016-10-03T15:45:53Z",
+    "section_name": "Opinion",
+    "snippet": "Haiti, the country in the Caribbean least able to handle a big storm, girds for a powerful blow from Hurricane Matthew.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/414eca8a-b14c-5a35-aa8c-0c8fef883357",
+    "web_url": "https://dotearth.blogs.nytimes.com/2016/10/03/haiti-most-imperiled-as-hurricane-matthew-roars-north/",
+    "word_count": 1271
+  },
+  {
+    "abstract": "Its program at the 92nd Street Y will include new work by the composer George Tsontakis, and the pianist Jeremy Denk as a soloist.",
+    "byline": {
+      "original": "By Corinna da Fonseca-Wollheim"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "St. Paul Chamber Orchestra Comes to New York",
+      "kicker": "",
+      "print_headline": "Classical; An Overdue Visit From Minnesota"
+    },
+    "_id": "nyt://article/567dd30d-744a-5141-be48-7c10cd815d39",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Classical Music",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Ninety-Second Street Y",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "St Paul Chamber Orchestra",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Denk, Jeremy",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Tsontakis, George",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "Jeremy Denk will be playing on a program with the St. Paul Chamber Orchestra.",
+      "credit": "Steve J. Sherman",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/10/09/arts/109WEEKAHEAD5/109WEEKAHEAD5-articleLarge.jpg",
+        "height": 600,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/10/09/arts/109WEEKAHEAD5/109WEEKAHEAD5-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Arts&Leisure",
+    "print_page": "4",
+    "print_section": "AR",
+    "pub_date": "2016-10-05T13:35:44Z",
+    "section_name": "Arts",
+    "snippet": "Its program at the 92nd Street Y will include new work by the composer George Tsontakis, and the pianist Jeremy Denk as a soloist.",
+    "source": "The New York Times",
+    "subsection_name": "Music",
+    "type_of_material": "News",
+    "uri": "nyt://article/567dd30d-744a-5141-be48-7c10cd815d39",
+    "web_url": "https://www.nytimes.com/2016/10/09/arts/music/st-paul-chamber-orchestra-comes-to-new-york.html",
+    "word_count": 116
+  },
+  {
+    "abstract": "Astronomers say the giant swirling storm on the solar system’s largest planet is generating quite a bit of heat for its upper atmosphere.",
+    "byline": {
+      "original": "By Kenneth Chang"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Jupiter’s Great Red Spot Is Also Very Hot",
+      "kicker": "Trilobites",
+      "print_headline": "Heat Waves: The Great Red Hot"
+    },
+    "_id": "nyt://article/ab5b26d1-dda3-5986-bfb8-db775b98fc7b",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Chang, Kenneth",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Jupiter (Planet)",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Juno (Spacecraft)",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "Nature (Journal)",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Space and Astronomy",
+        "rank": 6
+      },
+      {
+        "name": "Person",
+        "value": "O'Donoghue, James (Astronomer)",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Temperature",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "An illustration of Jupiter’s great red spot.",
+      "credit": "Dillon Yothers, with Luke Moore",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/07/28/science/27JUPITER/27JUPITER-articleLarge.jpg",
+        "height": 593,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/07/28/science/27JUPITER/27JUPITER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Science",
+    "print_page": "2",
+    "print_section": "D",
+    "pub_date": "2016-07-27T17:00:29Z",
+    "section_name": "Science",
+    "snippet": "Astronomers say the giant swirling storm on the solar system’s largest planet is generating quite a bit of heat for its upper atmosphere.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ab5b26d1-dda3-5986-bfb8-db775b98fc7b",
+    "web_url": "https://www.nytimes.com/2016/07/28/science/jupiter-great-red-spot.html",
+    "word_count": 676
+  },
+  {
+    "abstract": "With only a few exceptions, Oct. 17 is the deadline for those who requested filing extensions last April.",
+    "byline": {
+      "original": "By Ann Carrns"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "It’s Almost Tax Day Again, for Those Who Postponed",
+      "kicker": "Your Money Adviser",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/30cb9ded-77a5-5792-a9c5-5b178aa14ed9",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Internal Revenue Service",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Federal Taxes (US)",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2016-10-12T20:57:56Z",
+    "section_name": "Your Money",
+    "snippet": "With only a few exceptions, Oct. 17 is the deadline for those who requested filing extensions last April.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/30cb9ded-77a5-5792-a9c5-5b178aa14ed9",
+    "web_url": "https://www.nytimes.com/2016/10/13/your-money/its-almost-tax-day-again-for-those-who-postponed.html",
+    "word_count": 640
+  },
+  {
+    "abstract": "The bride owns a design company, and the groom is pursuing an M.B.A.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Tess Golden, Dimitri Wohns",
+      "kicker": "",
+      "print_headline": "Tess Golden,  Dimitri Wohns"
+    },
+    "_id": "nyt://article/fd783280-591b-5627-bb47-8dc022f8a96d",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Weddings and Engagements",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "Eiza Photography",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/10/30/fashion/weddings/30GOLDEN/30GOLDEN-articleLarge-v2.jpg",
+        "height": 354,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/10/30/fashion/weddings/30GOLDEN/30GOLDEN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Society",
+    "print_page": "18",
+    "print_section": "ST",
+    "pub_date": "2016-10-30T04:28:03Z",
+    "section_name": "Fashion",
+    "snippet": "The bride owns a design company, and the groom is pursuing an M.B.A.",
+    "source": "The New York Times",
+    "subsection_name": "Love",
+    "type_of_material": "News",
+    "uri": "nyt://article/fd783280-591b-5627-bb47-8dc022f8a96d",
+    "web_url": "https://www.nytimes.com/2016/10/30/fashion/weddings/tess-golden-dimitri-wohns.html",
+    "word_count": 308
+  },
+  {
+    "abstract": "Dr. Gray aggregated measures of atmospheric conditions, water current and water temperature to predict the number and intensity of tropical storms.",
+    "byline": {
+      "original": "By Sam Roberts"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "William M. Gray, Hurricane Predictor and Climate Change Skeptic, Dies at 86",
+      "kicker": "",
+      "print_headline": "William M. Gray, 86, a Predictor of Hurricanes’ Fury"
+    },
+    "_id": "nyt://article/89a0c675-858a-570d-b7c9-629fc7e065d0",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Roberts, Sam",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Weather",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Gray, William M",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Global Warming",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "William M. Gray at a conference on hurricanes in 2008.\n\n",
+      "credit": "Wilfredo Lee/Associated Press",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/04/20/us/20gray-obit/20gray-obit-articleLarge.jpg",
+        "height": 394,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/04/20/us/20gray-obit/20gray-obit-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "National",
+    "print_page": "23",
+    "print_section": "A",
+    "pub_date": "2016-04-21T02:10:31Z",
+    "section_name": "U.S.",
+    "snippet": "Dr. Gray aggregated measures of atmospheric conditions, water current and water temperature to predict the number and intensity of tropical storms.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Obituary (Obit)",
+    "uri": "nyt://article/89a0c675-858a-570d-b7c9-629fc7e065d0",
+    "web_url": "https://www.nytimes.com/2016/04/21/us/william-m-gray-hurricane-predictor-and-climate-change-skeptic-dies-at-86.html",
+    "word_count": 629
+  },
+  {
+    "abstract": "A new drug, Sileo, has been developed to help with canine noise phobia. But you play the key role in making your pet more comfortable.",
+    "byline": {
+      "original": "By Jan Hoffman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A New Treatment for Dogs Scared by Thunder and Fireworks",
+      "kicker": "Well",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/88a0d3e8-9e92-538a-b601-1c8131f30021",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Anxiety and Stress",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Dogs",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Noise",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "Storms frighten Stella, a miniature breed.",
+      "credit": "Gabriella Demczuk for The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2016/06/28/science/28MADDOGSCOVERALT/28MADDOGSCOVERALT-articleLarge.jpg",
+        "height": 900,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2016/06/28/science/28MADDOGSCOVERALT/28MADDOGSCOVERALT-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Science",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2016-06-28T06:30:49Z",
+    "section_name": "Health",
+    "snippet": "A new drug, Sileo, has been developed to help with canine noise phobia. But you play the key role in making your pet more comfortable.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/88a0d3e8-9e92-538a-b601-1c8131f30021",
+    "web_url": "https://well.blogs.nytimes.com/2016/06/28/why-thunder-and-fireworks-make-dogs-anxious/",
+    "word_count": 1137
+  }
+]

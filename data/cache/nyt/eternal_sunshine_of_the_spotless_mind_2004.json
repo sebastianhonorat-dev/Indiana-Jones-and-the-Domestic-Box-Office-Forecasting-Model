@@ -1,0 +1,650 @@
+[
+  {
+    "abstract": "Correction of March 19 review of film Eternal Sunshine of the Spotless Mind concerning character played by Kirsten Dunst",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Corrections",
+      "kicker": "",
+      "print_headline": "Corrections"
+    },
+    "_id": "nyt://article/0bde74bc-c8b8-52ee-8c14-e981bf1d9d5e",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Dunst, Kirsten",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Correction Stories",
+        "rank": 3
+      },
+      {
+        "name": "Title",
+        "value": "Eternal Sunshine of the Spotless Mind (Movie)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metropolitan Desk",
+    "print_page": "00002",
+    "print_section": "A",
+    "pub_date": "2004-03-24T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Correction of March 19 review of film Eternal Sunshine of the Spotless Mind concerning character played by Kirsten Dunst",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Correction",
+    "uri": "nyt://article/0bde74bc-c8b8-52ee-8c14-e981bf1d9d5e",
+    "web_url": "https://www.nytimes.com/2004/03/24/nyregion/c-corrections-923982.html",
+    "word_count": 45
+  },
+  {
+    "abstract": "Michel Gondry's film, an angular and intelligent romantic comedy, isn't entirely consistent. Even as you laugh, it's a movie you admire more than love. Mr. Gondry, displaying an impressively quicksilver, scrambling technique, is working with a much better script than he had for &quot;Human Nature,&quot; his previous collaboration with the screenwriter Charlie Kaufman (&quot;Being John Malkovich,&quot; &quot;Adaptation&quot;).  Kate Winslet is Clem, the brash, loquacious bookstore employee who meets Joel (Jim Carrey) as he wanders the streets alone on Valentine's Day. The two of them fall in love under a glum, flannel cloud cover that could use some eternal sunshine.  After they break up, Joel's ego is bruised when he finds out that Clem has had all memories of him erased from her mind. Devastated, he goes for the same treatment. Mr. Kaufman has conjured the film equivalent of a Philip K. Dick Hallmark card. The movie has all of the knickknacks of a Kaufman script, including a nerdy, socially inept protagonist. In the case of &quot;Mind,&quot; this translates into Joel's being the least developed character. Mr. Carrey does get to show some aplomb in the final scene, when Joel acts out the most mature sentiment ever found in a Kaufman script, that having one's psyche purged isn't necessarily a good thing. What becomes of the broken-hearted, after the conversation has dimmed, is that they get over it. And by concluding with an adult realization, the film lets sunlight peek through the gloom, in more ways than one. — Elvis Mitchell",
+    "byline": {
+      "original": "By Elvis Mitchell"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FILM REVIEW; Washing That Girl Out of His Head",
+      "kicker": "FILM REVIEW",
+      "print_headline": "FILM REVIEW; Washing That Girl Out of His Head"
+    },
+    "_id": "nyt://article/3f1f263f-ddf5-5e0a-a7ff-1dde11bdd4f8",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "GONDRY, MICHAEL",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Winslet, Kate",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Carrey, Jim",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "Eternal Sunshine of the Spotless Mind (Movie)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00001",
+    "print_section": "E",
+    "pub_date": "2004-03-19T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Elvis Mitchell reviews movie Eternal Sunshine of the Spotless Mind, directed by Michael Gondry and starring Jim Carrey and Kate Winslet; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/3f1f263f-ddf5-5e0a-a7ff-1dde11bdd4f8",
+    "web_url": "https://www.nytimes.com/2004/03/19/movies/film-review-washing-that-girl-out-of-his-head.html",
+    "word_count": 1368
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "List of Golden Globe Nominees and Winners (Movies)",
+      "kicker": "",
+      "print_headline": "List of Golden Globe Nominees and Winners (Movies)"
+    },
+    "_id": "nyt://article/f9bd004e-a37f-5175-a2f9-2953220c656e",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Golden Globes (Awards)",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-12-13T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Sidebar",
+    "uri": "nyt://article/f9bd004e-a37f-5175-a2f9-2953220c656e",
+    "web_url": "https://www.nytimes.com/2004/12/13/movies/list-of-golden-globe-nominees-and-winners-movies.html",
+    "word_count": 274
+  },
+  {
+    "abstract": "Profile of and interview with film director Michel Gondry; focuses on his latest film Eternal Sunshine of the Spotless Mind, starring Kate Winslet and Jim Carrey; photos (M)",
+    "byline": {
+      "original": "By Caryn James"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FILM; Captain Video Prepares for Takeoff",
+      "kicker": "FILM",
+      "print_headline": "FILM; Captain Video Prepares for Takeoff"
+    },
+    "_id": "nyt://article/a2290f94-8432-5923-a672-ff5ded8da581",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Winslet, Kate",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Gondry, Michel",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Carrey, Jim",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Biographical Information",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "Eternal Sunshine of the Spotless Mind (Movie)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "001",
+    "print_section": "2",
+    "pub_date": "2004-03-07T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Profile of and interview with film director Michel Gondry; focuses on his latest film Eternal Sunshine of the Spotless Mind, starring Kate Winslet and Jim Carrey; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/a2290f94-8432-5923-a672-ff5ded8da581",
+    "web_url": "https://www.nytimes.com/2004/03/07/movies/film-captain-video-prepares-for-takeoff.html",
+    "word_count": 2416
+  },
+  {
+    "abstract": "Because of a production error, a brief passage is omitted on Page 20 of Arts & Leisure today in a transcript of a conversation between film critics of The Times. The affected sentence, referring to actors who played against type this year, should read, ''Jim Carrey reined himself in to play the least antic character in 'Eternal Sunshine of the Spotless Mind,' and Adam Sandler played a sensitive dad in 'Spanglish.'''  ",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Corrections",
+      "kicker": "",
+      "print_headline": "Corrections"
+    },
+    "_id": "nyt://article/c81c9b04-52f9-54e3-853a-a73c6570b1f3",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metropolitan Desk",
+    "print_page": "002",
+    "print_section": "1",
+    "pub_date": "2004-12-26T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Because of a production error, a brief passage is omitted on Page 20 of Arts & Leisure today in a transcript of a conversation between film critics of The Times. The affected sentence, referring to actors who played against type this year, should read, ''Jim Carrey reined himself in to play the least antic character in 'Eternal Sunshine of the Spotless Mind,' and Adam Sandler played a sensitive dad in 'Spanglish.'''  ",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Correction",
+    "uri": "nyt://article/c81c9b04-52f9-54e3-853a-a73c6570b1f3",
+    "web_url": "https://www.nytimes.com/2004/12/26/nyregion/pageoneplus/corrections-990736.html",
+    "word_count": 118
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "PEOPLE",
+      "kicker": "",
+      "print_headline": "PEOPLE"
+    },
+    "_id": "nyt://article/b25288ee-f7ce-5d94-b9bc-2601d881f57e",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-12-14T05:00:00Z",
+    "section_name": "Fashion",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b25288ee-f7ce-5d94-b9bc-2601d881f57e",
+    "web_url": "https://www.nytimes.com/2004/12/14/style/people.html",
+    "word_count": 195
+  },
+  {
+    "abstract": "Hollywood Foreign Press Assn announces annual Golden Globe nominations, including seven to Alexander Payne's comedy Sideways and six to Martin Scorsese's drama The Aviator; other drama nominees are Closer, Hotel Rwanda, Finding Neverland, Kinsey and Million Dollar Baby; other comedy and musical category nominees are The Incredibles, The Eternal Sunshine of the Spotless Mind, Ray and The Phantom of the Opera; photos (M)",
+    "byline": {
+      "original": "By Sharon Waxman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'Sideways' and 'Aviator' Lead Golden Globes",
+      "kicker": "",
+      "print_headline": "'Sideways' and 'Aviator' Lead Golden Globes"
+    },
+    "_id": "nyt://article/aa3d1166-1f1a-5730-b3e9-49374e507414",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Hollywood Foreign Press Assn",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Payne, Alexander",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Scorsese, Martin",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Golden Globes (Awards)",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Awards, Decorations and Honors",
+        "rank": 7
+      },
+      {
+        "name": "Title",
+        "value": "Closer (Movie)",
+        "rank": 8
+      },
+      {
+        "name": "Title",
+        "value": "INCREDIBLES, THE (MOVIE)",
+        "rank": 9
+      },
+      {
+        "name": "Title",
+        "value": "Million Dollar Baby (Movie)",
+        "rank": 10
+      },
+      {
+        "name": "Title",
+        "value": "Kinsey (Movie)",
+        "rank": 11
+      },
+      {
+        "name": "Title",
+        "value": "PHANTOM OF THE OPERA, THE (MOVIE)",
+        "rank": 12
+      },
+      {
+        "name": "Title",
+        "value": "AVIATOR, THE (MOVIE)",
+        "rank": 13
+      },
+      {
+        "name": "Title",
+        "value": "Sideways (Movie)",
+        "rank": 14
+      },
+      {
+        "name": "Title",
+        "value": "Ray (Movie)",
+        "rank": 15
+      },
+      {
+        "name": "Title",
+        "value": "ETERNAL SUNSHINE OF THE SPOTLESS MIND, THE (MOVIE)",
+        "rank": 16
+      },
+      {
+        "name": "Title",
+        "value": "Finding Neverland (Movie)",
+        "rank": 17
+      },
+      {
+        "name": "Title",
+        "value": "Hotel Rwanda (Movie)",
+        "rank": 18
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00003",
+    "print_section": "E",
+    "pub_date": "2004-12-14T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Hollywood Foreign Press Assn announces annual Golden Globe nominations, including seven to Alexander Payne's comedy Sideways and six to Martin Scorsese's drama The Aviator; other drama nominees are Closer, Hotel Rwanda, Finding Neverland, Kinsey and Million Dollar Baby; other comedy and musical category nominees are The Incredibles, The Eternal Sunshine of the Spotless Mind, Ray and The Phantom of the Opera; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/aa3d1166-1f1a-5730-b3e9-49374e507414",
+    "web_url": "https://www.nytimes.com/2004/12/14/movies/sideways-and-aviator-lead-golden-globes.html",
+    "word_count": 816
+  },
+  {
+    "abstract": "Popularity of knitting and knitwear noted (S)",
+    "byline": {
+      "original": "By Lauren Goodman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "THE REMIX; Purl Harbor",
+      "kicker": "THE REMIX",
+      "print_headline": "THE REMIX; Purl Harbor"
+    },
+    "_id": "nyt://article/bdaab43d-663c-5de7-8531-0421bce24428",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Knitting and Knit Goods",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "T: Women's Fashion Magazine",
+    "print_page": "106",
+    "print_section": "6",
+    "pub_date": "2004-08-29T05:00:00Z",
+    "section_name": "Magazine",
+    "snippet": "Popularity of knitting and knitwear noted (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/bdaab43d-663c-5de7-8531-0421bce24428",
+    "web_url": "https://www.nytimes.com/2004/08/29/magazine/the-remix-purl-harbor.html",
+    "word_count": 224
+  },
+  {
+    "abstract": "\"Sideways\" led Golden Globe contenders today with seven nominations, including best musical or comedy film, three acting nominations and best director.",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Golden Globe Nominations Are Announced",
+      "kicker": "",
+      "print_headline": "Golden Globe Nominations Are Announced"
+    },
+    "_id": "nyt://article/6b24d51d-31f0-5476-87c5-57bc9fa90150",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Golden Globes (Awards)",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-12-13T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "\"Sideways\" led Golden Globe contenders today with seven nominations, including best musical or comedy film, three acting nominations and best director.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/6b24d51d-31f0-5476-87c5-57bc9fa90150",
+    "web_url": "https://www.nytimes.com/2004/12/13/movies/golden-globe-nominations-are-announced.html",
+    "word_count": 917
+  },
+  {
+    "abstract": "Manohla Dargis lists and briefly comments on her choices for best films of 2004; photos (M)",
+    "byline": {
+      "original": "By Manohla Dargis"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Clint Eastwood Does John Coltrane",
+      "kicker": "The Best Films of the Year",
+      "print_headline": "MOVIES: The Best Films of the Year; Clint Eastwood Does John Coltrane"
+    },
+    "_id": "nyt://article/6ebde29f-b08d-5b2b-a157-9c1b500383e1",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "FULLER, SAMUEL",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Payne, Alexander",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Haneke, Michael",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Gondry, Michel",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Eastwood, Clint",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Tarantino, Quentin",
+        "rank": 6
+      },
+      {
+        "name": "Person",
+        "value": "Mann, Michael",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Ratings and Rating Systems",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "016",
+    "print_section": "2",
+    "pub_date": "2004-12-26T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Manohla Dargis lists and briefly comments on her choices for best films of 2004; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/6ebde29f-b08d-5b2b-a157-9c1b500383e1",
+    "web_url": "https://www.nytimes.com/2004/12/26/movies/clint-eastwood-does-john-coltrane.html",
+    "word_count": 618
+  }
+]

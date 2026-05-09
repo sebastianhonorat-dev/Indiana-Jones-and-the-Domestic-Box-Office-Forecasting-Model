@@ -1,0 +1,797 @@
+[
+  {
+    "abstract": "Jamie Foxx and Michael B. Jordan star in an adaptation of a memoir by the civil rights lawyer Bryan Stevenson.",
+    "byline": {
+      "original": "By A.O. Scott"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "‘Just Mercy’ Review: Echoes of Jim Crow on Alabama’s Death Row",
+      "kicker": "",
+      "print_headline": "Echoes of Jim Crow on Alabama’s Death Row"
+    },
+    "_id": "nyt://article/8b1decdb-2a69-5c71-a2f9-0543868859ff",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Movies",
+        "rank": 1
+      },
+      {
+        "name": "Title",
+        "value": "Just Mercy (Movie)",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Cretton, Destin Daniel",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Foxx, Jamie",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Jordan, Michael B",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Morgan, Rob (Actor)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "Jamie Foxx, left, as Walter McMillian, a man fighting his death row sentence in 1980s Alabama, with his lawyer, played by Michael B. Jordan.",
+      "credit": "Warner Bros.",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/12/24/arts/24justmercy-hppromo/24justmercy-hppromo-articleLarge-v3.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/12/24/arts/24justmercy-hppromo/24justmercy-hppromo-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Culture",
+    "print_page": "4",
+    "print_section": "C",
+    "pub_date": "2019-12-24T19:45:28Z",
+    "section_name": "Movies",
+    "snippet": "Jamie Foxx and Michael B. Jordan star in an adaptation of a memoir by the civil rights lawyer Bryan Stevenson.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/8b1decdb-2a69-5c71-a2f9-0543868859ff",
+    "web_url": "https://www.nytimes.com/2019/12/24/movies/just-mercy-review.html",
+    "word_count": 668
+  },
+  {
+    "abstract": "Bard SummerScape celebrated the 20th anniversary of “Grace” with a new version of the work, and a world premiere.",
+    "byline": {
+      "original": "By Brian Seibert"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Review: Ronald K. Brown Follows ‘Grace’ With a Dark Plea for ‘Mercy’",
+      "kicker": "Critic’s Pick",
+      "print_headline": "Following ‘Grace’ With a Dark Plea for ‘Mercy’"
+    },
+    "_id": "nyt://article/d0b1e1c7-a6e5-5823-bdc2-f086a0409213",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Dancing",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Bard SummerScape Festival",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Brown, Ronald K/Evidence",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Brown, Ronald K",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Grace (Dance)",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "Mercy (Dance)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "Annique Roberts in a new version of Ronald K. Brown’s “Grace” at Bard SummerScape.",
+      "credit": "Julieta Cervantes",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/07/07/arts/07ronaldkbrown/merlin_157558365_33c2c83f-ee3b-456c-857c-23937b943d71-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/07/07/arts/07ronaldkbrown/07ronaldkbrown-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Culture",
+    "print_page": "2",
+    "print_section": "C",
+    "pub_date": "2019-07-07T17:42:40Z",
+    "section_name": "Arts",
+    "snippet": "Bard SummerScape celebrated the 20th anniversary of “Grace” with a new version of the work, and a world premiere.",
+    "source": "The New York Times",
+    "subsection_name": "Dance",
+    "type_of_material": "Review",
+    "uri": "nyt://article/d0b1e1c7-a6e5-5823-bdc2-f086a0409213",
+    "web_url": "https://www.nytimes.com/2019/07/07/arts/dance/ronald-k-brown-grace-mercy-review.html",
+    "word_count": 602
+  },
+  {
+    "abstract": "Bard SummerScape is honoring the choreographer’s 20-year-old “Grace” with live music — and a new collaboration with the musician Meshell Ndegeocello.",
+    "byline": {
+      "original": "By Gia Kourlas"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "For Ronald K. Brown, ‘Grace’ Endures and Brings ‘Mercy’",
+      "kicker": "",
+      "print_headline": "‘Grace’ Endures and Brings ‘Mercy’"
+    },
+    "_id": "nyt://article/07caf6ed-bd75-5471-9468-aabc8e5df5fc",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Dancing",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Evidence Dance Co",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Ailey, Alvin, American Dance Theater",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Brown, Ronald K",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Mercy (Dance)",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "Grace (Dance)",
+        "rank": 6
+      },
+      {
+        "name": "Person",
+        "value": "Ndegeocello, Meshell",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "“There should be no assault in ‘Mercy,’” Mr. Brown says. “There should be no punching you, the audience viewer, in the face.” ",
+      "credit": "An Rong Xu for The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/06/30/arts/30brownatbard-1/merlin_156614151_aabeddef-66c3-48ff-a673-f1d44115fe29-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/06/30/arts/30brownatbard-1/30brownatbard-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Arts&Leisure",
+    "print_page": "12",
+    "print_section": "AR",
+    "pub_date": "2019-06-28T14:00:10Z",
+    "section_name": "Arts",
+    "snippet": "Bard SummerScape is honoring the choreographer’s 20-year-old “Grace” with live music — and a new collaboration with the musician Meshell Ndegeocello.",
+    "source": "The New York Times",
+    "subsection_name": "Dance",
+    "type_of_material": "News",
+    "uri": "nyt://article/07caf6ed-bd75-5471-9468-aabc8e5df5fc",
+    "web_url": "https://www.nytimes.com/2019/06/28/arts/dance/ronald-k-brown-grace-mercy-bard.html",
+    "word_count": 1232
+  },
+  {
+    "abstract": "Secret speeches and leaked government documents reveal how China carried out the internment of as many as a million people.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "‘Absolutely No Mercy’",
+      "kicker": "",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/2a047e7b-e68e-5bbd-b1e1-3fb5dda4bfdd",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Political Prisoners",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Uighurs (Chinese Ethnic Group)",
+        "rank": 3
+      },
+      {
+        "name": "Location",
+        "value": "Beijing (China)",
+        "rank": 4
+      },
+      {
+        "name": "Location",
+        "value": "Xinjiang (China)",
+        "rank": 5
+      },
+      {
+        "name": "Location",
+        "value": "China",
+        "rank": 6
+      },
+      {
+        "name": "Organization",
+        "value": "Communist Party of China",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "Chen Quanguo, right, was the Communist Party chief in Tibet before coming to carry out mass detention in Xinjiang. In Tibet, he ramped up policing and quelled protests.",
+      "credit": "Etienne Oliveau/Getty Images",
+      "default": {
+        "url": "https://static01.nyt.com/images/2018/10/02/world/xxxinjiang2/merlin_144709575_f8608e9d-e65b-4f18-a7fc-04653a2a56f5-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2018/10/02/world/xxxinjiang2/xxxinjiang2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Podcasts",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2019-12-10T11:00:10Z",
+    "section_name": "Podcasts",
+    "snippet": "“Absolutely no mercy”: Inside China’s system of torture and surveillance.",
+    "source": "The New York Times",
+    "subsection_name": "The Daily",
+    "type_of_material": "News",
+    "uri": "nyt://article/2a047e7b-e68e-5bbd-b1e1-3fb5dda4bfdd",
+    "web_url": "https://www.nytimes.com/2019/12/10/podcasts/the-daily/china-ethnic-minory-crackdown.html",
+    "word_count": 299
+  },
+  {
+    "abstract": "A tremendous Alfre Woodard plays a warden at a prison whose world is upended by the fate of death-row inmates.",
+    "byline": {
+      "original": "By Manohla Dargis"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "‘Clemency’ Review: No Place for Mercy",
+      "kicker": "",
+      "print_headline": "Lost Lives, and No Place for Mercy"
+    },
+    "_id": "nyt://article/220b7f53-3eef-5c3e-b775-fc99b29dbe87",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Movies",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Pierce, Wendell",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Woodard, Alfre",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Hodge, Aldis (1986- )",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Clemency (Movie)",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Chukwu, Chinonye",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "Alfre Woodard plays a warden who tries to keep her life carefully controlled.",
+      "credit": "Paul Sarkis/Neon",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/12/27/arts/00clemency-1/merlin_166233522_eea98ec8-52b7-4cae-b3d4-0c10b1e54ab9-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/12/27/arts/00clemency-1/00clemency-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Weekend",
+    "print_page": "4",
+    "print_section": "C",
+    "pub_date": "2019-12-25T17:34:47Z",
+    "section_name": "Movies",
+    "snippet": "A tremendous Alfre Woodard plays a warden at a prison whose world is upended by the fate of death-row inmates.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/220b7f53-3eef-5c3e-b775-fc99b29dbe87",
+    "web_url": "https://www.nytimes.com/2019/12/25/movies/clemency-review.html",
+    "word_count": 692
+  },
+  {
+    "abstract": "To say that we find ourselves in a dysfunctional relationship is an understatement.",
+    "byline": {
+      "original": "By Jennifer Senior"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "We Are All at the Mercy of the Narcissist in Chief",
+      "kicker": "",
+      "print_headline": "We Are All at the Mercy of the Narcissist in Chief"
+    },
+    "_id": "nyt://article/0e93074e-0654-5895-90e8-fd8a2c1c2934",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Trump, Donald J",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "United States Politics and Government",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Conway, George T III",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Narcissism",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Mental Health and Disorders",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Psychiatry and Psychiatrists",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "Adam Maida",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/10/12/opinion/12senior2/12senior2-articleLarge.jpg",
+        "height": 630,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/10/12/opinion/12senior2/12senior2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "OpEd",
+    "print_page": "23",
+    "print_section": "A",
+    "pub_date": "2019-10-11T23:34:33Z",
+    "section_name": "Opinion",
+    "snippet": "To say that we find ourselves in a dysfunctional relationship is an understatement.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Op-Ed",
+    "uri": "nyt://article/0e93074e-0654-5895-90e8-fd8a2c1c2934",
+    "web_url": "https://www.nytimes.com/2019/10/11/opinion/trump-narcissism.html",
+    "word_count": 1066
+  },
+  {
+    "abstract": "Northern Ireland, Adnan Syed and life behind bars.",
+    "byline": {
+      "original": "By David Leonhardt"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A Case for Mercy",
+      "kicker": "",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/36a49b84-ffa0-562f-a79a-7c456f65e6e8",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Documentary Films and Programs",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Podcasts",
+        "rank": 2
+      },
+      {
+        "name": "Title",
+        "value": "Serial (Radio Program)",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "Home Box Office",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "Irish Republican Army",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Keefe, Patrick Radden",
+        "rank": 6
+      },
+      {
+        "name": "Person",
+        "value": "Lee, Hae Min (1980-99)",
+        "rank": 7
+      },
+      {
+        "name": "Person",
+        "value": "Syed, Adnan",
+        "rank": 8
+      },
+      {
+        "name": "Location",
+        "value": "Baltimore (Md)",
+        "rank": 9
+      },
+      {
+        "name": "Location",
+        "value": "Great Britain",
+        "rank": 10
+      },
+      {
+        "name": "Location",
+        "value": "Northern Ireland",
+        "rank": 11
+      },
+      {
+        "name": "Subject",
+        "value": "Terrorism",
+        "rank": 12
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 13
+      },
+      {
+        "name": "Subject",
+        "value": "Crime and Criminals",
+        "rank": 14
+      },
+      {
+        "name": "Subject",
+        "value": "Murders, Attempted Murders and Homicides",
+        "rank": 15
+      },
+      {
+        "name": "Subject",
+        "value": "Prisons and Prisoners",
+        "rank": 16
+      },
+      {
+        "name": "Subject",
+        "value": "Criminal Justice",
+        "rank": 17
+      }
+    ],
+    "multimedia": {
+      "caption": "Adnan Syed before a 2016 hearing in Baltimore.",
+      "credit": "Barbara Haddock Taylor/The Baltimore Sun, via Associated Press",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/05/20/opinion/20leonhardt-newsletter/merlin_153745302_07ba3a27-095d-4209-b5e8-d49e8f0ff325-articleLarge.jpg",
+        "height": 387,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/05/20/opinion/20leonhardt-newsletter/20leonhardt-newsletter-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "OpEd",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2019-05-20T12:42:40Z",
+    "section_name": "Opinion",
+    "snippet": "Northern Ireland, Adnan Syed and life behind bars.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Op-Ed",
+    "uri": "nyt://article/36a49b84-ffa0-562f-a79a-7c456f65e6e8",
+    "web_url": "https://www.nytimes.com/2019/05/20/opinion/adnan-syed-hbo-serial.html",
+    "word_count": 643
+  },
+  {
+    "abstract": "More than 400 pages of internal Chinese documents provide an unprecedented inside look at the crackdown on ethnic minorities in the Xinjiang region.",
+    "byline": {
+      "original": "By Austin Ramzy and Chris Buckley"
+    },
+    "document_type": "interactive",
+    "headline": {
+      "main": "‘Absolutely No Mercy’: Leaked Files Expose How China Organized Mass Detentions of Muslims",
+      "kicker": "",
+      "print_headline": "‘Show Absolutely No Mercy’: Inside China’s Mass Detentions"
+    },
+    "_id": "nyt://interactive/5b1e8f65-da89-5a81-9fa0-006fb5c31390",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Xinjiang (China)",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "China",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Xi Jinping",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Uighurs (Chinese Ethnic Group)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Kazakhs (Ethnic Group)",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Muslims and Islam",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Discrimination",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Political Prisoners",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 10
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/11/15/world/xj-hp-promo/xj-hp-promo-articleLarge.jpg",
+        "height": 400,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/11/15/world/xj-hp-promo/xj-hp-promo-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Foreign",
+    "print_page": "1",
+    "print_section": "A",
+    "pub_date": "2019-11-16T12:32:55Z",
+    "section_name": "World",
+    "snippet": "More than 400 pages of documents reveal how top officials orchestrated the repression of ethnic minorities in the Xinjiang region.",
+    "source": "The New York Times",
+    "subsection_name": "Asia Pacific",
+    "type_of_material": "Interactive Feature",
+    "uri": "nyt://interactive/5b1e8f65-da89-5a81-9fa0-006fb5c31390",
+    "web_url": "https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "A project called Nuns and Nones moved religion-free millennials into a convent.",
+    "byline": {
+      "original": "By Nellie Bowles"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "These Millennials Got New Roommates. They’re Nuns.",
+      "kicker": "",
+      "print_headline": "The Sisters Project"
+    },
+    "_id": "nyt://article/504ce9af-12b8-5162-9d61-0edc823106b1",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Millennial Generation",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Nuns",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Sisters of Mercy",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "Roman Catholic Church",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Celibacy",
+        "rank": 5
+      },
+      {
+        "name": "Location",
+        "value": "California",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Women and Girls",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "Damien Maloney for The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/05/31/us/31nuns-promo/merlin_155204544_d16d7d51-a6b4-475a-bfcc-2f8f9348cb1e-articleLarge.jpg",
+        "height": 747,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/05/31/us/31nuns-promo/31nuns-promo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Styles",
+    "print_page": "1",
+    "print_section": "ST",
+    "pub_date": "2019-05-31T09:00:06Z",
+    "section_name": "Style",
+    "snippet": "A project called Nuns and Nones moved religion-free millennials into a convent. Groups are now running in about a dozen cities.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/504ce9af-12b8-5162-9d61-0edc823106b1",
+    "web_url": "https://www.nytimes.com/2019/05/31/style/milliennial-nuns-spiritual-quest.html",
+    "word_count": 2249
+  },
+  {
+    "abstract": "Chisa Hutchinson’s earnest morality play spends time with a Newark schoolboy and the brusque cafeteria worker he befriends.",
+    "byline": {
+      "original": "By Maya Phillips"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Review: Scripture With the Lunch Lady in ‘Surely Goodness’",
+      "kicker": "",
+      "print_headline": "Asking the Lunch Lady to Serve Up Some Lessons"
+    },
+    "_id": "nyt://article/d20aca91-9f56-5e10-91ec-db82b78b60ea",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Theater",
+        "rank": 1
+      },
+      {
+        "name": "Title",
+        "value": "Surely Goodness and Mercy (Play)",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Hutchinson, Chisa",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "Keen Company",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Hill, Jessi D",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "Jay Mazyck and Courtney Thomas are Newark classmates in Chisa Hutchinson&rsquo;s well-meaning play.",
+      "credit": "Carol Rosegg",
+      "default": {
+        "url": "https://static01.nyt.com/images/2019/03/14/arts/13surely2/merlin_151959201_f7da79b3-0305-4367-b075-1fe51698a2fd-articleLarge.jpg",
+        "height": 508,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2019/03/14/arts/13surely2/13surely2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Culture",
+    "print_page": "5",
+    "print_section": "C",
+    "pub_date": "2019-03-14T01:45:04Z",
+    "section_name": "Theater",
+    "snippet": "Chisa Hutchinson’s earnest morality play spends time with a Newark schoolboy and the brusque cafeteria worker he befriends.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/d20aca91-9f56-5e10-91ec-db82b78b60ea",
+    "web_url": "https://www.nytimes.com/2019/03/13/theater/surely-goodness-and-mercy-review.html",
+    "word_count": 499
+  }
+]

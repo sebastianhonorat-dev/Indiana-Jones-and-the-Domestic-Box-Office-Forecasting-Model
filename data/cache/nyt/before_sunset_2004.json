@@ -1,0 +1,671 @@
+[
+  {
+    "abstract": "Bob Bassing letter reports that 'small' movie Before Sunset was screened for Academy members and was enormously admired",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'BEFORE SUNSET'; Not Too Tiny",
+      "kicker": "'BEFORE SUNSET'",
+      "print_headline": "'BEFORE SUNSET'; Not Too Tiny"
+    },
+    "_id": "nyt://article/824fd7cd-fb6f-54d2-90d1-e38c3264123f",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "BASSING, BOB",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Academy Awards (Oscars)",
+        "rank": 3
+      },
+      {
+        "name": "Title",
+        "value": "Before Sunset (Movie)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "004",
+    "print_section": "2",
+    "pub_date": "2004-09-26T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Bob Bassing letter reports that 'small' movie Before Sunset was screened for Academy members and was enormously admired",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/824fd7cd-fb6f-54d2-90d1-e38c3264123f",
+    "web_url": "https://www.nytimes.com/2004/09/26/opinion/before-sunset-not-too-tiny-061441.html",
+    "word_count": 123
+  },
+  {
+    "abstract": "Excerpts from Stephen Holden's October 18, 2003, review of movie Mayor of the Sunset Strip, directed by George Hickenlooper, which is opening in New York (M)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FILM IN REVIEW; 'Mayor of the Sunset Strip'",
+      "kicker": "FILM IN REVIEW",
+      "print_headline": "FILM IN REVIEW; 'Mayor of the Sunset Strip'"
+    },
+    "_id": "nyt://article/f2695367-a52b-5e29-aff6-c4537ca01ccc",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Hickenlooper, George",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Holden, Stephen",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Mayor of the Sunset Strip (Movie)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00025",
+    "print_section": "E",
+    "pub_date": "2004-04-02T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Excerpts from Stephen Holden's October 18, 2003, review of movie Mayor of the Sunset Strip, directed by George Hickenlooper, which is opening in New York (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/f2695367-a52b-5e29-aff6-c4537ca01ccc",
+    "web_url": "https://www.nytimes.com/2004/04/02/movies/film-in-review-mayor-of-the-sunset-strip.html",
+    "word_count": 568
+  },
+  {
+    "abstract": "Dave Kehr reviews new DVD releases; photos (M)",
+    "byline": {
+      "original": "By Dave Kehr"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Marx Brothers, Fritz Lang and 'Before Sunset'",
+      "kicker": "New DVD's",
+      "print_headline": "New DVD's"
+    },
+    "_id": "nyt://article/9c6d0152-0e6c-5af1-9bbe-c66b698448df",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Marx Brothers",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Linklater, Richard",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "DVD (DIGITAL VERSATILE DISK)",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Recordings (Video)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00006",
+    "print_section": "E",
+    "pub_date": "2004-11-09T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Dave Kehr reviews new DVD releases; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9c6d0152-0e6c-5af1-9bbe-c66b698448df",
+    "web_url": "https://www.nytimes.com/2004/11/09/movies/the-marx-brothers-fritz-lang-and-before-sunset.html",
+    "word_count": 1059
+  },
+  {
+    "abstract": "Office of Gov James E McGreevey of New Jersey is quietening down as he prepares to leave office, and legislators and lobbyists are now lining up to see Richard J Codey, State Senate president and acting-governor-in-waiting; James P Fox, McGreevey's chief of staff, has extra time on his hands, and Peter Cammarano, his counterpart in Codey administration, is swamped with work; photo (M)",
+    "byline": {
+      "original": "By Laura Mansnerus"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "McGreevey and His Aides Barely Wait for the Sunset",
+      "kicker": "",
+      "print_headline": "McGreevey And His Aides Barely Wait For the Sunset"
+    },
+    "_id": "nyt://article/9fe3119c-aa11-5f0b-8eaa-2f2d38667532",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "New Jersey",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "McGreevey, James E",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "CAMMARANO, PETER",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "CODEY, RICHARD",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Fox, James P",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Governors (US)",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metropolitan Desk",
+    "print_page": "033",
+    "print_section": "1",
+    "pub_date": "2004-10-31T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Office of Gov James E McGreevey of New Jersey is quietening down as he prepares to leave office, and legislators and lobbyists are now lining up to see Richard J Codey, State Senate president and acting-governor-in-waiting; James P Fox, McGreevey's chief of staff, has extra time on his hands, and Peter Cammarano, his counterpart in Codey administration, is swamped with work; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9fe3119c-aa11-5f0b-8eaa-2f2d38667532",
+    "web_url": "https://www.nytimes.com/2004/10/31/nyregion/mcgreevey-and-his-aides-barely-wait-for-the-sunset.html",
+    "word_count": 903
+  },
+  {
+    "abstract": "Stephen Holden reviews movie After the Sunset, directed by Brett Ratner and starring Pierce Brosnan, Salma Hayek and Woody Harrelson; photo (M)",
+    "byline": {
+      "original": "By Stephen Holden"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Diamonds Are a Comedy Caper's Best Friend",
+      "kicker": "FILM REVIEW",
+      "print_headline": "FILM REVIEW; Diamonds Are a Comedy Caper's Best Friend"
+    },
+    "_id": "nyt://article/bf30e550-2907-5c45-b30e-2e6b7d04d1f1",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Hayek, Salma",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Ratner, Brett",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Harrelson, Woody",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Cheadle, Don",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Brosnan, Pierce",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 7
+      },
+      {
+        "name": "Title",
+        "value": "After the Sunset (Movie)",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00015",
+    "print_section": "E",
+    "pub_date": "2004-11-12T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Stephen Holden reviews movie After the Sunset, directed by Brett Ratner and starring Pierce Brosnan, Salma Hayek and Woody Harrelson; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/bf30e550-2907-5c45-b30e-2e6b7d04d1f1",
+    "web_url": "https://www.nytimes.com/2004/11/12/movies/diamonds-are-a-comedy-capers-best-friend.html",
+    "word_count": 756
+  },
+  {
+    "abstract": "His back aches. His power has waned. Training rides in the sleet and winds of Belgium are less a pleasure, more a chore. A confusing drug charge bedevils him. He will turn 39 in October. For Johan Museeuw, it's time to retire.. He will Wednesday after th",
+    "byline": {
+      "original": "By Samuel Abt, International Herald Tribune"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Cycling : Museeuw rides into sunset",
+      "kicker": "",
+      "print_headline": "Cycling : Museeuw rides into sunset"
+    },
+    "_id": "nyt://article/38504a9b-a905-54ce-9ad2-a661f558f0db",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "IHT News",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-04-14T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "His back aches. His power has waned. Training rides in the sleet and winds of Belgium are less a pleasure, more a chore. A confusing drug charge bedevils him. He will turn 39 in October. For Johan Museeuw, it's time to retire.. He will Wednesday after th",
+    "source": "International Herald Tribune",
+    "subsection_name": "",
+    "type_of_material": "",
+    "uri": "nyt://article/38504a9b-a905-54ce-9ad2-a661f558f0db",
+    "web_url": "https://www.nytimes.com/2004/04/14/sports/cycling-museeuw-rides-into-sunset.html",
+    "word_count": 6233
+  },
+  {
+    "abstract": "Remains of Ronald Reagan come home to his family in quiet hilltop ceremony at his Simi Valley, Calif, library attended by about 750 friends and loved ones; photos (M)",
+    "byline": {
+      "original": "By Charlie Leduff"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "THE 40TH PRESIDENT: IN CALIFORNIA; A Sunset Ceremony Filled With Memories",
+      "kicker": "THE 40TH PRESIDENT: IN CALIFORNIA",
+      "print_headline": "THE 40TH PRESIDENT: IN CALIFORNIA; A Sunset Ceremony Filled With Memories"
+    },
+    "_id": "nyt://article/dc7235f6-05e9-53e0-b9f5-0ac6ff797b5d",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Simi Valley (Calif)",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "REAGAN PRESIDENTIAL LIBRARY AND MUSEUM",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Reagan, Ronald Wilson",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "United States Politics and Government",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Presidents and Presidency (US)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00010",
+    "print_section": "A",
+    "pub_date": "2004-06-12T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Remains of Ronald Reagan come home to his family in quiet hilltop ceremony at his Simi Valley, Calif, library attended by about 750 friends and loved ones; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/dc7235f6-05e9-53e0-b9f5-0ac6ff797b5d",
+    "web_url": "https://www.nytimes.com/2004/06/12/us/the-40th-president-in-california-a-sunset-ceremony-filled-with-memories.html",
+    "word_count": 1104
+  },
+  {
+    "abstract": "Nine years after they parted, in Vienna, at the end of &quot;Before Sunrise,&quot;  Jesse (Ethan Hawke) and Celine (Julie Delpy) rediscover each other in Paris,  and relive their brief encounter. This time, it is even briefer: the film unfolds, without skipping a minute, in the hour or so before Jess must catch a plane home to New York, and all those minutes are filled with looping, self-conscious talk as the reunited lovers wander along the Seine.   Their intimacy is tinged with nostalgic regret. The airy sense of freedom   that they shared in their early 20's has given way to the resignation of adulthood, even as they meander toward a second chance. The liberating   sweetness of the earlier movie has mellowed into a saltier, sadder flavor, but Richard Linklater, one of our most literate and intelligent directors, has not talked himself out of the possibility of romance, and the movie's relaxed, discursive structure is dense with implied feeling and oblique drama. — A. O. Scott",
+    "byline": {
+      "original": "By A. O. Scott"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FILM REVIEW; Reunited, Still Talking, Still Uneasy",
+      "kicker": "FILM REVIEW",
+      "print_headline": "FILM REVIEW; Reunited, Still Talking, Still Uneasy"
+    },
+    "_id": "nyt://article/85d7d5e0-7f4e-54d0-bb1a-aaca5cd8f2e2",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Hawke, Ethan",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Delpy, Julie",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Linklater, Richard",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "Before Sunset (Movie)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00001",
+    "print_section": "E",
+    "pub_date": "2004-07-02T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "A O Scott reviews movie Before Sunset, directed by Richard Linklater and starring Ethan Hawke and Julie Delpy; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/85d7d5e0-7f4e-54d0-bb1a-aaca5cd8f2e2",
+    "web_url": "https://www.nytimes.com/2004/07/02/movies/film-review-reunited-still-talking-still-uneasy.html",
+    "word_count": 1266
+  },
+  {
+    "abstract": "One of Westchester County's last trailer parks is put on market; park in Verplanck, NY, is home to 19 mobile home owners who rent space there, although it cannot be developed until tenants' leases expire in May 2005; property owner Scott Donelli is disappointed that he is getting calls from developers, but not from anyone who intends to keep trailer park intact; photos (M)",
+    "byline": {
+      "original": "By Nancy Haggerty"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Riverside Paradise Gazes at Its Sunset",
+      "kicker": "",
+      "print_headline": "Riverside Paradise Gazes at Its Sunset"
+    },
+    "_id": "nyt://article/b8f47506-8a8e-5aeb-9cf4-f63983827f0f",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Westchester County (NY)",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "VERPLANCK (NY)",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "DONELLI, SCOTT",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOBILE HOMES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "HOUSING",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Renting and Leasing",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Westchester Weekly Desk",
+    "print_page": "14",
+    "print_section": "WC",
+    "pub_date": "2004-03-21T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "One of Westchester County's last trailer parks is put on market; park in Verplanck, NY, is home to 19 mobile home owners who rent space there, although it cannot be developed until tenants' leases expire in May 2005; property owner Scott Donelli is disappointed that he is getting calls from developers, but not from anyone who intends to keep trailer park intact; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b8f47506-8a8e-5aeb-9cf4-f63983827f0f",
+    "web_url": "https://www.nytimes.com/2004/03/21/nyregion/riverside-paradise-gazes-at-its-sunset.html",
+    "word_count": 1336
+  },
+  {
+    "abstract": "Christie Rizk letter responds to Frank Rich article about TV censorship (S)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'PRIVATE RYAN'; Sunset in America",
+      "kicker": "'PRIVATE RYAN'",
+      "print_headline": "'PRIVATE RYAN'; Sunset in America"
+    },
+    "_id": "nyt://article/657c4cc4-4e1a-5a7c-a436-0178ffed0a57",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "RIZK, CHRISTIE",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Rich, Frank",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Censorship",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "002",
+    "print_section": "2",
+    "pub_date": "2004-11-28T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Christie Rizk letter responds to Frank Rich article about TV censorship (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/657c4cc4-4e1a-5a7c-a436-0178ffed0a57",
+    "web_url": "https://www.nytimes.com/2004/11/28/opinion/arts/private-ryan-sunset-in-america-733954.html",
+    "word_count": 178
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "abstract": "Today in Washington",
+    "byline": {
+      "original": "By Congressional Quarterly and Cq Today"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "CQ TODAY MIDDAY UPDATE",
+      "kicker": "",
+      "print_headline": "CQ TODAY MIDDAY UPDATE"
+    },
+    "_id": "nyt://article/79ccd84d-dfde-5597-a222-c4ccdc57df4f",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Politics / Campaigns",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-01-06T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Today in Washington",
+    "source": "The New York Times",
+    "subsection_name": "Politics",
+    "type_of_material": "News",
+    "uri": "nyt://article/79ccd84d-dfde-5597-a222-c4ccdc57df4f",
+    "web_url": "https://www.nytimes.com/2004/01/06/politics/campaigns/cq-today-midday-update.html",
+    "word_count": 1401
+  },
+  {
+    "abstract": "Gannett Co's USA Today newspaper will raise its single-copy price to 75 cents from 50 cents in Sept; increase will be paper's first in 19 years (S)",
+    "byline": {
+      "original": "By Bloomberg News"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "USA Today to Raise Price",
+      "kicker": "",
+      "print_headline": "USA Today to Raise Price"
+    },
+    "_id": "nyt://article/9495920a-cf9e-594b-a3b5-872df5da6f45",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Gannett Co",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Newspapers",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00004",
+    "print_section": "C",
+    "pub_date": "2004-06-23T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Gannett Co's USA Today newspaper will raise its single-copy price to 75 cents from 50 cents in Sept; increase will be paper's first in 19 years (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9495920a-cf9e-594b-a3b5-872df5da6f45",
+    "web_url": "https://www.nytimes.com/2004/06/23/business/usa-today-to-raise-price.html",
+    "word_count": 169
+  },
+  {
+    "abstract": "The nation's largest-circulating newspaper announced today that Kenneth A. Paulson would be its top editor.",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "USA Today Names a Gannett Veteran as Its Top Editor",
+      "kicker": "",
+      "print_headline": "USA Today Names a Gannett Veteran as Its Top Editor"
+    },
+    "_id": "nyt://article/3c0c7973-97ee-5739-a42e-cef32a34b147",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Jurgensen, Karen",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Kelley, Jack",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "News and News Media",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business / Media & Advertising",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-04-29T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "The nation's largest-circulating newspaper announced today that Kenneth A. Paulson would be its top editor.",
+    "source": "The New York Times",
+    "subsection_name": "Media",
+    "type_of_material": "News",
+    "uri": "nyt://article/3c0c7973-97ee-5739-a42e-cef32a34b147",
+    "web_url": "https://www.nytimes.com/2004/04/29/business/media/usa-today-names-a-gannett-veteran-as-its-top-editor.html",
+    "word_count": 378
+  },
+  {
+    "abstract": "USA Today reports that Jack Kelley, foreign correspondent at newspaper before he resigned on Jan 6, appears to have fabricated substantial portions of at least eight major articles in last 10 years, including one that earned him finalist nomination for Pulitzer Prize in 2002; accuses Kelley of using at least two dozen passages from work of other news organizations without attribution and trying to subvert newspaper's investigation by concocting scripts for associates to follow if his editors tried to substantiate his work; says its investigation is continuing; Kelley photo (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "USA TODAY FINDS TOP WRITER LIED",
+      "kicker": "",
+      "print_headline": "USA TODAY FINDS TOP WRITER LIED"
+    },
+    "_id": "nyt://article/f03c163e-7007-51c3-a906-9a392fc71d05",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Plagiarism",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Pulitzer Prizes",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "News and News Media",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00001",
+    "print_section": "A",
+    "pub_date": "2004-03-20T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "USA Today reports that Jack Kelley, foreign correspondent at newspaper before he resigned on Jan 6, appears to have fabricated substantial portions of at least eight major articles in last 10 years, including one that earned him finalist nomination for Pulitzer Prize in 2002; accuses Kelley of using at least two dozen passages from work of other news organizations without attribution and trying to subvert newspaper's investigation by concocting scripts for associates to follow if his editors tried to substantiate his work; says its investigation is continuing; Kelley photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/f03c163e-7007-51c3-a906-9a392fc71d05",
+    "web_url": "https://www.nytimes.com/2004/03/20/us/usa-today-finds-top-writer-lied.html",
+    "word_count": 1388
+  },
+  {
+    "abstract": "USA Today investigation into accuracy of reporting by Jack Kelley, foreign correspondent who has reported for newspaper since its inception in 1982, concludes he 'repeatedly misled' editors during inquiry but paper has not resolved whether he falsified information in his articles; Kelley resigned on Jan 6 (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "USA Today to Report That a Correspondent 'Misled' Editors",
+      "kicker": "",
+      "print_headline": "USA Today to Report That a Correspondent 'Misled' Editors"
+    },
+    "_id": "nyt://article/b5a59886-de78-5452-ab95-eee0e6bc6db9",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Kelley, Jack",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Newspapers",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Biographical Information",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00004",
+    "print_section": "C",
+    "pub_date": "2004-01-13T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "USA Today investigation into accuracy of reporting by Jack Kelley, foreign correspondent who has reported for newspaper since its inception in 1982, concludes he 'repeatedly misled' editors during inquiry but paper has not resolved whether he falsified information in his articles; Kelley resigned on Jan 6 (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b5a59886-de78-5452-ab95-eee0e6bc6db9",
+    "web_url": "https://www.nytimes.com/2004/01/13/business/usa-today-to-report-that-a-correspondent-misled-editors.html",
+    "word_count": 943
+  },
+  {
+    "abstract": "A panel of outside journalists retained by USA Today to investigate the repeated fabrications of its former star foreign correspondent released its findings today.",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Panel Says Internal Flaws at USA Today Aided in Deceptions",
+      "kicker": "",
+      "print_headline": "Panel Says Internal Flaws at USA Today Aided in Deceptions"
+    },
+    "_id": "nyt://article/38084f5f-daff-5cf3-8183-60fe478134e2",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Jurgensen, Karen",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "News and News Media",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business / Media & Advertising",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-04-22T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "A panel of outside journalists retained by USA Today to investigate the repeated fabrications of its former star foreign correspondent released its findings today.",
+    "source": "The New York Times",
+    "subsection_name": "Media",
+    "type_of_material": "News",
+    "uri": "nyt://article/38084f5f-daff-5cf3-8183-60fe478134e2",
+    "web_url": "https://www.nytimes.com/2004/04/22/business/media/panel-says-internal-flaws-at-usa-today-aided-in-deceptions.html",
+    "word_count": 597
+  },
+  {
+    "abstract": "Colleagues of Jack Kelley, longtime foreign correspondent at USA Today, had suspicions about his dispatches long before his abrupt resignation on Jan 6 amid questioning of 1999 report of his from Yugoslavia; some even began keeping crude dossiers on him as early as mid-1990's, questioning plausibility of his battelfield descriptions, clipping articles from other newspapers that included phrasing similar to his and even making copies of his correspondence with editors; it was staff members who pressed for full investigation of Kelley's reporting after newspaper reported that investigation of sampling of his work turned up no fabrications; Kelley insists his reporting will stand up to scrutiny; photos (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A Question of Credibility; Ascent of USA Today Reporter Stumbled on Colleagues' Doubts",
+      "kicker": "",
+      "print_headline": "A Question of Credibility; Ascent of USA Today Reporter Stumbled on Colleagues' Doubts"
+    },
+    "_id": "nyt://article/411c74c9-90ce-5aed-a5bf-a3d15654cf88",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "News and News Media",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00001",
+    "print_section": "C",
+    "pub_date": "2004-01-19T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Colleagues of Jack Kelley, longtime foreign correspondent at USA Today, had suspicions about his dispatches long before his abrupt resignation on Jan 6 amid questioning of 1999 report of his from Yugoslavia; some even began keeping crude dossiers on him as early as mid-1990's, questioning plausibility of his battelfield descriptions, clipping articles from other newspapers that included phrasing similar to his and even making copies of his correspondence with editors; it was staff members who pressed for full investigation of Kelley's reporting after newspaper reported that investigation of sampling of his work turned up no fabrications; Kelley insists his reporting will stand up to scrutiny; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/411c74c9-90ce-5aed-a5bf-a3d15654cf88",
+    "web_url": "https://www.nytimes.com/2004/01/19/business/question-credibility-ascent-usa-today-reporter-stumbled-colleagues-doubts.html",
+    "word_count": 1908
+  },
+  {
+    "abstract": "Karen Jurgensen, top editor of USA Today since 1999, resigns abruptly, citing her failure to intercept apparent fabrications in articles by Jack Kelley; her photo; publisher Craig Moon makes terse announcement after receiving report from three outside journalists on how Kelley's deceptions went undetected; executive editor Brian Gallagher will run paper for now; Kelley apparently fabricated at least eight major articles in last ten years; other reporters question why editors who directly supervised Kelley, such as managing editor Hal Ritter, have not been forced out (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Editor of USA Today Resigns; Cites Failure Over Fabrications",
+      "kicker": "",
+      "print_headline": "Editor of USA Today Resigns; Cites Failure Over Fabrications"
+    },
+    "_id": "nyt://article/6cb595e9-37eb-5556-8460-01640712728b",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Jurgensen, Karen",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Gallagher, Brian",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "MOON, CRAIG",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "RITTER, HAL",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Kelley, Jack",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Newspapers",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00001",
+    "print_section": "A",
+    "pub_date": "2004-04-21T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Karen Jurgensen, top editor of USA Today since 1999, resigns abruptly, citing her failure to intercept apparent fabrications in articles by Jack Kelley; her photo; publisher Craig Moon makes terse announcement after receiving report from three outside journalists on how Kelley's deceptions went undetected; executive editor Brian Gallagher will run paper for now; Kelley apparently fabricated at least eight major articles in last ten years; other reporters question why editors who directly supervised Kelley, such as managing editor Hal Ritter, have not been forced out (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/6cb595e9-37eb-5556-8460-01640712728b",
+    "web_url": "https://www.nytimes.com/2004/04/21/us/editor-of-usa-today-resigns-cites-failure-over-fabrications.html",
+    "word_count": 995
+  },
+  {
+    "abstract": "USA Today, which announces conclusion of seven-month inquiry into accuracy of several articles by former foreign correspondent Jack Kelley without resolving whether he falsified information, says it has 'serious concerns' about another of Kelley's dispatches; editor Karen Jurgensen says she has been made aware of internal complaint about similarities between Sept 1998 article describing gun market in Darra, Pakistan, written by Kelley, and article that appeared two months earlier in Washington Post; Kelley's lawyer says concerns are unwarranted; photo (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "THE MEDIA BUSINESS; USA Today's Investigation Of Writer Raises Concerns",
+      "kicker": "THE MEDIA BUSINESS",
+      "print_headline": "THE MEDIA BUSINESS; USA Today's Investigation Of Writer Raises Concerns"
+    },
+    "_id": "nyt://article/d036e50f-f057-5670-9d04-c90a0940b3df",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Pakistan",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Washington Post",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Jurgensen, Karen",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Kelley, Jack",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Newspapers",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Firearms",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00004",
+    "print_section": "C",
+    "pub_date": "2004-01-14T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "USA Today, which announces conclusion of seven-month inquiry into accuracy of several articles by former foreign correspondent Jack Kelley without resolving whether he falsified information, says it has 'serious concerns' about another of Kelley's dispatches; editor Karen Jurgensen says she has been made aware of internal complaint about similarities between Sept 1998 article describing gun market in Darra, Pakistan, written by Kelley, and article that appeared two months earlier in Washington Post; Kelley's lawyer says concerns are unwarranted; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/d036e50f-f057-5670-9d04-c90a0940b3df",
+    "web_url": "https://www.nytimes.com/2004/01/14/business/the-media-business-usa-today-s-investigation-of-writer-raises-concerns.html",
+    "word_count": 1107
+  },
+  {
+    "abstract": "Panel of independent journalists retained by USA Today concludes that shoddy editing standards, fissures in newsroom communication and atmosphere of fear allowed Jack Kelley to fabricate and plagiarize articles for more than 10 years; managing editor Hal Ritter announces resignation just two days after top editor Karen Jurgensen stepped down and executive editor Brian Gallagher announced his role will change; at least 10 other newspapers have confirmed instances of plagiarism or fabrication in last year; publisher Craig Moon says more money will be spent on newspaper's foreign coverage (M)",
+    "byline": {
+      "original": "By Jacques Steinberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Panel Says Poor Standards Allowed Deception at USA Today",
+      "kicker": "",
+      "print_headline": "Panel Says Poor Standards Allowed Deception at USA Today"
+    },
+    "_id": "nyt://article/59bb5220-4e6a-512b-8eed-ffb3673a31b5",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "USA Today",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Jurgensen, Karen",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Gallagher, Brian",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "MOON, CRAIG",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "RITTER, HAL",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Kelley, Jack",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Newspapers",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Plagiarism",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Finances",
+        "rank": 10
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 11
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00016",
+    "print_section": "A",
+    "pub_date": "2004-04-23T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Panel of independent journalists retained by USA Today concludes that shoddy editing standards, fissures in newsroom communication and atmosphere of fear allowed Jack Kelley to fabricate and plagiarize articles for more than 10 years; managing editor Hal Ritter announces resignation just two days after top editor Karen Jurgensen stepped down and executive editor Brian Gallagher announced his role will change; at least 10 other newspapers have confirmed instances of plagiarism or fabrication in last year; publisher Craig Moon says more money will be spent on newspaper's foreign coverage (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/59bb5220-4e6a-512b-8eed-ffb3673a31b5",
+    "web_url": "https://www.nytimes.com/2004/04/23/us/panel-says-poor-standards-allowed-deception-at-usa-today.html",
+    "word_count": 1028
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "abstract": "Cpl Joseph O Behnke of Brooklyn (NYC) dies in Humvee crash in Baghdad while serving in Army National Guard; photo (M)",
+    "byline": {
+      "original": "By Michelle O'Donnell and Ann Farmer"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Army Guardsman From Brooklyn Dies in Humvee Crash in Baghdad",
+      "kicker": "",
+      "print_headline": "Army Guardsman From Brooklyn Dies in Humvee Crash in Baghdad"
+    },
+    "_id": "nyt://article/9f01a5cb-f209-5ff7-a050-01a4b7da3cda",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Brooklyn (NYC)",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "New York City",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "Iraq",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "National Guard",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "BEHNKE, JOSEPH O",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "United States International Relations",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Terrorism",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "NATIONAL GUARD (US)",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "United States Armament and Defense",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metropolitan Desk",
+    "print_page": "00003",
+    "print_section": "B",
+    "pub_date": "2004-12-08T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Cpl Joseph O Behnke of Brooklyn (NYC) dies in Humvee crash in Baghdad while serving in Army National Guard; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9f01a5cb-f209-5ff7-a050-01a4b7da3cda",
+    "web_url": "https://www.nytimes.com/2004/12/08/nyregion/army-guardsman-from-brooklyn-dies-in-humvee-crash-in-baghdad.html",
+    "word_count": 430
+  },
+  {
+    "abstract": "David Pogue State of the Art column on digital picture frame, flat-panel screen designed exusively for showing digital photos; connects to computer by USB cable and doubles as memory-card reader; user can change display at touch of button or use it for slide show; photos; drawing (M)",
+    "byline": {
+      "original": "By David Pogue"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Digital Picture Frames Reviewed",
+      "kicker": "STATE OF THE ART",
+      "print_headline": "STATE OF THE ART; For Pixels, A Gallery Of Frames"
+    },
+    "_id": "nyt://article/dddf3678-0f0d-57e8-b148-70e3b64e3e82",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Vialta Incorporated",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "FRAMES",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Linux (Computer Operating System)",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "COMPUTER SOFTWARE",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Interior Design",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Photography",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00001",
+    "print_section": "G",
+    "pub_date": "2004-12-23T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "David Pogue State of the Art column on digital picture frame, flat-panel screen designed exusively for showing digital photos; connects to computer by USB cable and doubles as memory-card reader; user can change display at touch of button or use it for slide show; photos; drawing (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/dddf3678-0f0d-57e8-b148-70e3b64e3e82",
+    "web_url": "https://www.nytimes.com/2004/12/23/technology/circuits/digital-picture-frames-reviewed.html",
+    "word_count": 1734
+  },
+  {
+    "abstract": "And now, my periodic cleansing of the desk: Random notes, each of which is worth passing along, but none of which are substantial enough to write a whole column about.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Memos From a Dusty Table",
+      "kicker": "From the Desk of David Pogue",
+      "print_headline": "Memos From a Dusty Table"
+    },
+    "_id": "nyt://article/9d28ad62-e686-541b-8583-fbbd3a1e08b7",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Technology / Circuits",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-04-15T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "And now, my periodic cleansing of the desk: Random notes, each of which is worth passing along, but none of which are substantial enough to write a whole column about.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9d28ad62-e686-541b-8583-fbbd3a1e08b7",
+    "web_url": "https://www.nytimes.com/2004/04/15/technology/circuits/memos-from-a-dusty-table.html",
+    "word_count": 564
+  },
+  {
+    "abstract": "And now, my periodic cleansing of the desk: Random notes, each of which is worth passing along, but none of which are substantial enough to write a whole column about.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Memos From a Dusty Table",
+      "kicker": "From the Desk of David Pogue",
+      "print_headline": "Memos From a Dusty Table"
+    },
+    "_id": "nyt://article/77bec370-acd0-519f-9e2b-44ecebcb111d",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Technology / Circuits",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-04-14T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "And now, my periodic cleansing of the desk: Random notes, each of which is worth passing along, but none of which are substantial enough to write a whole column about.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/77bec370-acd0-519f-9e2b-44ecebcb111d",
+    "web_url": "https://www.nytimes.com/2004/04/14/technology/circuits/memos-from-a-dusty-table.html",
+    "word_count": 564
+  },
+  {
+    "abstract": "Lexar Media intorduces CompactFlash card for that can store 1,000 or more images; photo (S)",
+    "byline": {
+      "original": "By Chris Larson"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "NEWS WATCH: PHOTOGRAPHY; For Crackerjack Users, a Card That Stores 1,000 Pictures",
+      "kicker": "NEWS WATCH: PHOTOGRAPHY",
+      "print_headline": "NEWS WATCH: PHOTOGRAPHY; For Crackerjack Users, a Card That Stores 1,000 Pictures"
+    },
+    "_id": "nyt://article/e856bb23-335d-5eac-a1ba-cb4ec2f5066b",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "LEXAR MEDIA",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Photography",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00003",
+    "print_section": "G",
+    "pub_date": "2004-04-15T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "Lexar Media intorduces CompactFlash card for that can store 1,000 or more images; photo (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/e856bb23-335d-5eac-a1ba-cb4ec2f5066b",
+    "web_url": "https://www.nytimes.com/2004/04/15/technology/news-watch-photography-for-crackerjack-users-a-card-that-stores-1000-pictures.html",
+    "word_count": 237
+  },
+  {
+    "abstract": "Armed robbers grab one of world's most famous paintings, The Scream by Edvard Munch, and another Munch painting in full view of museum goers at Munch Museum in Oslo, Norway; robbers then speed off in black station wagon; they had held guards at gunpoint and used wire cutter to clip framed paintings free of wall; their getaway car is later found in northern Oslo; art experts say that given fame of both The Scream and second painting, Madonna, it would be nearly impossible to sell them to collector; speculation is that thieves will demand ransom; 1994 theft of another version of The Scream recalled; photos (M)",
+    "byline": {
+      "original": "By Walter Gibbs and Carol Vogel"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Munch's 'Scream' Is Stolen From a Crowded Museum in Oslo",
+      "kicker": "",
+      "print_headline": "Munch's 'Scream' Is Stolen From a Crowded Museum in Oslo"
+    },
+    "_id": "nyt://article/fea211df-33b6-535d-ad8e-735c059ae5da",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Oslo (Norway)",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Munch Museum",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Munch, Edvard",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Robberies and Thefts",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "RANSOM",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Art",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Foreign Desk",
+    "print_page": "00006",
+    "print_section": "A",
+    "pub_date": "2004-08-23T05:00:00Z",
+    "section_name": "World",
+    "snippet": "Armed robbers grab one of world's most famous paintings, The Scream by Edvard Munch, and another Munch painting in full view of museum goers at Munch Museum in Oslo, Norway; robbers then speed off in black station wagon; they had held guards at gunpoint and used wire cutter to clip framed paintings free of wall; their getaway car is later found in northern Oslo; art experts say that given fame of both The Scream and second painting, Madonna, it would be nearly impossible to sell them to collector; speculation is that thieves will demand ransom; 1994 theft of another version of The Scream recalled; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/fea211df-33b6-535d-ad8e-735c059ae5da",
+    "web_url": "https://www.nytimes.com/2004/08/23/world/munch-s-scream-is-stolen-from-a-crowded-museum-in-oslo.html",
+    "word_count": 1171
+  },
+  {
+    "abstract": "UNTIL he had them taken down, scrubbed and restored, Monsignor Ferdinando D. Berardi did not realize how luminous the stained glass windows in his church could be. The illustrations had become murky with 70 years of slowly accumulating grime. The colors were lost in dust.    ''If you look at these windows, they're beautiful, but they're darker,'' he said of the windows still in line to be restored as he walked down the side aisle of Church of the Holy Family in New Rochelle.   ",
+    "byline": {
+      "original": "By Jeff Grossman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "IN BUSINESS; Let There Be Light",
+      "kicker": "IN BUSINESS",
+      "print_headline": "IN BUSINESS; Let There Be Light"
+    },
+    "_id": "nyt://article/e789ec9d-8233-55b0-ad35-76c99821bf95",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Westchester Weekly Desk",
+    "print_page": "14",
+    "print_section": "WC",
+    "pub_date": "2004-12-26T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "UNTIL he had them taken down, scrubbed and restored, Monsignor Ferdinando D. Berardi did not realize how luminous the stained glass windows in his church could be. The illustrations had become murky with 70 years of slowly accumulating grime. The colors were lost in dust.    ''If you look at these windows, they're beautiful, but they're darker,'' he said of the windows still in line to be restored as he walked down the side aisle of Church of the Holy Family in New Rochelle.   ",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/e789ec9d-8233-55b0-ad35-76c99821bf95",
+    "web_url": "https://www.nytimes.com/2004/12/26/nyregion/in-business-let-there-be-light.html",
+    "word_count": 929
+  },
+  {
+    "abstract": "Stephen Metcalf reviews book Honored Guest: Stories by Jay Williams; photo (M)",
+    "byline": {
+      "original": "By Stephen Metcalf"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'Honored Guest': The Small Chill",
+      "kicker": "",
+      "print_headline": "The Small Chill"
+    },
+    "_id": "nyt://article/7d36db2d-5e00-5a23-afcb-a7316889209a",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Williams, Jay",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Williams, Joy",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "HONORED GUEST: STORIES (BOOK)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Book Review Desk",
+    "print_page": "014",
+    "print_section": "7",
+    "pub_date": "2004-12-19T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Stephen Metcalf reviews book Honored Guest: Stories by Jay Williams; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/7d36db2d-5e00-5a23-afcb-a7316889209a",
+    "web_url": "https://www.nytimes.com/2004/12/19/books/review/honored-guest-the-small-chill.html",
+    "word_count": 867
+  },
+  {
+    "abstract": "In the mosaic of details that constitute Lance Armstrong's smooth path to victory in a sixth successive Tour de France, a handful stand out to help explain the rider and the man.. First, the rider.. On the 15th of 20 daily stages, in the Alpine foothills,",
+    "byline": {
+      "original": "By Samuel Abt, International Herald Tribune"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "CYCLING : A peek into what makes a 6-time Tour champion",
+      "kicker": "",
+      "print_headline": "CYCLING : A peek into what makes a 6-time Tour champion"
+    },
+    "_id": "nyt://article/5a3e2521-20e9-5567-a127-ebd7e6168664",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "IHT News",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-07-28T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "In the mosaic of details that constitute Lance Armstrong's smooth path to victory in a sixth successive Tour de France, a handful stand out to help explain the rider and the man.. First, the rider.. On the 15th of 20 daily stages, in the Alpine foothills,",
+    "source": "International Herald Tribune",
+    "subsection_name": "",
+    "type_of_material": "",
+    "uri": "nyt://article/5a3e2521-20e9-5567-a127-ebd7e6168664",
+    "web_url": "https://www.nytimes.com/2004/07/28/sports/IHT-cycling-a-peek-into-what-makes-a-6time-tour-champion.html",
+    "word_count": 4574
+  },
+  {
+    "abstract": "Night Out With column accompanies Stacy Peralta, co-writer and director of new surfing documentary Riding Giants, and friends to restaurant at Los Angeles International Airport; photo (M)",
+    "byline": {
+      "original": "By Margy Rochlin"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A NIGHT OUT WITH: Stacy Peralta; Surfer Emeritus",
+      "kicker": "",
+      "print_headline": "A NIGHT OUT WITH: Stacy Peralta; Surfer Emeritus"
+    },
+    "_id": "nyt://article/74e54c15-8a2a-53b4-b24f-55023fba3e49",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "PERALTA, STACY",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      },
+      {
+        "name": "Title",
+        "value": "Riding Giants (Movie)",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Style Desk",
+    "print_page": "004",
+    "print_section": "9",
+    "pub_date": "2004-07-04T05:00:00Z",
+    "section_name": "Style",
+    "snippet": "Night Out With column accompanies Stacy Peralta, co-writer and director of new surfing documentary Riding Giants, and friends to restaurant at Los Angeles International Airport; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/74e54c15-8a2a-53b4-b24f-55023fba3e49",
+    "web_url": "https://www.nytimes.com/2004/07/04/style/a-night-out-with-stacy-peralta-surfer-emeritus.html",
+    "word_count": 712
+  }
+]

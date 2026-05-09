@@ -1,0 +1,611 @@
+[
+  {
+    "abstract": "New York Giants coach Tom Coughlin reiterates his concerns about unstable offensive line (M)",
+    "byline": {
+      "original": "By Bill Finley"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "PRO FOOTBALL; Line Play Troubles Coughlin",
+      "kicker": "PRO FOOTBALL",
+      "print_headline": "PRO FOOTBALL; Line Play Troubles Coughlin"
+    },
+    "_id": "nyt://article/809f26b8-6bb6-5bd1-b0e1-585198a0c471",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "New York Giants",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Coughlin, Tom",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Coaches and Managers",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Football",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Sports Desk",
+    "print_page": "00002",
+    "print_section": "D",
+    "pub_date": "2004-08-31T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "New York Giants coach Tom Coughlin reiterates his concerns about unstable offensive line (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/809f26b8-6bb6-5bd1-b0e1-585198a0c471",
+    "web_url": "https://www.nytimes.com/2004/08/31/sports/pro-football-line-play-troubles-coughlin.html",
+    "word_count": 564
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": "By Huw Richards"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Australia clobbers Britain, 44-4, for league's Tri-Nation title : A hegemony remains intact",
+      "kicker": "",
+      "print_headline": "Australia clobbers Britain, 44-4, for league's Tri-Nation title : A hegemony remains intact"
+    },
+    "_id": "nyt://article/1d8da58c-7264-5042-87cc-5b6e8b5d1f5e",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-11-29T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/1d8da58c-7264-5042-87cc-5b6e8b5d1f5e",
+    "web_url": "https://www.nytimes.com/2004/11/29/sports/australia-clobbers-britain-444-for-leagues-trination-title-a-hegemony.html",
+    "word_count": 735
+  },
+  {
+    "abstract": "Anne Midgette reviews Metropolitan Opera production of Verdi's Aida (M)",
+    "byline": {
+      "original": "By Anne Midgette"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Isn't It Grand? Blow Ye Trumpets, Blow!",
+      "kicker": "MET OPERA REVIEW",
+      "print_headline": "MET OPERA REVIEW; Isn't It Grand? Blow Ye Trumpets, Blow!"
+    },
+    "_id": "nyt://article/98450212-e4ec-5c83-be37-514c17c96e61",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Metropolitan Opera",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Verdi, Giuseppe",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Opera",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Aida (Opera)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00008",
+    "print_section": "E",
+    "pub_date": "2004-10-19T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Anne Midgette reviews Metropolitan Opera production of Verdi's Aida (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/98450212-e4ec-5c83-be37-514c17c96e61",
+    "web_url": "https://www.nytimes.com/2004/10/19/arts/music/isnt-it-grand-blow-ye-trumpets-blow.html",
+    "word_count": 385
+  },
+  {
+    "abstract": "Rift between designer Patrick Robinson and Perry Ellis International, which ended in Robinson's departure, is one example of fashion industry's frequent disconnect between art and commerce; photos (M)",
+    "byline": {
+      "original": "By Ruth La Ferla"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Divorce, Seventh Avenue Style",
+      "kicker": "",
+      "print_headline": "Divorce, Seventh Avenue Style"
+    },
+    "_id": "nyt://article/cf1c2390-8b1e-5519-8baf-896a12dea023",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Perry Ellis International Incorporated",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "ELLIS, PERRY, INTERNATIONAL",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Robinson, Patrick",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "APPAREL",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "RETAIL STORES AND TRADE",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Style Desk",
+    "print_page": "002",
+    "print_section": "9",
+    "pub_date": "2004-12-12T05:00:00Z",
+    "section_name": "Style",
+    "snippet": "Rift between designer Patrick Robinson and Perry Ellis International, which ended in Robinson's departure, is one example of fashion industry's frequent disconnect between art and commerce; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/cf1c2390-8b1e-5519-8baf-896a12dea023",
+    "web_url": "https://www.nytimes.com/2004/12/12/fashion/divorce-seventh-avenue-style.html",
+    "word_count": 1432
+  },
+  {
+    "abstract": "Paul Duchene Autos on Monday/Collecting column discusses Rolls-Royce AX-201; photo (S)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "AUTOS ON MONDAY/Collecting; Rolls-Royce AX-201, First in a Line of Blue Bloods",
+      "kicker": "",
+      "print_headline": "AUTOS ON MONDAY/Collecting; Rolls-Royce AX-201, First in a Line of Blue Bloods"
+    },
+    "_id": "nyt://article/15425bfe-5d72-572b-9241-e1da8762885e",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Duchene, Paul",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Automobiles",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Automobiles",
+    "print_page": "00010",
+    "print_section": "D",
+    "pub_date": "2004-08-09T05:00:00Z",
+    "section_name": "Automobiles",
+    "snippet": "Paul Duchene Autos on Monday/Collecting column discusses Rolls-Royce AX-201; photo (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/15425bfe-5d72-572b-9241-e1da8762885e",
+    "web_url": "https://www.nytimes.com/2004/08/09/automobiles/autos-on-monday-collecting-rolls-royce-ax-201-first-in-a-line-of-blue-bloods.html",
+    "word_count": 312
+  },
+  {
+    "abstract": "Roberta Smith reviews carpet installation by Rudolf Stingel at Grand Central Terminal's Vanderbilt Hall (M)",
+    "byline": {
+      "original": "By Roberta Smith"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "ART IN REVIEW; Rudolf Stingel -- 'Plan B'",
+      "kicker": "ART IN REVIEW",
+      "print_headline": "ART IN REVIEW; Rudolf Stingel -- 'Plan B'"
+    },
+    "_id": "nyt://article/7bf0e3b0-a659-5e77-88f3-1a6bafa16531",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Stingel, Rudolf",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Carpets and Rugs",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Grand Central Terminal (NYC)",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Art",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Leisure/Weekend Desk",
+    "print_page": "00030",
+    "print_section": "E",
+    "pub_date": "2004-08-13T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Roberta Smith reviews carpet installation by Rudolf Stingel at Grand Central Terminal's Vanderbilt Hall (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/7bf0e3b0-a659-5e77-88f3-1a6bafa16531",
+    "web_url": "https://www.nytimes.com/2004/08/13/arts/art-in-review-rudolf-stingel-plan-b.html",
+    "word_count": 376
+  },
+  {
+    "abstract": "Editorial says Vice Pres Cheney made totally unacceptable remark in campaign speech, telling American people that mere act of voting for Sen John Kerry would open door to another terrorist attack; says there is danger America will be hit again no matter who is elected, as Pres Bush himself has said on many occasions",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A Disgraceful Campaign Speech",
+      "kicker": "",
+      "print_headline": "Fear & Blaming on the Campaign Trail; A Disgraceful Campaign Speech"
+    },
+    "_id": "nyt://article/3214a87a-f3ca-58f4-b773-4edd5ec7e05a",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Bush, George W",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Kerry, John",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Cheney, Dick",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Presidential Elections (US)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Editorials",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "ELECTION ISSUES",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Terrorism",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Presidential Election of 2004",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "00032",
+    "print_section": "A",
+    "pub_date": "2004-09-09T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Editorial says Vice Pres Cheney made totally unacceptable remark in campaign speech, telling American people that mere act of voting for Sen John Kerry would open door to another terrorist attack; says there is danger America will be hit again no matter who is elected, as Pres Bush himself has said on many occasions",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Editorial",
+    "uri": "nyt://article/3214a87a-f3ca-58f4-b773-4edd5ec7e05a",
+    "web_url": "https://www.nytimes.com/2004/09/09/opinion/a-disgraceful-campaign-speech.html",
+    "word_count": 422
+  },
+  {
+    "abstract": "Anthony Quinn reviews book The Line of Beauty by Alan Hollinghurst; photo (M)",
+    "byline": {
+      "original": "By Anthony Quinn"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'The Line of Beauty': The Last Good Summer",
+      "kicker": "",
+      "print_headline": "The Last Good Summer"
+    },
+    "_id": "nyt://article/984eae6d-a244-5096-a5c7-e96be2bdaa0b",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Hollinghurst, Alan",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "BOOKER PRIZE",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "LINE OF BEAUTY, THE (BOOK)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Book Review Desk",
+    "print_page": "019",
+    "print_section": "7",
+    "pub_date": "2004-10-31T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Anthony Quinn reviews book The Line of Beauty by Alan Hollinghurst; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/984eae6d-a244-5096-a5c7-e96be2bdaa0b",
+    "web_url": "https://www.nytimes.com/2004/10/31/books/review/the-line-of-beauty-the-last-good-summer.html",
+    "word_count": 1392
+  },
+  {
+    "abstract": "Lawrence Zeitlin letter expresses disappointment at Benjamin Genocchio's May 23 review of show at Silvermine Guild Arts Center",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Crossing the Line In Reviewing Art",
+      "kicker": "",
+      "print_headline": "Crossing the Line In Reviewing Art"
+    },
+    "_id": "nyt://article/d1966272-acf5-55c2-a933-288ac4ab5740",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Silvermine Guild Arts Center",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Genocchio, Benjamin",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Zeitlin, Lawrence",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Art",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Connecticut Weekly Desk",
+    "print_page": "14",
+    "print_section": "CN",
+    "pub_date": "2004-07-04T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Lawrence Zeitlin letter expresses disappointment at Benjamin Genocchio's May 23 review of show at Silvermine Guild Arts Center",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/d1966272-acf5-55c2-a933-288ac4ab5740",
+    "web_url": "https://www.nytimes.com/2004/07/04/nyregion/l-crossing-the-line-in-reviewing-art-161330.html",
+    "word_count": 410
+  },
+  {
+    "abstract": "Gov. Arnold Schwarzenegger staged a rousing celebration on Friday to mark the end of a monthlong budget deadlock and his 57th birthday.",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Schwarzenegger Has Budget and Birthday",
+      "kicker": "",
+      "print_headline": "Schwarzenegger Has Budget and Birthday"
+    },
+    "_id": "nyt://article/ee9400b0-fbe8-55fe-8481-22e46c284c33",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "California",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Schwarzenegger, Arnold",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-08-01T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Gov. Arnold Schwarzenegger staged a rousing celebration on Friday to mark the end of a monthlong budget deadlock and his 57th birthday.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ee9400b0-fbe8-55fe-8481-22e46c284c33",
+    "web_url": "https://www.nytimes.com/2004/08/01/national/schwarzenegger-has-budget-and-birthday.html",
+    "word_count": 404
+  }
+]

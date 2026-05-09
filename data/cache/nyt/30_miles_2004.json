@@ -1,0 +1,762 @@
+[
+  {
+    "abstract": "Miles Fiterman, businessman who donated $30 million building to Borough of Manhattan Community College that was destroyed in 9/11 terrorist attack, dies at age 84 (M)",
+    "byline": {
+      "original": "By Ashlei Stevens"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Miles Fiterman Dies at 84; Gave $30 Million Building to College",
+      "kicker": "",
+      "print_headline": "Miles Fiterman Dies at 84; Gave $30 Million Building to College"
+    },
+    "_id": "nyt://article/d46db68b-5ef8-57e5-b0ef-168c4a9fbaca",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "FITERMAN, MILES",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Biographical Information",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00021",
+    "print_section": "A",
+    "pub_date": "2004-06-25T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Miles Fiterman, businessman who donated $30 million building to Borough of Manhattan Community College that was destroyed in 9/11 terrorist attack, dies at age 84 (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Obituary; Biography",
+    "uri": "nyt://article/d46db68b-5ef8-57e5-b0ef-168c4a9fbaca",
+    "web_url": "https://www.nytimes.com/2004/06/25/us/miles-fiterman-dies-at-84-gave-30-million-building-to-college.html",
+    "word_count": 421
+  },
+  {
+    "abstract": "Brig Gen Charles B Allen and six soldiers aboard an Army helicopter flying through fog are killed when it crashes after hitting support wire on television transmission tower, Texas (S)",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "All 7 Aboard Die as Army Helicopter Crashes in Texas",
+      "kicker": "",
+      "print_headline": "All 7 Aboard Die As Army Helicopter Crashes in Texas"
+    },
+    "_id": "nyt://article/301d5483-c1f7-59f2-a985-c08176095c8f",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Texas",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "ALLEN, CHARLES B",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Accidents and Safety",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Airlines and Airplanes",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Weather",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Military Aircraft",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Helicopters",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "United States Armament and Defense",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00018",
+    "print_section": "A",
+    "pub_date": "2004-11-30T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Brig Gen Charles B Allen and six soldiers aboard an Army helicopter flying through fog are killed when it crashes after hitting support wire on television transmission tower, Texas (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/301d5483-c1f7-59f2-a985-c08176095c8f",
+    "web_url": "https://www.nytimes.com/2004/11/30/us/all-7-aboard-die-as-army-helicopter-crashes-in-texas.html",
+    "word_count": 319
+  },
+  {
+    "abstract": "Scrap metal plant in Muskogee, Okla, explodes sending fiery debris into air and blowing out windows of nearby homes (S)",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "National Briefing | Plains: Oklahoma: Plant Explosion",
+      "kicker": "",
+      "print_headline": "National Briefing | Plains: Oklahoma: Plant Explosion"
+    },
+    "_id": "nyt://article/d43da4f4-faf1-58cc-9075-009020a4cf97",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Muskogee (Okla)",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Oklahoma",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Explosions",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00016",
+    "print_section": "A",
+    "pub_date": "2004-12-29T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Scrap metal plant in Muskogee, Okla, explodes sending fiery debris into air and blowing out windows of nearby homes (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/d43da4f4-faf1-58cc-9075-009020a4cf97",
+    "web_url": "https://www.nytimes.com/2004/12/29/us/national-briefing-plains-oklahoma-plant-explosion.html",
+    "word_count": 75
+  },
+  {
+    "abstract": "Tanya Shelton pleads guilty to kidnapping infant Grayci Barrows from Fort Logan Hospital in Stanford, Ky, in April; plea agreement downgrades charge to lesser felony because child was not injured (S)",
+    "byline": {
+      "original": "By The Associated Press"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "National Briefing | South: Kentucky: Ex-Nurse Admits Guilt In Kidnapping",
+      "kicker": "",
+      "print_headline": "National Briefing | South: Kentucky: Ex-Nurse Admits Guilt In Kidnapping"
+    },
+    "_id": "nyt://article/c045c9c7-1f00-56fd-a205-483aca73548a",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "STANFORD (KY)",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "FORT LOGAN HOSPITAL",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "SHELTON, TANYA",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "BARROWS, GRAYCI",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Plea Bargaining",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Children and Youth",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Kidnapping",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00021",
+    "print_section": "A",
+    "pub_date": "2004-10-22T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Tanya Shelton pleads guilty to kidnapping infant Grayci Barrows from Fort Logan Hospital in Stanford, Ky, in April; plea agreement downgrades charge to lesser felony because child was not injured (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/c045c9c7-1f00-56fd-a205-483aca73548a",
+    "web_url": "https://www.nytimes.com/2004/10/22/us/national-briefing-south-kentucky-exnurse-admits-guilt-in-kidnapping.html",
+    "word_count": 173
+  },
+  {
+    "abstract": "Haitian police report killing two former soliders from Petit-Goave at Port-au-Prince checkpoint; tensions between police and former soldiers continue to rise as each faction tries to gain control of security in war-torn nation (S)",
+    "byline": {
+      "original": "By Reuters"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "World Briefing | Americas: Haiti: Police Kill 2 Rebel Soldiers",
+      "kicker": "",
+      "print_headline": "World Briefing | Americas: Haiti: Police Kill 2 Rebel Soldiers"
+    },
+    "_id": "nyt://article/9837aff9-fc18-5717-8055-e921802fb71d",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Port-au-Prince (Haiti)",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "PETIT-GOAVE (HAITI)",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "Haiti",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "CIVIL WAR AND GUERRILLA WARFARE",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Security and Warning Systems",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Police",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Foreign Desk",
+    "print_page": "00006",
+    "print_section": "A",
+    "pub_date": "2004-09-09T05:00:00Z",
+    "section_name": "World",
+    "snippet": "Haitian police report killing two former soliders from Petit-Goave at Port-au-Prince checkpoint; tensions between police and former soldiers continue to rise as each faction tries to gain control of security in war-torn nation (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9837aff9-fc18-5717-8055-e921802fb71d",
+    "web_url": "https://www.nytimes.com/2004/09/09/world/world-briefing-americas-haiti-police-kill-2-rebel-soldiers.html",
+    "word_count": 149
+  },
+  {
+    "abstract": "World Business B",
+    "byline": {
+      "original": "By Bloomberg News"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "World Business Briefing | Americas: Brazil: Steel Mill Planned",
+      "kicker": "",
+      "print_headline": "World Business Briefing | Americas: Brazil: Steel Mill Planned"
+    },
+    "_id": "nyt://article/ca392038-65af-5f95-adf8-c4709ba3e9f2",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Brazil",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Sao Paulo (Brazil)",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Gerdau SA",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Steel and Iron",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "FACTORIES AND INDUSTRIAL PLANTS",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Production",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00001",
+    "print_section": "W",
+    "pub_date": "2004-10-19T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "World Business B",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ca392038-65af-5f95-adf8-c4709ba3e9f2",
+    "web_url": "https://www.nytimes.com/2004/10/19/business/world-business-briefing-americas-brazil-steel-mill-planned.html",
+    "word_count": 163
+  },
+  {
+    "abstract": "Martha Stewart is assigned to minimum-security Alderson Federal Prison in West Virgina to serve five months for conspiracy and other charges related to her sale of Imclone Systems stock; had hoped for facility closer to her family; Bureau of Prisons turned down her first choice of Danbury, Conn, because news media could stake it out too easily; photos (M)",
+    "byline": {
+      "original": "By Barry Meier"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Martha Stewart Assigned to Prison in West Virginia",
+      "kicker": "",
+      "print_headline": "Martha Stewart Assigned to Prison in West Virginia"
+    },
+    "_id": "nyt://article/8725b3fb-9fa0-51da-8a61-705871d81ebc",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "IMCLONE SYSTEMS",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "BUREAU OF PRISONS",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "MARTHA STEWART LIVING OMNIMEDIA INCORPORATED",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "ALDERSON FEDERAL PRISON CENTER",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Stewart, Martha",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Securities and Commodities Violations",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Cancer",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Insider Trading",
+        "rank": 10
+      },
+      {
+        "name": "Subject",
+        "value": "Guards",
+        "rank": 11
+      },
+      {
+        "name": "Subject",
+        "value": "Erbitux (Drug)",
+        "rank": 12
+      },
+      {
+        "name": "Subject",
+        "value": "News and News Media",
+        "rank": 13
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00001",
+    "print_section": "C",
+    "pub_date": "2004-09-30T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Martha Stewart is assigned to minimum-security Alderson Federal Prison in West Virgina to serve five months for conspiracy and other charges related to her sale of Imclone Systems stock; had hoped for facility closer to her family; Bureau of Prisons turned down her first choice of Danbury, Conn, because news media could stake it out too easily; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/8725b3fb-9fa0-51da-8a61-705871d81ebc",
+    "web_url": "https://www.nytimes.com/2004/09/30/business/martha-stewart-assigned-to-prison-in-west-virginia.html",
+    "word_count": 913
+  },
+  {
+    "abstract": "Fred Alger Management executives Frederick Alger 3rd, Daniel Chung and Zachary Karabell, in open letter to Pres Bush, urge that $1,000 tax be imposed on personal vehicles that get less than 30 miles per gallon (S)",
+    "byline": {
+      "original": "By Mark A. Stein"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "OPENERS: SUITS; MORE POLITICS",
+      "kicker": "OPENERS: SUITS",
+      "print_headline": "OPENERS: SUITS; MORE POLITICS"
+    },
+    "_id": "nyt://article/8de494e0-41fd-5752-9eeb-c20eb745aef8",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Alger, Fred, Management Inc",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "ALGER, FREDERICK 3RD",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "CHUNG, DANIEL",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Bush, George W",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Karabell, Zachary",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Automobiles",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Fuel Efficiency",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Taxation",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "SundayBusiness",
+    "print_page": "002",
+    "print_section": "3",
+    "pub_date": "2004-12-05T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Fred Alger Management executives Frederick Alger 3rd, Daniel Chung and Zachary Karabell, in open letter to Pres Bush, urge that $1,000 tax be imposed on personal vehicles that get less than 30 miles per gallon (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/8de494e0-41fd-5752-9eeb-c20eb745aef8",
+    "web_url": "https://www.nytimes.com/2004/12/05/business/openers-suits-more-politics.html",
+    "word_count": 183
+  },
+  {
+    "abstract": "Police officials reduce speed limit to 30 mph from 45 on small stretch of Route 9A in Briarcliff Manor, NY, where gasoline tanker flipped over in fiery crash (S)",
+    "byline": {
+      "original": "By Lisa W. Foderaro (NYT)"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Metro Briefing | New York: Briarcliff Manor: Speed Limit Lowered After Crash",
+      "kicker": "",
+      "print_headline": "Metro Briefing | New York: Briarcliff Manor: Speed Limit Lowered After Crash"
+    },
+    "_id": "nyt://article/a2742119-2d78-53a0-91e8-23bb4153c339",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Briarcliff Manor (NY)",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Accidents and Safety",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Trucks and Trucking",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Roads and Traffic",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Speed Limits and Speeding",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metropolitan Desk",
+    "print_page": "00008",
+    "print_section": "B",
+    "pub_date": "2004-11-19T05:00:00Z",
+    "section_name": "New York",
+    "snippet": "Police officials reduce speed limit to 30 mph from 45 on small stretch of Route 9A in Briarcliff Manor, NY, where gasoline tanker flipped over in fiery crash (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/a2742119-2d78-53a0-91e8-23bb4153c339",
+    "web_url": "https://www.nytimes.com/2004/11/19/nyregion/metro-briefing-new-york-briarcliff-manor-speed-limit-lowered-after.html",
+    "word_count": 173
+  },
+  {
+    "abstract": "Joseph T Nee, 18, is arrested in connection with plot to attack his high school in Marshfield, Mass, with explosives and kill students and teachers; Nee's father Thomas Nee is head of Boston Police Patrolmen's Assn (S)",
+    "byline": {
+      "original": "By Katie Zezima (NYT)"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "National Briefing | New England: Massachusetts: Arrest On Charge Of Plot To Bomb School",
+      "kicker": "",
+      "print_headline": "National Briefing | New England: Massachusetts: Arrest On Charge Of Plot To Bomb School"
+    },
+    "_id": "nyt://article/202e450f-fe47-5f82-977f-06759fb79a95",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "MARSHFIELD (MASS)",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "NEE, THOMAS",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "NEE, JOSEPH T",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Bombs and Explosives",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Education and Schools",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Children and Youth",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "National Desk",
+    "print_page": "00016",
+    "print_section": "A",
+    "pub_date": "2004-10-19T05:00:00Z",
+    "section_name": "U.S.",
+    "snippet": "Joseph T Nee, 18, is arrested in connection with plot to attack his high school in Marshfield, Mass, with explosives and kill students and teachers; Nee's father Thomas Nee is head of Boston Police Patrolmen's Assn (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/202e450f-fe47-5f82-977f-06759fb79a95",
+    "web_url": "https://www.nytimes.com/2004/10/19/us/education/national-briefing-new-england-massachusetts-arrest-on-charge.html",
+    "word_count": 181
+  }
+]

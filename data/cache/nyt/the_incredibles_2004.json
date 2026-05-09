@@ -1,0 +1,766 @@
+[
+  {
+    "abstract": "Arts, Briefly column; Disney-Pixar film The Incredibles dominates box office for second weekend in row, with estimated $51 million in box office sales; Warner Brothers' The Polar Express has disappointing first weekend, taking in $23.5 million; photo (S)",
+    "byline": {
+      "original": "By Sharon Waxman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Arts, Briefly; The Incredible 'Incredibles'",
+      "kicker": "",
+      "print_headline": "Arts, Briefly; The Incredible 'Incredibles'"
+    },
+    "_id": "nyt://article/c0a38664-f960-5d40-a22c-0382e1b5252d",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Finances",
+        "rank": 2
+      },
+      {
+        "name": "Title",
+        "value": "INCREDIBLES, THE (MOVIE)",
+        "rank": 3
+      },
+      {
+        "name": "Title",
+        "value": "POLAR EXPRESS, THE (MOVIE)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00002",
+    "print_section": "E",
+    "pub_date": "2004-11-15T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Arts, Briefly column; Disney-Pixar film The Incredibles dominates box office for second weekend in row, with estimated $51 million in box office sales; Warner Brothers' The Polar Express has disappointing first weekend, taking in $23.5 million; photo (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/c0a38664-f960-5d40-a22c-0382e1b5252d",
+    "web_url": "https://www.nytimes.com/2004/11/15/arts/movies/arts-briefly-the-incredible-incredibles.html",
+    "word_count": 185
+  },
+  {
+    "abstract": "Pixar-Walt Disney Co computer-animated movie The Incredibles takes in estimated $70.7 million nationwide in its first weekend; Paramount's Alfie remake garners dismal $6.5 million, far below expectations; photo (M)",
+    "byline": {
+      "original": "By Sharon Waxman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Disney and Pixar Score Again as 'The Incredibles' Opens Big",
+      "kicker": "",
+      "print_headline": "Disney and Pixar Score Again As 'The Incredibles' Opens Big"
+    },
+    "_id": "nyt://article/9d45956b-294c-5bcf-b857-95a3fbfbdd66",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Disney, Walt, Co",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "PIXAR",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Law, Jude",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Lansing, Sherry",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Finances",
+        "rank": 6
+      },
+      {
+        "name": "Title",
+        "value": "INCREDIBLES, THE (MOVIE)",
+        "rank": 7
+      },
+      {
+        "name": "Title",
+        "value": "Alfie (Movie)",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00003",
+    "print_section": "E",
+    "pub_date": "2004-11-08T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Pixar-Walt Disney Co computer-animated movie The Incredibles takes in estimated $70.7 million nationwide in its first weekend; Paramount's Alfie remake garners dismal $6.5 million, far below expectations; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/9d45956b-294c-5bcf-b857-95a3fbfbdd66",
+    "web_url": "https://www.nytimes.com/2004/11/08/movies/MoviesFeatures/disney-and-pixar-score-again-as-the-incredibles-opens.html",
+    "word_count": 565
+  },
+  {
+    "abstract": "Editorial on Pietro Barberi, 24, who has been hired, despite lack of credentials and little experience, as senior accountant for Yonkers Board of Education at a salary of $90,100-a-year; how job search was conducted and why Barberi was hired remains a mystery",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Incredible Pietro",
+      "kicker": "Westchester",
+      "print_headline": "The Incredible Pietro"
+    },
+    "_id": "nyt://article/818546cc-1bef-504b-a5ba-03c763d30961",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "New Jersey",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Yonkers (NY)",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "BOARD OF EDUCATION",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Barberi, Pietro",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Editorials",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Education and Schools",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Hiring and Promotion",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Ethics",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Government Employees",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Westchester Weekly Desk",
+    "print_page": "14",
+    "print_section": "WC",
+    "pub_date": "2004-11-21T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Editorial on Pietro Barberi, 24, who has been hired, despite lack of credentials and little experience, as senior accountant for Yonkers Board of Education at a salary of $90,100-a-year; how job search was conducted and why Barberi was hired remains a mystery",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Editorial",
+    "uri": "nyt://article/818546cc-1bef-504b-a5ba-03c763d30961",
+    "web_url": "https://www.nytimes.com/2004/11/21/opinion/opinionspecial/the-incredible-pietro.html",
+    "word_count": 612
+  },
+  {
+    "abstract": "Pixar Animation Studios, whose joint venture with Walt Disney Co is set to expire in 2005, has yet to begin serious talks to determine its next distribution partner; chief executive Steven P Jobs cites outlook for shifts in top executives at studios; planned retirement of Michael D Eisner as Disney chief executive seen key factor; Jobs has always favored deal with Disney, but blamed Eisner for souring two companies' lucrative ties; photo (M)",
+    "byline": {
+      "original": "By Laura M. Holson"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "After 'The Incredibles,' Pixar Can Afford to Play Hard-to-Get",
+      "kicker": "MEDIA",
+      "print_headline": "MEDIA; After 'The Incredibles,' Pixar Can Afford to Play Hard-to-Get"
+    },
+    "_id": "nyt://article/4caaf522-5793-5266-a422-ff79764432a7",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Pixar Animation Studios",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Disney, Walt, Co",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "DREAMWORKS SKG",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "PIXAR",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Jobs, Steven P",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Eisner, Michael D",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00009",
+    "print_section": "C",
+    "pub_date": "2004-11-15T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Pixar Animation Studios, whose joint venture with Walt Disney Co is set to expire in 2005, has yet to begin serious talks to determine its next distribution partner; chief executive Steven P Jobs cites outlook for shifts in top executives at studios; planned retirement of Michael D Eisner as Disney chief executive seen key factor; Jobs has always favored deal with Disney, but blamed Eisner for souring two companies' lucrative ties; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/4caaf522-5793-5266-a422-ff79764432a7",
+    "web_url": "https://www.nytimes.com/2004/11/15/business/media/after-the-incredibles-pixar-can-afford-to-play-hardtoget.html",
+    "word_count": 663
+  },
+  {
+    "abstract": "Outlook for famous companies like Merrill Lynch and Morgan Stanley discussed in light of encroachments by universal banks such as Citigroup and J P Morgan, with their swollen balance sheets and ripe ambitions; investment bankers say two old-line firms are in similar quandaries but that Merrill faces most pressure to merge because it has become so much smaller; cite upcoming public offering of DreamWorks SKG's animation unit as example of how big banks use financial brawn and deal-making skill to muscle in on territory long owned by investment banks; photos; graphs showing stock declines this year for major Wall Street firms (M)",
+    "byline": {
+      "original": "By Landon Thomas Jr."
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Incredible Shrinking Investment Bank",
+      "kicker": "",
+      "print_headline": "The Incredible Shrinking Investment Bank"
+    },
+    "_id": "nyt://article/dbcec11a-ca39-522c-83c4-d06820242bdc",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Citigroup Inc",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "MORGAN STANLEY DEAN WITTER & COMPANY",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "MERRILL LYNCH & COMPANY INCORPORATED",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "MORGAN, J P, & CO",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "Morgan Stanley",
+        "rank": 5
+      },
+      {
+        "name": "Organization",
+        "value": "DREAMWORKS SKG",
+        "rank": 6
+      },
+      {
+        "name": "Organization",
+        "value": "Merrill Lynch & Co",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "INVESTMENT BANKING",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "INDUSTRY PROFILES",
+        "rank": 10
+      },
+      {
+        "name": "Subject",
+        "value": "Stocks and Bonds",
+        "rank": 11
+      },
+      {
+        "name": "Subject",
+        "value": "Banks and Banking",
+        "rank": 12
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "SundayBusiness",
+    "print_page": "001",
+    "print_section": "3",
+    "pub_date": "2004-10-17T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Outlook for famous companies like Merrill Lynch and Morgan Stanley discussed in light of encroachments by universal banks such as Citigroup and J P Morgan, with their swollen balance sheets and ripe ambitions; investment bankers say two old-line firms are in similar quandaries but that Merrill faces most pressure to merge because it has become so much smaller; cite upcoming public offering of DreamWorks SKG's animation unit as example of how big banks use financial brawn and deal-making skill to muscle in on territory long owned by investment banks; photos; graphs showing stock declines this year for major Wall Street firms (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/dbcec11a-ca39-522c-83c4-d06820242bdc",
+    "web_url": "https://www.nytimes.com/2004/10/17/business/yourmoney/the-incredible-shrinking-investment-bank.html",
+    "word_count": 2630
+  },
+  {
+    "abstract": "What's Next column explores development of atomic clocks using standard semiconductor process; device would replace quartz oscillators used in watches and electronic devices; drawing (M)",
+    "byline": {
+      "original": "By Ian Austen"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Time on a Chip: The Incredible Shrinking Atomic Clock",
+      "kicker": "WHAT'S NEXT",
+      "print_headline": "WHAT'S NEXT; Time on a Chip: The Incredible Shrinking Atomic Clock"
+    },
+    "_id": "nyt://article/586e5a85-5040-5428-b945-f19c3b009595",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "National Institute of Standards and Technology",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "SYMMETRICOM INCORPORATED",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Computer Chips",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Watches and Clocks",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Weather",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Physics",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00006",
+    "print_section": "G",
+    "pub_date": "2004-09-30T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "What's Next column explores development of atomic clocks using standard semiconductor process; device would replace quartz oscillators used in watches and electronic devices; drawing (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/586e5a85-5040-5428-b945-f19c3b009595",
+    "web_url": "https://www.nytimes.com/2004/09/30/technology/circuits/time-on-a-chip-the-incredible-shrinking-atomic-clock.html",
+    "word_count": 1095
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": "By Gina Rarick"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "HORSE RACING : Part sport, part spectacle, 'The Incredible Bet' lures fans in France",
+      "kicker": "",
+      "print_headline": "HORSE RACING : Part sport, part spectacle, 'The Incredible Bet' lures fans in France"
+    },
+    "_id": "nyt://article/c404f2bd-8393-593c-9809-794df9ea9e54",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-09-20T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/c404f2bd-8393-593c-9809-794df9ea9e54",
+    "web_url": "https://www.nytimes.com/2004/09/20/sports/horse-racing-part-sport-part-spectacle-the-incredible-bet-lures-fans.html",
+    "word_count": 671
+  },
+  {
+    "abstract": "Article on Disney/Pixar's latest animated film, The Incredibles, due for release on November 5, whose hero, Bob Parr, middle-aged retired Superhero, exhibits more middle-American sensibility than usual fare from Hollywood; cartoon (M)",
+    "byline": {
+      "original": "By John M. Broder"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Truth, Justice and the Middle-American Way",
+      "kicker": "",
+      "print_headline": "'The Incredibles' Tussle With Truth, Justice and the Middle-American Way"
+    },
+    "_id": "nyt://article/49161559-d3b3-5bb6-ae91-a9cb21c2c7a5",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "PIXAR INC",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Pixar Animation Studios",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Disney, Walt, Co",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Animated Films",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "INCREDIBLES, THE (MOVIE)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00001",
+    "print_section": "E",
+    "pub_date": "2004-10-20T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Article on Disney/Pixar's latest animated film, The Incredibles, due for release on November 5, whose hero, Bob Parr, middle-aged retired Superhero, exhibits more middle-American sensibility than usual fare from Hollywood; cartoon (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/49161559-d3b3-5bb6-ae91-a9cb21c2c7a5",
+    "web_url": "https://www.nytimes.com/2004/10/20/movies/truth-justice-and-the-middleamerican-way.html",
+    "word_count": 1417
+  },
+  {
+    "abstract": "Steven P Jobs' great success at helm of Pixar Animation Studios reviewed; photo; newest offering is The Incredibles, melding of superaction action and PG-rated comedy that could take in $519 million in worldwide box office after it opens in November; his masterstroke of emphasizing old-fashioned virtue of compelling storytelling noted (M)",
+    "byline": {
+      "original": "By Randall Stross"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Pixar's Mr. Incredible May Yet Rewrite the Apple Story",
+      "kicker": "DIGITAL DOMAIN",
+      "print_headline": "DIGITAL DOMAIN; Pixar's Mr. Incredible May Yet Rewrite the Apple Story"
+    },
+    "_id": "nyt://article/f6961dbd-4757-520e-9d3b-ee3ac41da245",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Pixar Animation Studios",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "APPLE COMPUTER INCORPORATED",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Jobs, Steven P",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Animated Films",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "COMPANY AND ORGANIZATION PROFILES",
+        "rank": 6
+      },
+      {
+        "name": "Title",
+        "value": "INCREDIBLES, THE (MOVIE)",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "SundayBusiness",
+    "print_page": "005",
+    "print_section": "3",
+    "pub_date": "2004-10-24T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "Steven P Jobs' great success at helm of Pixar Animation Studios reviewed; photo; newest offering is The Incredibles, melding of superaction action and PG-rated comedy that could take in $519 million in worldwide box office after it opens in November; his masterstroke of emphasizing old-fashioned virtue of compelling storytelling noted (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/f6961dbd-4757-520e-9d3b-ee3ac41da245",
+    "web_url": "https://www.nytimes.com/2004/10/24/business/yourmoney/pixars-mr-incredible-may-yet-rewrite-the-apple-story.html",
+    "word_count": 1211
+  },
+  {
+    "abstract": "Architect Daniel Libeskind, hailed last year as master planner of World Trade Center site, now plays far less visible role in redevelopment of downtown Manhattan; his influence, control and stature have steadily eroded as signature elements of his plan have been altered, reduced or eliminated; planning is now dominated by Port Authority of New York and New Jersey, which owns site, and by Skidmore, Owings & Merrill, architectural firm hired by Larry A Silverstein, site's leaseholder; Libeskind reportedly no longer attends meetings at which plans are discussed; photos (L)",
+    "byline": {
+      "original": "By Robin Pogrebin"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "ARCHITECTURE; The Incredible Shrinking Daniel Libeskind",
+      "kicker": "ARCHITECTURE",
+      "print_headline": "ARCHITECTURE; The Incredible Shrinking Daniel Libeskind"
+    },
+    "_id": "nyt://article/b4bd56e4-c2d4-56d9-b87a-b7cea8fffad5",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "New York City",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "SKIDMORE OWINGS & MERRILL",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Port Authority of New York and New Jersey",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Silverstein, Larry A",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Libeskind, Daniel",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "World Trade Center (NYC)",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Airlines and Airplanes",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Biographical Information",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Hijacking",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Terrorism",
+        "rank": 10
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "001",
+    "print_section": "2",
+    "pub_date": "2004-06-20T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Architect Daniel Libeskind, hailed last year as master planner of World Trade Center site, now plays far less visible role in redevelopment of downtown Manhattan; his influence, control and stature have steadily eroded as signature elements of his plan have been altered, reduced or eliminated; planning is now dominated by Port Authority of New York and New Jersey, which owns site, and by Skidmore, Owings & Merrill, architectural firm hired by Larry A Silverstein, site's leaseholder; Libeskind reportedly no longer attends meetings at which plans are discussed; photos (L)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b4bd56e4-c2d4-56d9-b87a-b7cea8fffad5",
+    "web_url": "https://www.nytimes.com/2004/06/20/arts/architecture-the-incredible-shrinking-daniel-libeskind.html",
+    "word_count": 3378
+  }
+]

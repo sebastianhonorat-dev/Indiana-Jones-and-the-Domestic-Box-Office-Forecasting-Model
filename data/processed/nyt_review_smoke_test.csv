@@ -1,0 +1,5 @@
+tconst,primaryTitle,startYear,genres,has_nyt_coverage,has_nyt_movie_review,nyt_review_count,nyt_headline,nyt_publication_date,nyt_section,nyt_material_type,nyt_url
+test1,Spider-Man 2,2004,Action,True,True,1,FILM REVIEW; Putting Action After Feelings Of a Superhero,2004-06-29,Movies,Review,https://www.nytimes.com/2004/06/29/movies/film-review-putting-action-after-feelings-of-a-superhero.html
+test2,Mean Girls,2004,Comedy,True,True,1,FILM REVIEW; Tribal Rites of Teenage Girls Who Rule by Terror,2004-04-30,Movies,Review,https://www.nytimes.com/2004/04/30/movies/film-review-tribal-rites-of-teenage-girls-who-rule-by-terror.html
+test3,The Incredibles,2004,Animation,True,False,0,,,,,
+test4,Eternal Sunshine of the Spotless Mind,2004,Drama,True,True,1,FILM REVIEW; Washing That Girl Out of His Head,2004-03-19,Movies,Review,https://www.nytimes.com/2004/03/19/movies/film-review-washing-that-girl-out-of-his-head.html

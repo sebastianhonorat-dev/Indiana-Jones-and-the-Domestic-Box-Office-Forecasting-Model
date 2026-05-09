@@ -1,0 +1,564 @@
+[
+  {
+    "abstract": "Joyce Chang essay on shock of seeing herself in True Mirror, which does not reverse image; says it is disorienting and amplifies asymmetries; photo (M)",
+    "byline": {
+      "original": "By Joyce Chang"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "THE FACE; Do I Look Fat?",
+      "kicker": "THE FACE",
+      "print_headline": "THE FACE; Do I Look Fat?"
+    },
+    "_id": "nyt://article/3e9d1aff-9b92-5015-b1a1-143a4e3e32e7",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Mirrors",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "T: Women's Fashion Magazine",
+    "print_page": "192",
+    "print_section": "6",
+    "pub_date": "2004-08-29T05:00:00Z",
+    "section_name": "Magazine",
+    "snippet": "Joyce Chang essay on shock of seeing herself in True Mirror, which does not reverse image; says it is disorienting and amplifies asymmetries; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/3e9d1aff-9b92-5015-b1a1-143a4e3e32e7",
+    "web_url": "https://www.nytimes.com/2004/08/29/magazine/the-face-do-i-look-fat.html",
+    "word_count": 772
+  },
+  {
+    "abstract": "As I see it, there arent very many letters that might be mis-heard over the phone. But that doesn't mean you won't overhear the alphabet on the street.",
+    "byline": {
+      "original": "By David Pogue"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Spelling It Out",
+      "kicker": "",
+      "print_headline": "Spelling It Out"
+    },
+    "_id": "nyt://article/84a8019b-be2e-5acf-b9e5-f7cff6316d55",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Technology / Pogues Posts",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-12-07T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "As I see it, there arent very many letters that might be mis-heard over the phone. But that doesn't mean you won't overhear the alphabet on the street.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/84a8019b-be2e-5acf-b9e5-f7cff6316d55",
+    "web_url": "https://www.nytimes.com/2004/12/07/technology/poguesposts/spelling-it-out.html",
+    "word_count": 254
+  },
+  {
+    "abstract": "What's s Next column on development of digitally processing reflections on surface of eye; possible applications noted; photos (M)",
+    "byline": {
+      "original": "By Anne Eisenberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "WHAT'S NEXT; Fleeting Experience, Mirrored in Your Eyes",
+      "kicker": "WHAT'S NEXT",
+      "print_headline": "WHAT'S NEXT; Fleeting Experience, Mirrored in Your Eyes"
+    },
+    "_id": "nyt://article/ac89e46d-d256-505b-b888-d8a2a01968ca",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Eyes and Eyesight",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00008",
+    "print_section": "G",
+    "pub_date": "2004-07-29T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "What's s Next column on development of digitally processing reflections on surface of eye; possible applications noted; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ac89e46d-d256-505b-b888-d8a2a01968ca",
+    "web_url": "https://www.nytimes.com/2004/07/29/technology/what-s-next-fleeting-experience-mirrored-in-your-eyes.html",
+    "word_count": 1051
+  },
+  {
+    "abstract": "Laser Cordless mouse from Logitech is helpful for users whose work surface is transparent or made from highly reflective material where optical mouse will not work; photo (S)",
+    "byline": {
+      "original": "By Charles Herold"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Mirror, Mirror Is No Problem for a Mouse With Laser Power",
+      "kicker": "NEWS WATCH: PERIPHERALS",
+      "print_headline": "NEWS WATCH: PERIPHERALS; Mirror, Mirror Is No Problem For a Mouse With Laser Power"
+    },
+    "_id": "nyt://article/ed660a4d-b870-50dd-920d-638b75c19d05",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Logitech Inc",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Laser (Light Amplification by Stimulated Emission of Radiation)",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00002",
+    "print_section": "G",
+    "pub_date": "2004-09-16T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "Laser Cordless mouse from Logitech is helpful for users whose work surface is transparent or made from highly reflective material where optical mouse will not work; photo (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ed660a4d-b870-50dd-920d-638b75c19d05",
+    "web_url": "https://www.nytimes.com/2004/09/16/technology/circuits/mirror-mirror-is-no-problem-for-a-mouse-with-laser.html",
+    "word_count": 289
+  },
+  {
+    "abstract": "Barry Gewen reviews book I'll Be Your Mirror: The Selected Andy Warhol Interviews, 1962-1987 edited by Kenneth Goldsmith; photo (M)",
+    "byline": {
+      "original": "By Barry Gewen"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'I'll Be Your Mirror': The Art of the Interview",
+      "kicker": "",
+      "print_headline": "Hiding in Plain Sight"
+    },
+    "_id": "nyt://article/f3dddf2e-d4c2-56b8-b5f6-01f8758058bc",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Warhol, Andy",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Goldsmith, Kenneth",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Art",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "I'LL BE YOUR MIRROR: THE SELECTED ANDY WARHOL INTERVIEWS (BOOK)",
+        "rank": 6
+      },
+      {
+        "name": "Title",
+        "value": "I'LL BE YOUR MIRROR: THE SELECTED ANDY WARHOL INTERVIEWS, 1962-1987 (BOOK)",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Book Review Desk",
+    "print_page": "016",
+    "print_section": "7",
+    "pub_date": "2004-09-12T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Barry Gewen reviews book I'll Be Your Mirror: The Selected Andy Warhol Interviews, 1962-1987 edited by Kenneth Goldsmith; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/f3dddf2e-d4c2-56b8-b5f6-01f8758058bc",
+    "web_url": "https://www.nytimes.com/2004/09/12/books/review/ill-be-your-mirror-the-art-of-the-interview.html",
+    "word_count": 1086
+  },
+  {
+    "abstract": "Frank Magiera letter expresses alarm that voters who expressed concerns with Bush administration's policies voted for him anyway because of moral posturing (Nov 6 David Brooks Op-Ed column; Nov 6 Gary Langer Op-Ed article)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "After the Vote: Reading Tea Leaves",
+      "kicker": "",
+      "print_headline": "After the Vote: Reading Tea Leaves"
+    },
+    "_id": "nyt://article/a3275984-ef87-58a6-ad4b-bf683bbe3d05",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "LANGER, GARY",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Brooks, David",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "MAGIERA, FRANK",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Bush, George W",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Presidential Election of 2004",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "00022",
+    "print_section": "A",
+    "pub_date": "2004-11-09T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Frank Magiera letter expresses alarm that voters who expressed concerns with Bush administration's policies voted for him anyway because of moral posturing (Nov 6 David Brooks Op-Ed column; Nov 6 Gary Langer Op-Ed article)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/a3275984-ef87-58a6-ad4b-bf683bbe3d05",
+    "web_url": "https://www.nytimes.com/2004/11/09/opinion/after-the-vote-reading-tea-leaves-568180.html",
+    "word_count": 202
+  },
+  {
+    "abstract": "Council on Contemporary Families senior scholar Arlene Skolnick letter holds that conservatives have wanted to dismantle New Deal for long time, but as in case of Social Security, this aim has been obscured by smoke of manufactured crisis",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Don't Dismantle The New Deal",
+      "kicker": "",
+      "print_headline": "Don't Dismantle The New Deal"
+    },
+    "_id": "nyt://article/ca0dbd6c-4c40-5b7c-9ce8-55594d7122ad",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "SKOLNICK, ARLENE",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "United States Politics and Government",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "NEW DEAL (1930S ECONOMIC RECOVERY AND SOCIAL REFORM PROGRAM)",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Social Security (US)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Conservatism (US Politics)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-12-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Council on Contemporary Families senior scholar Arlene Skolnick letter holds that conservatives have wanted to dismantle New Deal for long time, but as in case of Social Security, this aim has been obscured by smoke of manufactured crisis",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/ca0dbd6c-4c40-5b7c-9ce8-55594d7122ad",
+    "web_url": "https://www.nytimes.com/2004/12/19/opinion/dont-dismantle-the-new-deal-938980.html",
+    "word_count": 221
+  },
+  {
+    "abstract": "Doug Golden letter says Bob Herbert's Nov 8 column on voting without facts is illustrated by his experience as math teacher in Georgia, where he says ignorance is alive and well",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Voters and the Information Gap",
+      "kicker": "",
+      "print_headline": "The Voters and the Information Gap"
+    },
+    "_id": "nyt://article/6ec6a9d1-d6be-50ef-a91d-5a75e21cdc77",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Georgia",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "GOLDEN, DOUG",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Bush, George W",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Herbert, Bob",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Kerry, John",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "PUBLIC OPINION",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "ELECTION ISSUES",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Presidential Election of 2004",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "00032",
+    "print_section": "A",
+    "pub_date": "2004-11-11T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Doug Golden letter says Bob Herbert's Nov 8 column on voting without facts is illustrated by his experience as math teacher in Georgia, where he says ignorance is alive and well",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/6ec6a9d1-d6be-50ef-a91d-5a75e21cdc77",
+    "web_url": "https://www.nytimes.com/2004/11/11/opinion/the-voters-and-the-information-gap-589217.html",
+    "word_count": 241
+  },
+  {
+    "abstract": "Stemming the Spread of Bird Flu.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Letters",
+      "kicker": "",
+      "print_headline": "Letters"
+    },
+    "_id": "nyt://article/5590ee88-735d-54ea-8852-5cd2be71d8ba",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Science",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-10-19T05:00:00Z",
+    "section_name": "Science",
+    "snippet": "Stemming the Spread of Bird Flu.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/5590ee88-735d-54ea-8852-5cd2be71d8ba",
+    "web_url": "https://www.nytimes.com/2004/10/19/science/letters.html",
+    "word_count": 692
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Hypocrisy over Turkey : LETTERS TO THE EDITOR",
+      "kicker": "",
+      "print_headline": "Hypocrisy over Turkey : LETTERS TO THE EDITOR"
+    },
+    "_id": "nyt://article/ea54de89-be42-5e9f-b860-4485fcca1e24",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-09-21T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ea54de89-be42-5e9f-b860-4485fcca1e24",
+    "web_url": "https://www.nytimes.com/2004/09/21/opinion/hypocrisy-over-turkey-letters-to-the-editor.html",
+    "word_count": 145
+  }
+]
