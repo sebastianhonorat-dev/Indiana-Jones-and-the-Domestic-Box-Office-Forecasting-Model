@@ -63,3 +63,9 @@ I will restrict the dataset to domestic U.S. films only. International films may
 ### 6. Kaggle dataset as Box Office filter
 
 The Kaggle box office dataset is used only as a theatrical-release candidate filter. I could've filter the film from IMDB .tsv file by scraping The Number for box office information, but I would take too long. The Kaggle dataset is not treated as the authoritative source for final box office variables. Final opening weekend box office fields are collected separately from The Numbers after filering.
+
+### 7. Omitting Opening_theatres and Release_type
+
+Theater count acts as a powerful industry-level aggregation signal, encoding distributor expectations about demand. Models including theater count achieve substantially higher predictive performance, suggesting that distribution scale itself functions as an implicit market forecast. 
+
+My goal is to answer `“How much can we predict from movie characteristics alone?”`, not `“How well can we predict after studios already reveal confidence?”`
