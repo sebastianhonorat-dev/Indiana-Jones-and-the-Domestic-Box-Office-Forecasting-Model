@@ -1,0 +1,622 @@
+[
+  {
+    "abstract": "Dave Kehr reviews new DVD releases (M)",
+    "byline": {
+      "original": "By Dave Kehr"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'Ruby Gentry', 'Three Coins in the Fountain' and 'The Chronicles of Riddick'",
+      "kicker": "New DVD's",
+      "print_headline": "New DVD's"
+    },
+    "_id": "nyt://article/a96f3035-b71f-52e9-ad94-8b5b7560e6e4",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Heston, Charlton",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Selznick, David O",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Jones, Jennifer",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "DVD (DIGITAL VERSATILE DISK)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Recordings (Video)",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00006",
+    "print_section": "E",
+    "pub_date": "2004-11-16T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Dave Kehr reviews new DVD releases (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/a96f3035-b71f-52e9-ad94-8b5b7560e6e4",
+    "web_url": "https://www.nytimes.com/2004/11/16/movies/ruby-gentry-three-coins-in-the-fountain-and-the-chronicles-of.html",
+    "word_count": 751
+  },
+  {
+    "abstract": "The concentration of synthetic hormones pumping through the vascular system of &quot;The Chronicles of Riddick&quot; matches any recent action-adventure movie in the sheer density of steroids per liter of body fluid. In bodybuilding terms, this overmuscled sequel to &quot;Pitch Black&quot; is all bulk and no definition. In touch with the grunting, preening culture of professional wrestling, the negligible screenplay by David Twohy, who directed  both movies, is crammed with trailer-ready taglines. Intoned by Vin Diesel with a sly comic gravity, these enigmatic blurbs mean next to nothing. Returning from &quot;Pitch  Black,&quot; Mr. Diesel's character, Riddick, a fugitive from a distant planet, pursued across the universe by bounty hunters, might be described as the heavy-metal version of Brad Pitt's Achilles in &quot;Troy.&quot; Here he runs afoul of the Necromongers, an evil race of conquerors. The movie is all about nonstop action, computer generated spectacle and sanitized sadomasochism, edited into one big roaring whir. — Stephen Holden",
+    "byline": {
+      "original": "By Stephen Holden"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FILM REVIEW; Signs of Testosterone Are All Over the Universe",
+      "kicker": "FILM REVIEW",
+      "print_headline": "FILM REVIEW; Signs of Testosterone Are All Over the Universe"
+    },
+    "_id": "nyt://article/2588d9f4-6a43-54e4-9467-1b3027a6c529",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Twohy, David",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Diesel, Vin",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "CHRONICLES OF RIDDICK, THE (MOVIE)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00015",
+    "print_section": "E",
+    "pub_date": "2004-06-11T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Stephen Holden reviews movie The Chronicles of Riddick, directed by David Twohy and starring Vin Diesel; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/2588d9f4-6a43-54e4-9467-1b3027a6c529",
+    "web_url": "https://www.nytimes.com/2004/06/11/movies/film-review-signs-of-testosterone-are-all-over-the-universe.html",
+    "word_count": 1055
+  },
+  {
+    "abstract": "Charles Herold Game Theory column reviews City of Heroes, Onimusha 3: Demon Siege and The Chronicles of Riddick: Escape from Butcher Bay; photos (M)",
+    "byline": {
+      "original": "By Charles Herold"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "GAME THEORY; Invent Your Own Superhero, or Enlist a Star",
+      "kicker": "GAME THEORY",
+      "print_headline": "GAME THEORY; Invent Your Own Superhero, or Enlist a Star"
+    },
+    "_id": "nyt://article/72b25bbe-15be-5fce-8868-870e4d331b8f",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Computer and Video Games",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00007",
+    "print_section": "G",
+    "pub_date": "2004-07-08T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "Charles Herold Game Theory column reviews City of Heroes, Onimusha 3: Demon Siege and The Chronicles of Riddick: Escape from Butcher Bay; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/72b25bbe-15be-5fce-8868-870e4d331b8f",
+    "web_url": "https://www.nytimes.com/2004/07/08/technology/game-theory-invent-your-own-superhero-or-enlist-a-star.html",
+    "word_count": 1341
+  },
+  {
+    "abstract": "How It Works column on improvements in computer hardware and 3-D graphics mapping; overall results make video game images more realistic; illustrations show how technology works; photo (M)",
+    "byline": {
+      "original": "By Michel Marriott"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "HOW IT WORKS; Building Character, Wrinkle by Wrinkle, in a 3-D World",
+      "kicker": "HOW IT WORKS",
+      "print_headline": "HOW IT WORKS; Building Character, Wrinkle by Wrinkle, in a 3-D World"
+    },
+    "_id": "nyt://article/ffa7b54d-8df7-553d-8285-440b7b4fccc2",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Computer and Video Games",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Three-Dimensional Devices",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00008",
+    "print_section": "G",
+    "pub_date": "2004-05-13T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "How It Works column on improvements in computer hardware and 3-D graphics mapping; overall results make video game images more realistic; illustrations show how technology works; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ffa7b54d-8df7-553d-8285-440b7b4fccc2",
+    "web_url": "https://www.nytimes.com/2004/05/13/technology/how-it-works-building-character-wrinkle-by-wrinkle-in-a-3-d-world.html",
+    "word_count": 1116
+  },
+  {
+    "abstract": "General Electric, which acquired Universal Studios in May, is submitting studio to its rigorous method of business analysis, which aims to improve quality, squeeze profits out of unpredictable businesses and ensure that divisions have quantifiable results; Bob Wright, chairman of GE's NBC Universal Studios unit, comments on his ubiquitous presence at Universal; Universal president Ron Meyer says new bosses are very focused on results and do not want surprises; Universal's film executives seem to be embracing GE as first owner in years that plans to stick around; producers cite pressure to keep films within budget; table of recent releases; photos (M)",
+    "byline": {
+      "original": "By Laura M. Holson"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Six Sigma: A Hollywood Studio Learns the G.E. Way",
+      "kicker": "",
+      "print_headline": "Six Sigma: A Hollywood Studio Learns the G.E. Way"
+    },
+    "_id": "nyt://article/1b1180c3-1b89-5a17-a1d9-f1fc86ef7aec",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "General Electric Co",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Universal Pictures",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "National Broadcasting Co",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "NBC Universal",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "General Electric Company",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Wright, Bob",
+        "rank": 6
+      },
+      {
+        "name": "Person",
+        "value": "Meyer, Ron",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Finances",
+        "rank": 10
+      },
+      {
+        "name": "Subject",
+        "value": "Budgets and Budgeting",
+        "rank": 11
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Business/Financial Desk",
+    "print_page": "00001",
+    "print_section": "C",
+    "pub_date": "2004-09-27T05:00:00Z",
+    "section_name": "Business",
+    "snippet": "General Electric, which acquired Universal Studios in May, is submitting studio to its rigorous method of business analysis, which aims to improve quality, squeeze profits out of unpredictable businesses and ensure that divisions have quantifiable results; Bob Wright, chairman of GE's NBC Universal Studios unit, comments on his ubiquitous presence at Universal; Universal president Ron Meyer says new bosses are very focused on results and do not want surprises; Universal's film executives seem to be embracing GE as first owner in years that plans to stick around; producers cite pressure to keep films within budget; table of recent releases; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/1b1180c3-1b89-5a17-a1d9-f1fc86ef7aec",
+    "web_url": "https://www.nytimes.com/2004/09/27/business/media/six-sigma-a-hollywood-studio-learns-the-ge-way.html",
+    "word_count": 1921
+  },
+  {
+    "abstract": "Works of Hollywood and video game developers have grown closer in approach and appeal as game graphics and sound approach Hollywood production quality; photos (M)",
+    "byline": {
+      "original": "By Michel Marriott"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Movie Or Game? The Joystick Is a Tipoff",
+      "kicker": "",
+      "print_headline": "Movie Or Game? The Joystick Is a Tipoff"
+    },
+    "_id": "nyt://article/bec6f406-cb36-5477-8cab-592789bb73ae",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Computer and Video Games",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00001",
+    "print_section": "G",
+    "pub_date": "2004-03-25T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "Works of Hollywood and video game developers have grown closer in approach and appeal as game graphics and sound approach Hollywood production quality; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/bec6f406-cb36-5477-8cab-592789bb73ae",
+    "web_url": "https://www.nytimes.com/2004/03/25/technology/movie-or-game-the-joystick-is-a-tipoff.html",
+    "word_count": 1678
+  },
+  {
+    "abstract": "Spider-Man 2 breaks box office records over Fourth of July holiday weekend, taking in $180 million in its first six days in theaters; anti-Bush documentary Fahrenheit 9/11 continues to draw huge audiences, taking in $21 million over four-day weekend for total of $60 million so far; many expensive summer movies have not performed up to expectations; photo (M)",
+    "byline": {
+      "original": "By Sharon Waxman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'Spider-Man' Gives the Summer One of Its Few Box Office Hits",
+      "kicker": "",
+      "print_headline": "'Spider-Man' Gives the Summer One of Its Few Box Office Hits"
+    },
+    "_id": "nyt://article/eedce38a-53d7-5f87-920c-a025c4edb8c7",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 1
+      },
+      {
+        "name": "Title",
+        "value": "Fahrenheit 9/11 (Movie)",
+        "rank": 2
+      },
+      {
+        "name": "Title",
+        "value": "Spider-Man 2 (Movie)",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00001",
+    "print_section": "E",
+    "pub_date": "2004-07-06T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Spider-Man 2 breaks box office records over Fourth of July holiday weekend, taking in $180 million in its first six days in theaters; anti-Bush documentary Fahrenheit 9/11 continues to draw huge audiences, taking in $21 million over four-day weekend for total of $60 million so far; many expensive summer movies have not performed up to expectations; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/eedce38a-53d7-5f87-920c-a025c4edb8c7",
+    "web_url": "https://www.nytimes.com/2004/07/06/movies/spider-man-gives-the-summer-one-of-its-few-box-office-hits.html",
+    "word_count": 864
+  },
+  {
+    "abstract": "Charles Herold Game Theory column lists top 10 video games for 2004 (M)",
+    "byline": {
+      "original": "By Charles Herold"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Reluctantly, Only the Top 10",
+      "kicker": "GAME THEORY",
+      "print_headline": "GAME THEORY; Reluctantly, Only the Top 10"
+    },
+    "_id": "nyt://article/f08e5305-23d8-528f-a821-694c3de4f3c8",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "ELECTRONIC ARTS",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "National Football League",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Computer and Video Games",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Virtual Reality (Computers)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Circuits",
+    "print_page": "00006",
+    "print_section": "G",
+    "pub_date": "2004-11-18T05:00:00Z",
+    "section_name": "Technology",
+    "snippet": "Charles Herold Game Theory column lists top 10 video games for 2004 (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/f08e5305-23d8-528f-a821-694c3de4f3c8",
+    "web_url": "https://www.nytimes.com/2004/11/18/technology/circuits/reluctantly-only-the-top-10.html",
+    "word_count": 1134
+  },
+  {
+    "abstract": "Dave Kehr reviews new DVD movie releases; photo (M)",
+    "byline": {
+      "original": "By Dave Kehr"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "NEW DVD'S; Based on the Murderer, Then the Murderer Herself",
+      "kicker": "NEW DVD'S",
+      "print_headline": "NEW DVD'S; Based on the Murderer, Then the Murderer Herself"
+    },
+    "_id": "nyt://article/7a387cd0-e3f8-558f-b43a-68158e6739f5",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Recordings (Video)",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00010",
+    "print_section": "E",
+    "pub_date": "2004-06-01T05:00:00Z",
+    "section_name": "Movies",
+    "snippet": "Dave Kehr reviews new DVD movie releases; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/7a387cd0-e3f8-558f-b43a-68158e6739f5",
+    "web_url": "https://www.nytimes.com/2004/06/01/movies/new-dvd-s-based-on-the-murderer-then-the-murderer-herself.html",
+    "word_count": 1041
+  },
+  {
+    "abstract": "Opening This Week.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Film Listings",
+      "kicker": "",
+      "print_headline": "Film Listings"
+    },
+    "_id": "nyt://article/8be5d10d-6be2-548d-ac65-a48c6f2641b9",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-06-06T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Opening This Week.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Results Listing",
+    "uri": "nyt://article/8be5d10d-6be2-548d-ac65-a48c6f2641b9",
+    "web_url": "https://www.nytimes.com/2004/06/06/arts/film-listings.html",
+    "word_count": 927
+  }
+]

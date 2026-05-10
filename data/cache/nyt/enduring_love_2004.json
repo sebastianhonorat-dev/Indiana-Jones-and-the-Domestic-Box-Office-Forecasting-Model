@@ -1,0 +1,592 @@
+[
+  {
+    "abstract": "\"At school one of the subjects we studied was the Koran. To be precise, we learned to read the sacred book without any explanation of what it meant.\"",
+    "byline": {
+      "original": "By Farah Pahlavi"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'An Enduring Love'",
+      "kicker": "First Chapter",
+      "print_headline": "'An Enduring Love'"
+    },
+    "_id": "nyt://article/68df9e43-9023-5d6e-9580-8d5cccbecd26",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Books / First Chapters",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-05-02T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "\"At school one of the subjects we studied was the Koran. To be precise, we learned to read the sacred book without any explanation of what it meant.\"",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Transcript",
+    "uri": "nyt://article/68df9e43-9023-5d6e-9580-8d5cccbecd26",
+    "web_url": "https://www.nytimes.com/2004/05/02/books/chapters/an-enduring-love.html",
+    "word_count": 2718
+  },
+  {
+    "abstract": "David Edelstein interviews Rhys Ifans, star of Roger Michell's new film Enduring Love; photo (M)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "You're an Obsession, You're My Obsession",
+      "kicker": "FILM",
+      "print_headline": "FILM; You're an Obsession, You're My Obsession"
+    },
+    "_id": "nyt://article/bff4aa5c-05b9-5611-8857-9f4b05655dc8",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Edelstein, David",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Ifans, Rhys",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Michell, Roger",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "Enduring Love (Movie)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Arts and Leisure Desk",
+    "print_page": "022",
+    "print_section": "2",
+    "pub_date": "2004-10-24T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "David Edelstein interviews Rhys Ifans, star of Roger Michell's new film Enduring Love; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Interview",
+    "uri": "nyt://article/bff4aa5c-05b9-5611-8857-9f4b05655dc8",
+    "web_url": "https://www.nytimes.com/2004/10/24/movies/youre-an-obsession-youre-my-obsession.html",
+    "word_count": 1073
+  },
+  {
+    "abstract": "Manohla Dargis reviews movie Enduring Love, directed by Roger Michell and starring Daniel Craig and Samantha Morton; photo (M)",
+    "byline": {
+      "original": "By Manohla Dargis"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "He Loves Him, Him Loves Her, Her Loves Herself",
+      "kicker": "FILM REVIEW",
+      "print_headline": "FILM REVIEW; He Loves Him, Him Loves Her, Her Loves Herself"
+    },
+    "_id": "nyt://article/e3ca35d0-d52e-559b-9b92-19dfb40dcbe8",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Ifans, Rhys",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Craig, Daniel",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Morton, Samantha",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Michell, Roger",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 6
+      },
+      {
+        "name": "Title",
+        "value": "Enduring Love (Movie)",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Movies, Performing Arts/Weekend Desk",
+    "print_page": "00022",
+    "print_section": "E",
+    "pub_date": "2004-10-29T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "Manohla Dargis reviews movie Enduring Love, directed by Roger Michell and starring Daniel Craig and Samantha Morton; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/e3ca35d0-d52e-559b-9b92-19dfb40dcbe8",
+    "web_url": "https://www.nytimes.com/2004/10/29/movies/he-loves-him-him-loves-her-her-loves-herself.html",
+    "word_count": 1037
+  },
+  {
+    "abstract": "Caryn James Critic's Notebook column on Enduring Love, film version of Ian McEwan's 1997 novel, adapted for screen by Joe Penhall and starring Rhys Ifans, Daniel Craig and Samantha Morton; McEwan, in phone interview, comments on adapting his book to screen; photos (M)",
+    "byline": {
+      "original": "By Caryn James"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "From Page to Screen, an Impossibly Internal Novel",
+      "kicker": "CRITIC'S NOTEBOOK",
+      "print_headline": "CRITIC'S NOTEBOOK; From Page to Screen, an Impossibly Internal Novel"
+    },
+    "_id": "nyt://article/53760275-45d9-5474-a0b7-f7d5b4756082",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "McEwan, Ian",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Ifans, Rhys",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Craig, Daniel",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Morton, Samantha",
+        "rank": 4
+      },
+      {
+        "name": "Person",
+        "value": "Michell, Roger",
+        "rank": 5
+      },
+      {
+        "name": "Person",
+        "value": "Penhall, Joe",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "MOTION PICTURES",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 8
+      },
+      {
+        "name": "Title",
+        "value": "ENDURING LOVE (BOOK)",
+        "rank": 9
+      },
+      {
+        "name": "Title",
+        "value": "Enduring Love (Movie)",
+        "rank": 10
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00001",
+    "print_section": "E",
+    "pub_date": "2004-11-02T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Caryn James Critic's Notebook column on Enduring Love, film version of Ian McEwan's 1997 novel, adapted for screen by Joe Penhall and starring Rhys Ifans, Daniel Craig and Samantha Morton; McEwan, in phone interview, comments on adapting his book to screen; photos (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/53760275-45d9-5474-a0b7-f7d5b4756082",
+    "web_url": "https://www.nytimes.com/2004/11/02/movies/from-page-to-screen-an-impossibly-internal-novel.html",
+    "word_count": 1191
+  },
+  {
+    "abstract": "Elaine Sciolino reviews book An Enduring Love by Farah Pahlavi; photo (M)",
+    "byline": {
+      "original": "By Elaine Sciolino"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Last Empress",
+      "kicker": "",
+      "print_headline": "The Last Empress"
+    },
+    "_id": "nyt://article/8ae10dfd-2ef8-5d0d-b8e1-808c77350cea",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Pahlavi, Farah",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 3
+      },
+      {
+        "name": "Title",
+        "value": "ENDURING LOVE, AN (BOOK)",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Book Review Desk",
+    "print_page": "012",
+    "print_section": "7",
+    "pub_date": "2004-05-02T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Elaine Sciolino reviews book An Enduring Love by Farah Pahlavi; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/8ae10dfd-2ef8-5d0d-b8e1-808c77350cea",
+    "web_url": "https://www.nytimes.com/2004/05/02/books/the-last-empress.html",
+    "word_count": 1345
+  },
+  {
+    "abstract": "ROSKIN--Susan LeVant, died September 21, 2004. With enduring love and affection we bid a fond adieu to Susan LeVant Roskin. No words can ever express how much she will be missed. Susan lived a full life with courage and dignity. She devoted herself to helping others as a professional guidance counselor, loving mother, sister, aunt and friend. No greater tribute can be paid to a life well lived and love well shared than the warm loving feelings and beautiful memories she has left with us. We wish her the much eluded peace she sought in her life. Her loving spirit will remain with us. Susan is survived by her loving son, Robert Roskin, sister Pat Spranger, brother Howard LeVant, sister-in-law Nancy LeVant and friend and former husband Bill Roskin. Funeral services will be at Riverside Memorial, W. 76 St. at Amsterdam Ave., Friday, September 24, 11:30 AM. Send donations to the American Diabetes Association.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Paid Notice: Deaths   ROSKIN, SUSAN LEVANT",
+      "kicker": "",
+      "print_headline": "Paid Notice: Deaths   ROSKIN, SUSAN LEVANT"
+    },
+    "_id": "nyt://article/6f416820-ef1c-567c-8a63-2641e1f0b0b0",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "ROSKIN, SUSAN LEVANT",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Classified",
+    "print_page": "00025",
+    "print_section": "A",
+    "pub_date": "2004-09-23T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "ROSKIN--Susan LeVant, died September 21, 2004. With enduring love and affection we bid a fond adieu to Susan LeVant Roskin. No words can ever express how much she will be missed. Susan lived a full life with courage and dignity. She devoted herself to helping others as a professional guidance counselor, loving mother, sister, aunt and friend. No greater tribute can be paid to a life well lived and love well shared than the warm loving feelings and beautiful memories she has left with us. We wish her the much eluded peace she sought in her life. Her loving spirit will remain with us. Susan is survived by her loving son, Robert Roskin, sister Pat Spranger, brother Howard LeVant, sister-in-law Nancy LeVant and friend and former husband Bill Roskin. Funeral services will be at Riverside Memorial, W. 76 St. at Amsterdam Ave., Friday, September 24, 11:30 AM. Send donations to the American Diabetes Association.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Paid Death Notice",
+    "uri": "nyt://article/6f416820-ef1c-567c-8a63-2641e1f0b0b0",
+    "web_url": "https://www.nytimes.com/2004/09/23/classified/paid-notice-deaths-roskin-susan-levant.html",
+    "word_count": 155
+  },
+  {
+    "abstract": "Deborah Solomon interview with Farah Pahlavi, widow of Shah of Iran, Reza Pahlavi, in light of her new memoirs An Enduring Love: My Life With the Shah; she comments on rule of the mullahs, meeting Saddam Hussein and learning to live in exile without wealth and privilege; photo (M)",
+    "byline": {
+      "original": "By Deborah Solomon"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "THE WAY WE LIVE NOW: 2-29-04: QUESTIONS FOR FARAH PAHLAVI; A Life in Exile",
+      "kicker": "THE WAY WE LIVE NOW: 2-29-04: QUESTIONS FOR FARAH PAHLAVI",
+      "print_headline": "THE WAY WE LIVE NOW: 2-29-04: QUESTIONS FOR FARAH PAHLAVI; A Life in Exile"
+    },
+    "_id": "nyt://article/5ba79918-a8b4-5903-bea2-3a7eca823889",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Iran",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "PAHLAVI, MUHAMMAD REZA",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Pahlavi, Farah",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 4
+      },
+      {
+        "name": "Title",
+        "value": "ENDURING LOVE, AN: MY LIFE WITH THE SHAH (BOOK)",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Magazine Desk",
+    "print_page": "024",
+    "print_section": "6",
+    "pub_date": "2004-02-29T05:00:00Z",
+    "section_name": "Magazine",
+    "snippet": "Deborah Solomon interview with Farah Pahlavi, widow of Shah of Iran, Reza Pahlavi, in light of her new memoirs An Enduring Love: My Life With the Shah; she comments on rule of the mullahs, meeting Saddam Hussein and learning to live in exile without wealth and privilege; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Interview",
+    "uri": "nyt://article/5ba79918-a8b4-5903-bea2-3a7eca823889",
+    "web_url": "https://www.nytimes.com/2004/02/29/magazine/the-way-we-live-now-2-29-04-questions-for-farah-pahlavi-a-life-in-exile.html",
+    "word_count": 936
+  },
+  {
+    "abstract": "ABRAMSON--Seth F., M.D. Died October 13 from complications of surgery. He was 78. He grew up in New York City, graduating from Horace Mann School for Boys. Never one to boast about his academic achievements, Dr. Abramson had many: after serving in the Navy in World War II, he received his BA from Yale University (1948, Phi Beta Kappa) and graduated from Yale Medical School (1953) followed by residency and fellowship training as a general surgeon. He was a practicing physician up to the time of his death. He had also served as a NYPD police surgeon. Dr. Abramson is survived by his adoring wife, Andrea, who always will be grateful for his enduring love and constant encouragement through 31 years of marriage. He is also survived by his stepdaughter and her husband, Jackie and Daniel Cohen, granddaughters Emily and Caroline, brother-in-law Arthur Pava and nieces Elizabeth Pava and Susan Nusbaum. His gentle humor and affection will be greatly missed. A memorial service will be held at Frank E. Campbell, 1076 Madison Avenue, Sunday October 17, at 1:45 PM. In lieu of flowers, please send contributions in memory of Seth F. Abramson, MD, New York University School of Medicine, 550 First Avenue, New York, New York 10016.    ABRAMSON--Seth F. To my Wonderful Friend. May your soul rest in everlasting peace and love. Susan Koch    ABRAMSON--Seth, M.D. We will miss you deeply, dear, dear friend. Georgia and Andy",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Paid Notice: Deaths   ABRAMSON, SETH F., M.D.",
+      "kicker": "",
+      "print_headline": "Paid Notice: Deaths   ABRAMSON, SETH F., M.D."
+    },
+    "_id": "nyt://article/03c852af-04b5-5436-aa1c-06cd3ff3a675",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "ABRAMSON, SETH F., M.D.",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Classified",
+    "print_page": "042",
+    "print_section": "1",
+    "pub_date": "2004-10-17T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "ABRAMSON--Seth F., M.D. Died October 13 from complications of surgery. He was 78. He grew up in New York City, graduating from Horace Mann School for Boys. Never one to boast about his academic achievements, Dr. Abramson had many: after serving in the Navy in World War II, he received his BA from Yale University (1948, Phi Beta Kappa) and graduated from Yale Medical School (1953) followed by residency and fellowship training as a general surgeon. He was a practicing physician up to the time of his death. He had also served as a NYPD police surgeon. Dr. Abramson is survived by his adoring wife, Andrea, who always will be grateful for his enduring love and constant encouragement through 31 years of marriage. He is also survived by his stepdaughter and her husband, Jackie and Daniel Cohen, granddaughters Emily and Caroline, brother-in-law Arthur Pava and nieces Elizabeth Pava and Susan Nusbaum. His gentle humor and affection will be greatly missed. A memorial service will be held at Frank E. Campbell, 1076 Madison Avenue, Sunday October 17, at 1:45 PM. In lieu of flowers, please send contributions in memory of Seth F. Abramson, MD, New York University School of Medicine, 550 First Avenue, New York, New York 10016.    ABRAMSON--Seth F. To my Wonderful Friend. May your soul rest in everlasting peace and love. Susan Koch    ABRAMSON--Seth, M.D. We will miss you deeply, dear, dear friend. Georgia and Andy",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Paid Death Notice",
+    "uri": "nyt://article/03c852af-04b5-5436-aa1c-06cd3ff3a675",
+    "web_url": "https://www.nytimes.com/2004/10/17/classified/paid-notice-deaths-abramson-seth-f-md.html",
+    "word_count": 238
+  },
+  {
+    "abstract": "ABRAMSON--Seth F., M.D. Died October 13 from complications of surgery. He was 78. He grew up in New York City, graduating from Horace Mann School for Boys. Never one to boast about his academic achievements, Dr. Abramson had many: after serving in the Navy in World War II, he received his BA from Yale University (1948, Phi Beta Kappa) and graduated from Yale Medical School (1953) followed by residency and fellowship training as a general surgeon. He was a practicing physician up to the time of his death. He had also served as a NYPD police surgeon. Dr. Abramson is survived by his adoring wife, Andrea, who always will be grateful for his enduring love and constant encouragement through 31 years of marriage. He is also survived by his stepdaughter and her husband, Jackie and Daniel Cohen, granddaughters Emily and Caroline, brother-in-law Arthur Pava and nieces Elizabeth Pava and Susan Nusbaum. His gentle humor and affection will be greatly missed. A memorial service will be held at Frank E. Campbell, 1076 Madison Avenue, Sunday October 17, at 1:45 PM. In lieu of flowers, please send contributions in memory of Seth F. Abramson, MD, New York University School of Medicine, 550 First Avenue, New York, New York 10016.   ABRAMSON--Seth F., MD. The Board of Governors and members of Sunningdale Country Club are deeply saddened by the death of our esteemed member, Seth F. Abramson, MD. We extend our deepest sympathy to his wife, Andrea and to the entire family. James M. Dubin, President Richard J. Bronstein, Secy   ABRAMSON--Seth. In loving memory of our sweet friend, Seth. The Berczeller Family",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Paid Notice: Deaths   ABRAMSON, SETH F., M.D.",
+      "kicker": "",
+      "print_headline": "Paid Notice: Deaths   ABRAMSON, SETH F., M.D."
+    },
+    "_id": "nyt://article/def00917-f014-5438-98ff-c03c2349c0be",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "ABRAMSON, SETH F., M.D.",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Classified",
+    "print_page": "00008",
+    "print_section": "C",
+    "pub_date": "2004-10-15T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "ABRAMSON--Seth F., M.D. Died October 13 from complications of surgery. He was 78. He grew up in New York City, graduating from Horace Mann School for Boys. Never one to boast about his academic achievements, Dr. Abramson had many: after serving in the Navy in World War II, he received his BA from Yale University (1948, Phi Beta Kappa) and graduated from Yale Medical School (1953) followed by residency and fellowship training as a general surgeon. He was a practicing physician up to the time of his death. He had also served as a NYPD police surgeon. Dr. Abramson is survived by his adoring wife, Andrea, who always will be grateful for his enduring love and constant encouragement through 31 years of marriage. He is also survived by his stepdaughter and her husband, Jackie and Daniel Cohen, granddaughters Emily and Caroline, brother-in-law Arthur Pava and nieces Elizabeth Pava and Susan Nusbaum. His gentle humor and affection will be greatly missed. A memorial service will be held at Frank E. Campbell, 1076 Madison Avenue, Sunday October 17, at 1:45 PM. In lieu of flowers, please send contributions in memory of Seth F. Abramson, MD, New York University School of Medicine, 550 First Avenue, New York, New York 10016.   ABRAMSON--Seth F., MD. The Board of Governors and members of Sunningdale Country Club are deeply saddened by the death of our esteemed member, Seth F. Abramson, MD. We extend our deepest sympathy to his wife, Andrea and to the entire family. James M. Dubin, President Richard J. Bronstein, Secy   ABRAMSON--Seth. In loving memory of our sweet friend, Seth. The Berczeller Family",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Paid Death Notice",
+    "uri": "nyt://article/def00917-f014-5438-98ff-c03c2349c0be",
+    "web_url": "https://www.nytimes.com/2004/10/15/classified/paid-notice-deaths-abramson-seth-f-md.html",
+    "word_count": 267
+  },
+  {
+    "abstract": "GLICKSMAN--Jack. 12/9/1915--4/2/2003 First Lieutenant, U.S. Army Air Force, World War II (Europe); Insurance Broker for 55 years; owner of Aster Agency (insurance brokerage) from 1978 to 1992; married to his beloved Lettie (nee Berger) for 60 years. You filled our world with your love, your humor, your unquenchable zest and wonder at the world, your mighty efforts to make things right for us, your goodness. We take comfort from one of your many poems: ''I have had more than the allotted time for man--so mourn not for me today... I enjoyed the wonders of youth A great enduring love Much loved father Patriot soldier And to the end Joyous in the wonders Of each new day.'' Lettie Glicksman, Jane Glicksman, Hallie Schmidt, Dede, Stephen and Carla Kessler",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Paid Notice: Memorials   GLICKSMAN, JACK",
+      "kicker": "",
+      "print_headline": "Paid Notice: Memorials   GLICKSMAN, JACK"
+    },
+    "_id": "nyt://article/274cabbe-8f8b-5c62-8e51-582c36d321dd",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "GLICKSMAN, JACK",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Classified",
+    "print_page": "00021",
+    "print_section": "A",
+    "pub_date": "2004-04-01T05:00:00Z",
+    "section_name": "Archives",
+    "snippet": "GLICKSMAN--Jack. 12/9/1915--4/2/2003 First Lieutenant, U.S. Army Air Force, World War II (Europe); Insurance Broker for 55 years; owner of Aster Agency (insurance brokerage) from 1978 to 1992; married to his beloved Lettie (nee Berger) for 60 years. You filled our world with your love, your humor, your unquenchable zest and wonder at the world, your mighty efforts to make things right for us, your goodness. We take comfort from one of your many poems: ''I have had more than the allotted time for man--so mourn not for me today... I enjoyed the wonders of youth A great enduring love Much loved father Patriot soldier And to the end Joyous in the wonders Of each new day.'' Lettie Glicksman, Jane Glicksman, Hallie Schmidt, Dede, Stephen and Carla Kessler",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Paid Death Notice",
+    "uri": "nyt://article/274cabbe-8f8b-5c62-8e51-582c36d321dd",
+    "web_url": "https://www.nytimes.com/2004/04/01/classified/paid-notice-memorials-glicksman-jack.html",
+    "word_count": 128
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "abstract": "Daniel B Rubock letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that as son of New York subway worker, he competed against applicants like George W Bush for admission to Yale; notes that he was admitted and graduated",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/520dd0dc-75dc-5362-900d-ad44d05a9bba",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Yale University",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Rubock, Daniel B",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Bush, George W",
+        "rank": 3
+      },
+      {
+        "name": "Person",
+        "value": "Karabel, Jerome",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Daniel B Rubock letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that as son of New York subway worker, he competed against applicants like George W Bush for admission to Yale; notes that he was admitted and graduated",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/520dd0dc-75dc-5362-900d-ad44d05a9bba",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026344.html",
+    "word_count": 135
+  },
+  {
+    "abstract": "Dr Nicholas Cunningham letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that colleges must find those who will most profit from higher education; says to do so, they need admissions flexibility",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/d7ccae15-9ad4-571b-8c43-9066c43e0b88",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Cunningham, Nicholas",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Karabel, Jerome",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Dr Nicholas Cunningham letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that colleges must find those who will most profit from higher education; says to do so, they need admissions flexibility",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/d7ccae15-9ad4-571b-8c43-9066c43e0b88",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026379.html",
+    "word_count": 120
+  },
+  {
+    "abstract": "Center for Equal Opportunity general counsel Roger Clegg letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that preferences for legacies raise no constitutional or Civil Rights Act issues; drawing",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/f190ed55-8b0c-5a5e-b01d-cd4b498f3363",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Clegg, Roger",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Karabel, Jerome",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Center for Equal Opportunity general counsel Roger Clegg letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that preferences for legacies raise no constitutional or Civil Rights Act issues; drawing",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/f190ed55-8b0c-5a5e-b01d-cd4b498f3363",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026360.html",
+    "word_count": 149
+  },
+  {
+    "abstract": "CUNY Graduate Center Prof David E Lavin letter holds that like legacy candidates, athletes and applicants able to pay full cost of college are often granted preferences; says those who protest that they are passed over by applicants of color who sometimes have lesser academic credentials rarely attack legacy, athlete and wealth affirmative action",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/b6156462-98af-54dc-8a5e-31353e0f814a",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Lavin, David E",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Affirmative Action",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Blacks",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "College Athletics",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "CUNY Graduate Center Prof David E Lavin letter holds that like legacy candidates, athletes and applicants able to pay full cost of college are often granted preferences; says those who protest that they are passed over by applicants of color who sometimes have lesser academic credentials rarely attack legacy, athlete and wealth affirmative action",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/b6156462-98af-54dc-8a5e-31353e0f814a",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026352.html",
+    "word_count": 138
+  },
+  {
+    "abstract": "Karen Eisenhauer letter holds that she would never have been able to go to Yale University without substantial financial aid; says that money comes primarily from alumni, and if their progeny are no longer afforded special treatment, donations will suffer9",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/c7b2eca1-c84d-57f9-99d8-bc03bbf6c7ec",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Yale University",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "EISENHAUER, KAREN",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Finances",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Karen Eisenhauer letter holds that she would never have been able to go to Yale University without substantial financial aid; says that money comes primarily from alumni, and if their progeny are no longer afforded special treatment, donations will suffer9",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/c7b2eca1-c84d-57f9-99d8-bc03bbf6c7ec",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026336.html",
+    "word_count": 136
+  },
+  {
+    "abstract": "McGill University Prof Gil Troy letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that counting children of Ivy League alumni solely as legatees does not acknowledge how many are A students",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower?",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower?"
+    },
+    "_id": "nyt://article/ed8836a9-3f9e-5a94-ad7a-baaa999f2fe8",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Ivy League",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "Troy, Gil",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Karabel, Jerome",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "010",
+    "print_section": "4",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "McGill University Prof Gil Troy letter responds to Jerome Karabel Sept 13 Op-Ed article; holds that counting children of Ivy League alumni solely as legatees does not acknowledge how many are A students",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/ed8836a9-3f9e-5a94-ad7a-baaa999f2fe8",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-026328.html",
+    "word_count": 224
+  },
+  {
+    "abstract": "New animated television program ToddWorld focuses on big messages of acceptance, tolerance and diversity; photos; drawings (M)",
+    "byline": {
+      "original": "By Kathryn Shattuck"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "FOR YOUNG VIEWERS; Somewhere, Inside the Rainbow, Blue Boys Fly",
+      "kicker": "FOR YOUNG VIEWERS",
+      "print_headline": "FOR YOUNG VIEWERS; Somewhere, Inside the Rainbow, Blue Boys Fly"
+    },
+    "_id": "nyt://article/c3a3aa21-e919-586a-8d80-bd72c6a860f8",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 1
+      },
+      {
+        "name": "Title",
+        "value": "TODDWORLD (TV PROGRAM)",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Television",
+    "print_page": "002",
+    "print_section": "13",
+    "pub_date": "2004-11-07T05:00:00Z",
+    "section_name": "Arts",
+    "snippet": "New animated television program ToddWorld focuses on big messages of acceptance, tolerance and diversity; photos; drawings (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/c3a3aa21-e919-586a-8d80-bd72c6a860f8",
+    "web_url": "https://www.nytimes.com/2004/11/07/arts/television/for-young-viewers-somewhere-inside-the-rainbow-blue-boys.html",
+    "word_count": 770
+  },
+  {
+    "abstract": "Group of 7 major industrial nations meets in Washington under extraordinary security; four-year-old computer records suggest Al Qaeda might single out World Bank and International Monetary Fund for terrorist action; China is invited to dine with member nations, event seen as first step toward admission and belated acknowledgment of its huge role in world economy; World Bank leader James D Wolfensohn presides over what could be his last annual meeting; his term as president ends in May and he is not expected to be asked to stay on; IMF's new managing director Rodrigo de Rato makes impressive debut with his straight talk (M)",
+    "byline": {
+      "original": "By Elizabeth Becker"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "With Few Protests, Main Action Is Inside for Monetary Fund",
+      "kicker": "",
+      "print_headline": "With Few Protests, Main Action Is Inside for Monetary Fund"
+    },
+    "_id": "nyt://article/a0680a86-3b76-5f91-9567-c83958fe3915",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "China",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Washington (DC)",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "International Monetary Fund",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "World Bank",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "Al Qaeda",
+        "rank": 5
+      },
+      {
+        "name": "Organization",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 6
+      },
+      {
+        "name": "Organization",
+        "value": "Group of Seven",
+        "rank": 7
+      },
+      {
+        "name": "Person",
+        "value": "de Rato, Rodrigo",
+        "rank": 8
+      },
+      {
+        "name": "Person",
+        "value": "Wolfensohn, James D",
+        "rank": 9
+      },
+      {
+        "name": "Subject",
+        "value": "Security and Warning Systems",
+        "rank": 10
+      },
+      {
+        "name": "Subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 11
+      },
+      {
+        "name": "Subject",
+        "value": "Third World and Developing Countries",
+        "rank": 12
+      },
+      {
+        "name": "Subject",
+        "value": "Terrorism",
+        "rank": 13
+      },
+      {
+        "name": "Subject",
+        "value": "Computers and the Internet",
+        "rank": 14
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Foreign Desk",
+    "print_page": "00006",
+    "print_section": "A",
+    "pub_date": "2004-10-04T05:00:00Z",
+    "section_name": "World",
+    "snippet": "Group of 7 major industrial nations meets in Washington under extraordinary security; four-year-old computer records suggest Al Qaeda might single out World Bank and International Monetary Fund for terrorist action; China is invited to dine with member nations, event seen as first step toward admission and belated acknowledgment of its huge role in world economy; World Bank leader James D Wolfensohn presides over what could be his last annual meeting; his term as president ends in May and he is not expected to be asked to stay on; IMF's new managing director Rodrigo de Rato makes impressive debut with his straight talk (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/a0680a86-3b76-5f91-9567-c83958fe3915",
+    "web_url": "https://www.nytimes.com/2004/10/04/politics/with-few-protests-main-action-is-inside-for-monetary-fund.html",
+    "word_count": 740
+  },
+  {
+    "abstract": "To the Editor:.",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Who Gets Inside the Ivory Tower? (6 Letters)",
+      "kicker": "",
+      "print_headline": "Who Gets Inside the Ivory Tower? (6 Letters)"
+    },
+    "_id": "nyt://article/e1551127-91df-54c7-aecb-d5d5b0d502ac",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Ivy League",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "Harvard University",
+        "rank": 2
+      },
+      {
+        "name": "Organization",
+        "value": "Yale University",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "Center for Equal Opportunity",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Colleges and Universities",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Opinion",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-09-19T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "To the Editor:.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/e1551127-91df-54c7-aecb-d5d5b0d502ac",
+    "web_url": "https://www.nytimes.com/2004/09/19/opinion/who-gets-inside-the-ivory-tower-6-letters.html",
+    "word_count": 685
+  },
+  {
+    "abstract": "Israel has amended the route of its separation barrier and will bring it closer to the West Bank boundary to comply with an Israeli court order.",
+    "byline": {
+      "original": "By Greg Myre"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Barrier Path Still Inside West Bank, Israel Says",
+      "kicker": "",
+      "print_headline": "Barrier Path Still Inside West Bank, Israel Says"
+    },
+    "_id": "nyt://article/92f12968-0f7c-515e-83e5-a90af9cf5481",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Israel",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Palestinians",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "International / Middle East",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-07-29T05:00:00Z",
+    "section_name": "World",
+    "snippet": "Israel has amended the route of its separation barrier and will bring it closer to the West Bank boundary to comply with an Israeli court order.",
+    "source": "The New York Times",
+    "subsection_name": "Middle East",
+    "type_of_material": "News",
+    "uri": "nyt://article/92f12968-0f7c-515e-83e5-a90af9cf5481",
+    "web_url": "https://www.nytimes.com/2004/07/29/international/middleeast/barrier-path-still-inside-west-bank-israel-says.html",
+    "word_count": 656
+  }
+]

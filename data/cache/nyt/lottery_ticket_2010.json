@@ -1,0 +1,550 @@
+[
+  {
+    "abstract": "With help from Ice Cube and T-Pain, Bow Wow deals with winning a megapot of money.",
+    "byline": {
+      "original": "By Andy Webster"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Bow Wow Hits It Big",
+      "kicker": "Movie Review | 'Lottery Ticket'",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/13055612-d4a6-569c-addb-392544268d31",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Movies",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "White, Erik",
+        "rank": 2
+      },
+      {
+        "name": "Title",
+        "value": "Lottery Ticket (Movie)",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "Ice Cube appears as an aging former boxer in “Lottery Ticket,” directed by Erik White.",
+      "credit": "Warner Brothers Pictures",
+      "default": {
+        "url": "https://static01.nyt.com/images/2010/08/20/arts/ROUNDUP-LOTTERY/ROUNDUP-LOTTERY-articleLarge.jpg",
+        "height": 315,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2010/08/20/arts/ROUNDUP-LOTTERY/ROUNDUP-LOTTERY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Weekend",
+    "print_page": "6",
+    "print_section": "C",
+    "pub_date": "2010-08-20T00:49:58Z",
+    "section_name": "Movies",
+    "snippet": "With help from Ice Cube and T-Pain, Bow Wow deals with winning a megapot of money.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/13055612-d4a6-569c-addb-392544268d31",
+    "web_url": "https://www.nytimes.com/2010/08/20/movies/20lottery.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "As states face budget crises, they look to raise more money for programs financed by lotteries.",
+    "byline": {
+      "original": "By Kim Severson and Robbie Brown"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "States Look for Winning Formulas to Spur Lottery Sales",
+      "kicker": "",
+      "print_headline": "States Look for Winning Formulas to Spur Lottery Sales"
+    },
+    "_id": "nyt://article/ec56dfaf-93dd-5a60-8e4c-0583794ef2a6",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "States (US)",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Budgets and Budgeting",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Lotteries",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Gambling",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Advertising and Marketing",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "Cross-promotional campaigns with local sports teams are among the efforts to sell more lottery tickets.",
+      "credit": "Gretchen Ertl for The New York Times",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2010/12/24/us/Lottery-2/Lottery-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "National",
+    "print_page": "14",
+    "print_section": "A",
+    "pub_date": "2010-12-24T00:17:39Z",
+    "section_name": "U.S.",
+    "snippet": "As states face budget crises, they look to raise more money for programs financed by lotteries.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/ec56dfaf-93dd-5a60-8e4c-0583794ef2a6",
+    "web_url": "https://www.nytimes.com/2010/12/24/us/24lottery.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "As ticket sales have dwindled, New York Lottery officials decided on a new concept: understated elegance.",
+    "byline": {
+      "original": "By Michael M. Grynbaum"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Scratch-Off Hopes Come in a New Aesthetic: Black",
+      "kicker": "",
+      "print_headline": "Scratch-Off Hopes Come in a New Aesthetic: Basic Black"
+    },
+    "_id": "nyt://article/6cc085ce-6a16-569e-9242-3da777c443f5",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Advertising and Marketing",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Lotteries",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "New York City",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "Ads for New York Lottery Black in a subway in Manhattan. Players can win up to $1 million.",
+      "credit": "Julie Glassberg/The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2010/02/15/nyregion/15black_CA0/15black_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2010/02/15/nyregion/15black_CA0/15black_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Metro",
+    "print_page": "16",
+    "print_section": "A",
+    "pub_date": "2010-02-15T02:19:15Z",
+    "section_name": "New York",
+    "snippet": "As ticket sales have dwindled, New York Lottery officials decided on a new concept: understated elegance.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/6cc085ce-6a16-569e-9242-3da777c443f5",
+    "web_url": "https://www.nytimes.com/2010/02/15/nyregion/15black.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "The snoopy in-law, the office lottery pool, the overly attentive customer and the act of God (and Mother Nature).",
+    "byline": {
+      "original": "By Philip Galanes"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Meet the In-Law",
+      "kicker": "Social Q’s",
+      "print_headline": "Meet the In-Law"
+    },
+    "_id": "nyt://article/30192ada-cbad-5e44-9b98-e014581e0b16",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "Christoph Niemann",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2009/10/25/style/25social-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Styles",
+    "print_page": "10",
+    "print_section": "ST",
+    "pub_date": "2010-09-17T20:15:42Z",
+    "section_name": "Fashion",
+    "snippet": "The snoopy in-law, the office lottery pool, the overly attentive customer and the act of God (and Mother Nature).",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Question",
+    "uri": "nyt://article/30192ada-cbad-5e44-9b98-e014581e0b16",
+    "web_url": "https://www.nytimes.com/2010/09/19/fashion/19Social.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "Still mourning the end of the television show “Lost”? Perhaps owning a prop or costume would help.",
+    "byline": {
+      "original": "By Steven McElroy"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "‘Lost’ Cleans Its Attic",
+      "kicker": "Arts, Briefly",
+      "print_headline": "‘Lost’ Cleans Its Attic"
+    },
+    "_id": "nyt://article/de21c543-9770-5ef6-ab15-15692dfe6d79",
+    "keywords": [
+      {
+        "name": "Organization",
+        "value": "Profiles in History",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Auctions",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Television",
+        "rank": 3
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Culture",
+    "print_page": "2",
+    "print_section": "C",
+    "pub_date": "2010-07-18T21:34:48Z",
+    "section_name": "Arts",
+    "snippet": "Still mourning the end of the television show “Lost”? Perhaps owning a prop or costume would help.",
+    "source": "The New York Times",
+    "subsection_name": "Television",
+    "type_of_material": "Brief",
+    "uri": "nyt://article/de21c543-9770-5ef6-ab15-15692dfe6d79",
+    "web_url": "https://www.nytimes.com/2010/07/19/arts/television/19arts-LOSTCLEANSIT_BRF.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "A look at the tax consequences of lottery, gambling and game show winnings, catching a home run ball and paying a bargain for a treasure at a garage sale.",
+    "byline": {
+      "original": "By Jennifer Saranow Schultz"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "The Tax Consequences of Lucky Breaks",
+      "kicker": "Bucks",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/fda5218e-6c8c-53eb-90d9-2006f4969d39",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2010-08-25T19:33:00Z",
+    "section_name": "Your Money",
+    "snippet": "A look at the tax consequences of lottery, gambling and game show winnings, catching a home run ball and paying a bargain for a treasure at a garage sale.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "",
+    "uri": "nyt://article/fda5218e-6c8c-53eb-90d9-2006f4969d39",
+    "web_url": "https://bucks.blogs.nytimes.com/2010/08/25/the-tax-consequences-of-lucky-breaks/",
+    "word_count": 584
+  },
+  {
+    "abstract": "“The Expendables” with Sylvester Stallone leading an ensemble cast was No. 1 with about $16.5 million, bringing the cumulative total to about $65 million, according to Hollywood.com.",
+    "byline": {
+      "original": "By Brooks Barnes"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "‘The Expendables’ Tops Box Office Again",
+      "kicker": "Arts, Briefly",
+      "print_headline": "‘The Expendables’ Tops Box Office Again"
+    },
+    "_id": "nyt://article/22dc753d-39d0-5632-b916-8aeffb30849d",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Movies",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Culture",
+    "print_page": "3",
+    "print_section": "C",
+    "pub_date": "2010-08-22T22:33:31Z",
+    "section_name": "Movies",
+    "snippet": "“The Expendables” with Sylvester Stallone leading an ensemble cast was No. 1 with about $16.5 million, bringing the cumulative total to about $65 million, according to Hollywood.com.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Brief",
+    "uri": "nyt://article/22dc753d-39d0-5632-b916-8aeffb30849d",
+    "web_url": "https://www.nytimes.com/2010/08/23/movies/23arts-THEEXPENDABL_BRF.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "The heart of stop-and-frisk city, a new burger joint, those vanishing cigarette machines and more.",
+    "byline": {
+      "original": "By The New York Times"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Stopping and Frisking, Again and Again and Again",
+      "kicker": "City Room",
+      "print_headline": ""
+    },
+    "_id": "nyt://article/686ed549-d075-5b3c-9d99-877a0648dbc0",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Metro",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2010-07-12T13:02:50Z",
+    "section_name": "New York",
+    "snippet": "The heart of stop-and-frisk city, a new burger joint, those vanishing cigarette machines and more.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "",
+    "uri": "nyt://article/686ed549-d075-5b3c-9d99-877a0648dbc0",
+    "web_url": "https://cityroom.blogs.nytimes.com/2010/07/12/stopping-and-frisking-again-and-again-and-again/",
+    "word_count": 400
+  },
+  {
+    "abstract": "In 1982, Dr. Francisco Lopera, a Medellín neurologist, was puzzled by a 47-year-old patient who was losing his memory and other cases that followed. Dr. Lopera burned to help. ",
+    "byline": {
+      "original": "By Pam Belluck"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "A Perplexing Case Puts a Doctor on the Trail of ‘Madness’",
+      "kicker": "",
+      "print_headline": "A Perplexing Case Puts a Doctor on the Trail of ‘Madness’"
+    },
+    "_id": "nyt://article/e40fd575-98b3-59e5-925e-9940e966e365",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Dementia",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Brain",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Memory",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Alzheimer's Disease",
+        "rank": 4
+      }
+    ],
+    "multimedia": {
+      "caption": "Though he denies it, Oderis Villegas, center, shows signs of Alzheimer’s disease at 50. A sister, María Elsy, left, has a more advanced case. With them in Yarumal, Colombia, were Dr. Francisco Lopera, second from right, and Dr. Kenneth Kosik.",
+      "credit": "Todd Heisler/The New York Times",
+      "default": {
+        "url": "https://static01.nyt.com/images/2010/06/01/health/lopera1/lopera1-articleLarge.jpg",
+        "height": 330,
+        "width": 600
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Foreign",
+    "print_page": "12",
+    "print_section": "A",
+    "pub_date": "2010-06-02T03:59:44Z",
+    "section_name": "Health",
+    "snippet": "In 1982, Dr. Francisco Lopera, a Medellín neurologist, was puzzled by a 47-year-old patient who was losing his memory and other cases that followed. Dr. Lopera burned to help. ",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/e40fd575-98b3-59e5-925e-9940e966e365",
+    "web_url": "https://www.nytimes.com/2010/06/02/health/02lopera.html",
+    "word_count": 0
+  },
+  {
+    "abstract": "Politicians in Albany continue to explore ways to dip into the pockets of the self-destructive, especially poorer people, to address budget woes.",
+    "byline": {
+      "original": "By Clyde Haberman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Taxes for Your Health. Yeah, Sure.",
+      "kicker": "NYC",
+      "print_headline": "Taxes for Your Health. Yeah, Sure."
+    },
+    "_id": "nyt://article/be369b68-791b-5a0f-be23-d2e3e3f494ae",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Smoking and Tobacco",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Soft Drinks",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3
+      },
+      {
+        "name": "Location",
+        "value": "New York City",
+        "rank": 4
+      },
+      {
+        "name": "Location",
+        "value": "New York State",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Taxation",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Politics and Government",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Lotteries",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "Nathaniel Brooks for The New York Times",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "https://static01.nyt.com/images/2010/06/22/us/NYC/NYC-thumbStandard.jpg",
+        "height": 75,
+        "width": 75
+      }
+    },
+    "news_desk": "Metro",
+    "print_page": "20",
+    "print_section": "A",
+    "pub_date": "2010-06-22T01:25:36Z",
+    "section_name": "New York",
+    "snippet": "Politicians in Albany continue to explore ways to dip into the pockets of the self-destructive, especially poorer people, to address budget woes.",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/be369b68-791b-5a0f-be23-d2e3e3f494ae",
+    "web_url": "https://www.nytimes.com/2010/06/22/nyregion/22nyc.html",
+    "word_count": 0
+  }
+]

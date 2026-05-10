@@ -1,0 +1,610 @@
+[
+  {
+    "abstract": "Spanish Spur wins John's Call Stakes (S)",
+    "byline": {
+      "original": "By Jason Diamos"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "SPORTS BRIEFING: HORSE RACING; Spanish Spur Wins at Saratoga",
+      "kicker": "SPORTS BRIEFING: HORSE RACING",
+      "print_headline": "SPORTS BRIEFING: HORSE RACING; Spanish Spur Wins at Saratoga"
+    },
+    "_id": "nyt://article/18528d1f-d861-51aa-84f5-c8898f39d315",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Horse Racing",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "JOHN'S CALL STAKES",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Sports Desk",
+    "print_page": "00010",
+    "print_section": "D",
+    "pub_date": "2004-08-17T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "Spanish Spur wins John's Call Stakes (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/18528d1f-d861-51aa-84f5-c8898f39d315",
+    "web_url": "https://www.nytimes.com/2004/08/17/sports/sports-briefing-horse-racing-spanish-spur-wins-at-saratoga.html",
+    "word_count": 140
+  },
+  {
+    "abstract": "International Olympic Committee decided in May that transsexuals may compete openly in Games; none are expected to compete in upcoming Summer Games in Athens, but decision raises difficult questions about nature of sports achievement; opponents of transsexual inclusion say allowing small number of athletes to take large doses of hormones threatens to undermine international effort to rid sports of performance-enhancing drugs; photo (M)",
+    "byline": {
+      "original": "By David Tuller"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Sexuality, Drugs And The Ideal Of Sport",
+      "kicker": "",
+      "print_headline": "Sexuality, Drugs And The Ideal Of Sport"
+    },
+    "_id": "nyt://article/8346343c-9279-5eed-bdf4-4a7a869fa0b0",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Athens (Greece)",
+        "rank": 1
+      },
+      {
+        "name": "Organization",
+        "value": "International Olympic Committee",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Hormones",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Steroids",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Transsexuals",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Olympic Games",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Olympic Games (2004)",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 8
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Week in Review Desk",
+    "print_page": "004",
+    "print_section": "4",
+    "pub_date": "2004-08-01T05:00:00Z",
+    "section_name": "Week in Review",
+    "snippet": "International Olympic Committee decided in May that transsexuals may compete openly in Games; none are expected to compete in upcoming Summer Games in Athens, but decision raises difficult questions about nature of sports achievement; opponents of transsexual inclusion say allowing small number of athletes to take large doses of hormones threatens to undermine international effort to rid sports of performance-enhancing drugs; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/8346343c-9279-5eed-bdf4-4a7a869fa0b0",
+    "web_url": "https://www.nytimes.com/2004/08/01/weekinreview/sexuality-drugs-and-the-ideal-of-sport.html",
+    "word_count": 554
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": "By Roger Cohen"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Globalist : U.S. 'greatest' rhetoric alienates many abroad",
+      "kicker": "",
+      "print_headline": "Globalist : U.S. 'greatest' rhetoric alienates many abroad"
+    },
+    "_id": "nyt://article/d1b2d26c-f738-5835-8337-edf94302b3fa",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-09-15T05:00:00Z",
+    "section_name": "World",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/d1b2d26c-f738-5835-8337-edf94302b3fa",
+    "web_url": "https://www.nytimes.com/2004/09/15/news/globalist-us-greatest-rhetoric-alienates-many-abroad.html",
+    "word_count": 1007
+  },
+  {
+    "abstract": "Edward Rothstein reviews book The Five Books of Moses: A Translation With Commentary by Robert Alter; photo (M)",
+    "byline": {
+      "original": "By Edward Rothstein"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Translator Takes the Word at Its Word",
+      "kicker": "BOOKS OF THE TIMES",
+      "print_headline": "BOOKS OF THE TIMES; Translator Takes the Word at Its Word"
+    },
+    "_id": "nyt://article/fadfbf5a-4663-5a2a-b3a6-911ff94907d6",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Alter, Robert",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Bible",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "RELIGION AND CHURCHES",
+        "rank": 5
+      },
+      {
+        "name": "Title",
+        "value": "FIVE BOOKS OF MOSES, THE: A TRANSLATION WITH COMMENTARY (BOOK)",
+        "rank": 6
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "The Arts/Cultural Desk",
+    "print_page": "00016",
+    "print_section": "E",
+    "pub_date": "2004-12-29T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Edward Rothstein reviews book The Five Books of Moses: A Translation With Commentary by Robert Alter; photo (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/fadfbf5a-4663-5a2a-b3a6-911ff94907d6",
+    "web_url": "https://www.nytimes.com/2004/12/29/books/translator-takes-the-word-at-its-word.html",
+    "word_count": 1440
+  },
+  {
+    "abstract": "Judith Shulevitz reviews book The Five Books of Moses: A Translation With Commentary by Robert Alter; drawing (M)",
+    "byline": {
+      "original": "By Judith Shulevitz"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "'The Five Books of Moses': From God's Mouth to English",
+      "kicker": "",
+      "print_headline": "From God's Mouth to English"
+    },
+    "_id": "nyt://article/230c7553-5d4c-5183-b14e-38e789dde1b0",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Alter, Robert",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Bible",
+        "rank": 2
+      },
+      {
+        "name": "Subject",
+        "value": "JEWS",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Reviews",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Books and Literature",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "RELIGION AND CHURCHES",
+        "rank": 6
+      },
+      {
+        "name": "Title",
+        "value": "FIVE BOOKS OF MOSES, THE: A TRANSLATION WITH COMMENTARY (BOOK)",
+        "rank": 7
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Book Review Desk",
+    "print_page": "008",
+    "print_section": "7",
+    "pub_date": "2004-10-17T05:00:00Z",
+    "section_name": "Books",
+    "snippet": "Judith Shulevitz reviews book The Five Books of Moses: A Translation With Commentary by Robert Alter; drawing (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Review",
+    "uri": "nyt://article/230c7553-5d4c-5183-b14e-38e789dde1b0",
+    "web_url": "https://www.nytimes.com/2004/10/17/books/review/the-five-books-of-moses-from-gods-mouth-to-english.html",
+    "word_count": 2118
+  },
+  {
+    "abstract": "Rituals article on spotting bald eagles at Mason Neck National Wildlife Refuge in Fairfax County, Va; photos; maps (M)",
+    "byline": {
+      "original": "By Joe Roman"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Along the Potomac, Bald Eagles Soar Once More",
+      "kicker": "RITUALS",
+      "print_headline": "RITUALS; Along the Potomac, Bald Eagles Soar Once More"
+    },
+    "_id": "nyt://article/b3293760-aceb-5408-91fb-ba1f6daf9522",
+    "keywords": [
+      {
+        "name": "Location",
+        "value": "Virginia",
+        "rank": 1
+      },
+      {
+        "name": "Location",
+        "value": "Fairfax County (Va)",
+        "rank": 2
+      },
+      {
+        "name": "Location",
+        "value": "MASON NECK NATIONAL WILDLIFE REFUGE (VA)",
+        "rank": 3
+      },
+      {
+        "name": "Organization",
+        "value": "Environmental Protection Agency",
+        "rank": 4
+      },
+      {
+        "name": "Organization",
+        "value": "Fish and Wildlife Service",
+        "rank": 5
+      },
+      {
+        "name": "Subject",
+        "value": "Bald Eagles",
+        "rank": 6
+      },
+      {
+        "name": "Subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 7
+      },
+      {
+        "name": "Subject",
+        "value": "Birds",
+        "rank": 8
+      },
+      {
+        "name": "Subject",
+        "value": "Travel and Vacations",
+        "rank": 9
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Escapes",
+    "print_page": "00001",
+    "print_section": "F",
+    "pub_date": "2004-11-19T05:00:00Z",
+    "section_name": "Travel",
+    "snippet": "Rituals article on spotting bald eagles at Mason Neck National Wildlife Refuge in Fairfax County, Va; photos; maps (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/b3293760-aceb-5408-91fb-ba1f6daf9522",
+    "web_url": "https://www.nytimes.com/2004/11/19/travel/escapes/along-the-potomac-bald-eagles-soar-once-more.html",
+    "word_count": 1422
+  },
+  {
+    "abstract": "Marc Isenberg BackTalk column discusses NCAA's approval of plan to punish athletic programs whose athletes do not succeed academically; contends that plan does not really educate athletes (M)",
+    "byline": {
+      "original": "By Marc Isenberg"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "BackTalk; Plan Creates Loopholes, Not Educated Athletes",
+      "kicker": "",
+      "print_headline": "BackTalk; Plan Creates Loopholes, Not Educated Athletes"
+    },
+    "_id": "nyt://article/344bce57-3b0d-5bc6-9e8f-4a50ec05a938",
+    "keywords": [
+      {
+        "name": "Subject",
+        "value": "Athletics and Sports",
+        "rank": 1
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Sports Desk",
+    "print_page": "011",
+    "print_section": "8",
+    "pub_date": "2004-05-02T05:00:00Z",
+    "section_name": "Sports",
+    "snippet": "Marc Isenberg BackTalk column discusses NCAA's approval of plan to punish athletic programs whose athletes do not succeed academically; contends that plan does not really educate athletes (M)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/344bce57-3b0d-5bc6-9e8f-4a50ec05a938",
+    "web_url": "https://www.nytimes.com/2004/05/02/sports/backtalk-plan-creates-loopholes-not-educated-athletes.html",
+    "word_count": 842
+  },
+  {
+    "abstract": "Allan Ashley letter says Sen John McCain has rare opportunity to alter history by accepting role as Sen John Kerry's running-mate",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "McCain's Rare Chance",
+      "kicker": "",
+      "print_headline": "McCain's Rare Chance"
+    },
+    "_id": "nyt://article/d59cf940-9456-5717-80ec-2ab2b0baad96",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "ASHLEY, ALLAN",
+        "rank": 1
+      },
+      {
+        "name": "Person",
+        "value": "MCCAIN, JOHN S",
+        "rank": 2
+      },
+      {
+        "name": "Person",
+        "value": "Kerry, John",
+        "rank": 3
+      },
+      {
+        "name": "Subject",
+        "value": "Vice Presidents and Vice Presidency (US)",
+        "rank": 4
+      },
+      {
+        "name": "Subject",
+        "value": "Presidential Election of 2004",
+        "rank": 5
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Editorial Desk",
+    "print_page": "00022",
+    "print_section": "A",
+    "pub_date": "2004-05-18T05:00:00Z",
+    "section_name": "Opinion",
+    "snippet": "Allan Ashley letter says Sen John McCain has rare opportunity to alter history by accepting role as Sen John Kerry's running-mate",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/d59cf940-9456-5717-80ec-2ab2b0baad96",
+    "web_url": "https://www.nytimes.com/2004/05/18/opinion/l-mccain-s-rare-chance-629200.html",
+    "word_count": 68
+  },
+  {
+    "abstract": "Karl Fleming letter on August 3 article about addiction holds that 12-step programs are key in stopping any addiction (S)",
+    "byline": {
+      "original": ""
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Confronting Addiction",
+      "kicker": "",
+      "print_headline": "Confronting Addiction"
+    },
+    "_id": "nyt://article/0a06bb15-061f-5993-a5d5-c8430736f68f",
+    "keywords": [
+      {
+        "name": "Person",
+        "value": "Fleming, Karl",
+        "rank": 1
+      },
+      {
+        "name": "Subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 2
+      }
+    ],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "Science Desk",
+    "print_page": "00004",
+    "print_section": "F",
+    "pub_date": "2004-08-10T05:00:00Z",
+    "section_name": "Science",
+    "snippet": "Karl Fleming letter on August 3 article about addiction holds that 12-step programs are key in stopping any addiction (S)",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "Letter",
+    "uri": "nyt://article/0a06bb15-061f-5993-a5d5-c8430736f68f",
+    "web_url": "https://www.nytimes.com/2004/08/10/science/l-confronting-addiction-583391.html",
+    "word_count": 187
+  },
+  {
+    "abstract": "",
+    "byline": {
+      "original": "By Andrew Pollack"
+    },
+    "document_type": "article",
+    "headline": {
+      "main": "Drift of altered grass sharpens gene debate",
+      "kicker": "",
+      "print_headline": "Drift of altered grass sharpens gene debate"
+    },
+    "_id": "nyt://article/45297346-26d3-5343-8b67-97c240c0c77e",
+    "keywords": [],
+    "multimedia": {
+      "caption": "",
+      "credit": "",
+      "default": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      },
+      "thumbnail": {
+        "url": "",
+        "height": 0,
+        "width": 0
+      }
+    },
+    "news_desk": "None",
+    "print_page": "",
+    "print_section": "",
+    "pub_date": "2004-09-22T05:00:00Z",
+    "section_name": "World",
+    "snippet": "",
+    "source": "The New York Times",
+    "subsection_name": "",
+    "type_of_material": "News",
+    "uri": "nyt://article/45297346-26d3-5343-8b67-97c240c0c77e",
+    "web_url": "https://www.nytimes.com/2004/09/22/news/drift-of-altered-grass-sharpens-gene-debate.html",
+    "word_count": 879
+  }
+]

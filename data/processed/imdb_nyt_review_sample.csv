@@ -1,0 +1,7 @@
+tconst,primaryTitle,startYear,genres,has_nyt_coverage,has_nyt_movie_review,nyt_review_count,nyt_headline,nyt_publication_date,nyt_section,nyt_material_type,nyt_url
+tt5998744,S Storm,2016.0,"Crime, Action, Thriller",True,False,0,,,,,
+tt0979434,Lottery Ticket,2010.0,Comedy,True,True,1,Bow Wow Hits It Big,2010-08-20,Movies,Review,https://www.nytimes.com/2010/08/20/movies/20lottery.html
+tt4916630,Just Mercy,2019.0,"Drama, Crime, History",True,True,2,‘Just Mercy’ Review: Echoes of Jim Crow on Alabama’s Death Row,2019-12-24,Movies,Review,https://www.nytimes.com/2019/12/24/movies/just-mercy-review.html
+tt7390646,Black and Blue,2019.0,"Action, Crime, Drama, Thriller",True,True,1,‘Black and Blue’ Review: A Cop Thriller for Our Age of Dread,2019-10-24,Movies,Review,https://www.nytimes.com/2019/10/24/movies/black-and-blue-review.html
+tt10701074,Ponniyin Selvan: Part I,2022.0,"Action, Adventure",False,False,0,,,,,
+tt11076480,A Witness Out of the Blue,2019.0,"Crime, Thriller, Mystery",True,False,0,,,,,
