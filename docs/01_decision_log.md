@@ -57,9 +57,3 @@ Because sequels are being excluded from the prediction target, opening weekend g
 ### 5. Domestic Films Only
 
 I will restrict the dataset to domestic U.S. films only. International films may follow substantially different market dynamics, release strategies, audience behaviors, and distribution patterns. Including them could introduce additional noise and reduce the effectiveness of the model.
-
----
-
-### 6. Kaggle dataset as Box Office filter
-
-The Kaggle box office dataset is used only as a theatrical-release candidate filter. I could've filter the film from IMDB .tsv file by scraping The Number for box office information, but I would take too long. The Kaggle dataset is not treated as the authoritative source for final box office variables. Final opening weekend box office fields are collected separately from The Numbers after filering.

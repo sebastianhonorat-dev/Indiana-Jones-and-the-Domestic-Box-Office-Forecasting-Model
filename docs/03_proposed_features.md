@@ -58,6 +58,3 @@
 ### 3. Relative Market Positioning Features
 
 - Budget relative to nearby competing releases, franchise saturation within the release window, and similarity density among neighboring films.
-
-### 4. Plot Description Sentiment and Sentiment Entropy
-
