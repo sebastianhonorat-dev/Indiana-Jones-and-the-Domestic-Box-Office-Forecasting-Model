@@ -69,3 +69,54 @@ The Kaggle box office dataset is used only as a theatrical-release candidate fil
 Theater count acts as a powerful industry-level aggregation signal, encoding distributor expectations about demand. Models including theater count achieve substantially higher predictive performance, suggesting that distribution scale itself functions as an implicit market forecast. 
 
 My goal is to answer `“How much can we predict from movie characteristics alone?”`, not `“How well can we predict after studios already reveal confidence?”`
+
+### 8. Create separate environment `rr_embed` for embedding/NLP tasks
+
+Created a dedicated Conda environment named `rr_embed` specifically for embedding generation and NLP-related workflows using PyTorch and `sentence-transformers`.
+
+
+* The main modeling environment (`rr`) began experiencing dependency/runtime conflicts when installing and importing PyTorch.
+* Errors included:
+
+  * `shm.dll` loading failures
+  * Jupyter kernel crashes
+  * OpenMP runtime conflicts:
+
+    * `libomp.dll`
+    * `libiomp5md.dll`
+
+Observed error:
+
+```text
+OMP: Error #15: Initializing libomp.dll, but found libiomp5md.dll already initialized.
+```
+
+Cause:
+
+* Multiple machine learning/scientific libraries inside the same environment were linking different OpenMP runtimes simultaneously.
+* This is common on Windows when combining:
+
+  * PyTorch
+  * XGBoost
+  * MKL/Numpy/Scipy stacks
+  * Intel OpenMP libraries
+
+
+
+Environment responsibilities:
+
+`rr`
+
+* Tabular modeling
+* XGBoost
+* Feature engineering
+* Experimentation
+* Evaluation
+
+`rr_embed`
+
+* PyTorch
+* sentence-transformers
+* Embedding generation
+* NLP preprocessing
+
